@@ -1,1096 +1,1021 @@
-//LOL GET FUCKED BOI
-var _0x6392 = ["", "html", "#left", "lastTimePress", "getTime", "floor", "setTime", "paperio_topscore", "get", "paper2", "paper2_results", "win", "time", "0", "newBest", "best", "score", "kills", "set", "empty", "#game_over", "fadeIn", "delay", "hide", ".main2", "appendTo", "<div class=\"gameover\"></div>", "<div class=\"go_sc\">YOUR SCORE:</div>", "<div class=\"da_sc\">", "toFixed", "%</div>", "<div class=\"go_bs\"><span>NEW </span>BEST SCORE:</div>", "<div class=\"go_bs\">BEST SCORE:</div>", "<div class=\"da_bs\">", "<div class=\"go_pt\">TIME PLAYED:</div>", "<div class=\"da_pt\">", ":", "</div>", "<div class=\"go_pk\">PLAYERS KILLED:</div>", "<div class=\"da_pk\">", "show", ".animiescontainer", "random", "val", "#nickname", "paperio7.com_", "onclick", "puanKaydet(\'", "\',\'", "\')", "attr", ".saveScore", ".playAgain", ".changeMode", ".play", ".loader", "disabled", "addClass", ".mode", ".noConnectBtn", ".noConnectText", "host", "location", "paperio7.com", "undefined", "server error!", ".main", "start", "setTimeout", "zoom", "style", "body", "addWidth", "clientWidth", "obstaclesOn", "#right", "#bottom", "#share", "#links", "#cpmstar_anchor", "zIndex", "left", "0px", "right", "display", "none", "each", "div", "keyup", "keyCode", ":visible", "is", "click", "trigger", ".playButon", "on", "reload", "blocks", "width", "#paperio", "height", "css", "#paperio #outer_grid", "#paperio #grid", "ready", "resize", ".grow", "devicePixelRatio", "normal", "ffa", "speed", "jet", ".selectedServer", "game_speed", "use strict", "function", "symbol", "iterator", "constructor", "prototype", "Cannot call a class as a function", "length", "enumerable", "configurable", "value", "writable", "key", "defineProperty", "Super expression must either be null or a function", "create", "setPrototypeOf", "getPrototypeOf", "__proto__", "this hasn\'t been initialised - super() hasn\'t been called", "object", "isArray", "done", "next", "push", "return", "Invalid attempt to destructure non-iterable instance", "[object Arguments]", "call", "toString", "from", "Invalid attempt to spread non-iterable instance", "pow", "abs", "min", "max", "bind", "now", "PI", "cos", "sin", "h", "s", "v", "round", "concat", "forEach", "#", "cell", "segments", "x", "y", "commit", "indexOf", "space", "remove", "splice", "add", "sub", "mul", "mulScalar", "magnitude", "sqrt", "normalize", "clone", "copy", "distance", "distance2", "dot", "rotate", "angle", "atan2", "invert", "equal", "points", "center", "size", "w", "ceil", "cells", "count", "getCell", "checkPoint", "find", "segmentsCount", "id", "intersections", "end", "mark", "intersect", "shape", "calc", "vector", "a", "b", "c", "reverse", "zn", "sign", "has", "owner", "updateBounds", "insert", "findIndex", "hasPoint", "some", "findSegment", "apply", "unsplice", "map", "sort", "inside", "rawSquare", "square", "calcPath", "moveTo", "lineTo", "closePath", "path", "bounds", "innerWidth", "innerHeight", "radius", "polygon", "overlay", "filter", "text", "color", "unit", "position", "velocity", "duration", "fading", "update", "draw", "fillStyle", "font", "px Nunito", "bold ", "textAlign", "textBaseline", "middle", "fillText", "acceleration", "scale", "vscale", "rotation", "save", "translate", "fill", "restore", "up", "down", "modifiers", "mouse", "lastMouse", "buttons", "keyboardModeSwitch", "preventDefault", "contextmenu", "addEventListener", "onKeyChange", "keydown", "onMouseChange", "pageX", "pageY", "mouseenter", "mousemove", "mouseleave", "mousedown", "mouseup", "changedTouches", "clientX", "clientY", "touchstart", "touchmove", "touchend", "touchcancel", "dispose", "removeEventListener", "pressed", "target", "switch", "shift", "shiftKey", "ctrl", "ctrlKey", "alt", "altKey", "meta", "metaKey", "button", "trackWidth", "polyline", "lineWidth", "strokeStyle", "stroke", "arc", "image", "naturalWidth", "naturalHeight", "avatar", "skin", "baseHeight", "level", "direction", "billboard", "pivot", "drawImage", "merges", "calcSquare", "handleIntersect", "handleSelfIntersect", "handleEnemyIntersect", "point", "segment", "in", "track", "handleReturn", "assign", "top", "bottom", "isTrack", "kill", "states", "state", "payload", "context", "change", "leave", "enter", "cut", "exit", "game", "border", "base", "exitPoint", "capture", "idle", "unitSpeed", "minDistance", "values", "log", "Сегмент не найден. Баг в грязном хаке!!!", "targets", "returnPoint", "back", "units", "name", "lastSquare", "respawn", "statistics", "movement", "fsm", "minScale", "maxScale", "controller", "skinManager", "nameManager", "maxUnits", "view", "player", "keyboard", "fakeMouse", "labels", "gameOverCallback", "actived", "needSuspendSpawn", "suspendSpawn", "generateParticles", "particles", "stats", "timings", "addPlayer", "addUnit", "getspawnPosition", "baseRadius", "spawnBot", "spawnTimeout", "pool", "baseCount", "request", "spawnPlayer", "startTime", "genKillParticles", "colors", "gameOver", "canvas", "createElement", "2d", "getContext", "pattern", "main", "image/png", "toDataURL", "death", "release", "Kill", "getMovement", "updateStartTime", "mode2", "aiStartTime", "aiEndTime", "Бывает ли такое?", "slice", "%", "+", "spawnStartTime", "spawnEndTime", "updateEndTime", "render", "renderStartTime", "resetTransform", "clearRect", "lineCap", "globalCompositeOperation", "destination-out", "destination-over", "clip", "source-over", "topLayers", "nick", "bottomLayers", "globalAlpha", "#e7fff4", "#88a799", "#2d6998", "addColorStop", "createLinearGradient", "#51d7dd", "#81faff", "fillRect", "lineJoin", "butt", "#ffff00", "#ff8800", "beginPath", "quadraticCurveTo", "#00000011", "% ", "— ", "#00000022", "#00000088", "#58c921", "#fff", "🏆 ", "#ffae13", "☠️ ", "renderEndTime", "fps", "ut", "ait", "st", "rt", "checkSegments", "keys", "pop", "index", "startT", "endT", "startPoint", "endPoint", "black", "http://www.w3.org/2000/svg", "svg", "createElementNS", "onload", "repeat", "createPattern", "createSVGMatrix", "setTransform", "src", "url", "layers", "available", "used", "default", "Запас скинов исчерпан", "requested", "callback", "prepare", "paper2.php", "POST", "names", "ajax", "paper2_keyboard_mode2", "true", "paper3_best", "game_is_over_main", "100%", "absolute", "50%", "transform", "translate(-50%, -50%)", "appendChild", "skins/skins.json", "GET", "skins/", "prepareCounter", "block", "myNick", "mySkin"];
-$('#left')['html']('');
-var gamemode = '';
-window.lastTimePress = new Date();
+//thanks, fredd
+var gamemode, myScore, top_sco_re, my_sco_re, game_timer, game_timer_c, killed_other, killed_total, grid_width, grid_height, game_timer_0, newgame_loaded, game_mode, game_challenge, obstaclesOn, game_speed, mpd, spd;
+
+$("#left").html("");
+
+gamemode = "";
+
+window.lastTimePress = new Date;
 
 function timePressCheck() {
-    let _0x2fcax3 = new Date();
-    let _0x2fcax4 = Math.floor((_0x2fcax3.getTime() - window.lastTimePress.getTime()));
-    return (_0x2fcax4 >= (140 * 100 / game_speed))
+    let t = new Date;
+    let e = Math.floor(t.getTime() - window.lastTimePress.getTime());
+    return e >= 14e3 / game_speed;
 }
 
 function timePressSet() {
-    let _0x2fcax3 = new Date();
-    window.lastTimePress.setTime(_0x2fcax3.getTime())
+    let t = new Date;
+    window.lastTimePress.setTime(t.getTime());
 }
-ts = +Cookies.get('paperio_topscore');
-if (isNaN(ts)) {
-    ts = 0
-};
-var myScore = 0;
-var top_sco_re = ts;
-var my_sco_re = 0;
-var game_timer = 0;
-var game_timer_c = 0;
-var killed_other = 0;
-var killed_total = 0;
-var grid_width = 90;
-var grid_height = 70;
-var game_timer_0 = +new Date();
+
+ts = +Cookies.get("paperio_topscore");
+
+isNaN(ts) && (ts = 0);
+
+myScore = 0;
+
+top_sco_re = ts;
+
+my_sco_re = 0;
+
+game_timer = 0;
+
+game_timer_c = 0;
+
+killed_other = 0;
+
+killed_total = 0;
+
+grid_width = 90;
+
+grid_height = 70;
+
+game_timer_0 = +new Date;
 
 function game_is_over_main() {
-    if (game_mode == 'paper2') {
-        var _0x2fcax11 = window.paper2_results;
+    var t, e, n, i, a;
+    if ("paper2" == game_mode) {
+        t = window.paper2_results;
         window.paper2_results.win;
-        playtime = _0x2fcax11.time / 1000;
+        playtime = t.time / 1e3;
         playtime_m = Math.floor(playtime / 60);
-        if (playtime_m < 10) {
-            playtime_m = '0' + playtime_m
-        };
-        playtime_s = Math.floor(playtime - playtime_m * 60);
-        if (playtime_s < 10) {
-            playtime_s = '0' + playtime_s
-        };
-        new_top = _0x2fcax11.newBest;
-        top_sco_re = _0x2fcax11.best;
-        my_sco_re = _0x2fcax11.score;
-        killed_other = _0x2fcax11.kills
+        playtime_m < 10 && (playtime_m = "0" + playtime_m);
+        playtime_s = Math.floor(playtime - 60 * playtime_m);
+        playtime_s < 10 && (playtime_s = "0" + playtime_s);
+        new_top = t.newBest;
+        top_sco_re = t.best;
+        my_sco_re = t.score;
+        killed_other = t.kills;
     } else {
-        game_timer_2 = +new Date();
-        playtime = Math.floor((game_timer_2 - game_timer) / 1000);
+        game_timer_2 = +new Date;
+        playtime = Math.floor((game_timer_2 - game_timer) / 1e3);
         playtime_m = Math.floor(playtime / 60);
-        if (playtime_m < 10) {
-            playtime_m = '0' + playtime_m
-        };
-        playtime_s = Math.floor(playtime - playtime_m * 60);
-        if (playtime_s < 10) {
-            playtime_s = '0' + playtime_s
-        };
+        playtime_m < 10 && (playtime_m = "0" + playtime_m);
+        playtime_s = Math.floor(playtime - 60 * playtime_m);
+        playtime_s < 10 && (playtime_s = "0" + playtime_s);
         if (my_sco_re > top_sco_re) {
             top_sco_re = my_sco_re;
-            new_top = true
-        } else {
-            new_top = false
-        };
-        Cookies.set('paperio_topscore', top_sco_re, {
+            new_top = !0;
+        } else new_top = !1;
+        Cookies.set("paperio_topscore", top_sco_re, {
             expires: 30
-        })
-    };
-    $('#game_over')['empty']();
-    $('.main2')['hide']()['delay'](500)['fadeIn'](4000);
-    $('<div class="gameover"></div>')['appendTo']('#game_over');
-    $('<div class="go_sc">YOUR SCORE:</div>')['appendTo']('#game_over')['hide']()['delay'](1000)['fadeIn'](1000);
-    $('<div class="da_sc">' + my_sco_re.toFixed(2) + '%</div>')['appendTo']('#game_over')['hide']()['delay'](1000)['fadeIn'](1000);
-    if (new_top) {
-        $('<div class="go_bs"><span>NEW </span>BEST SCORE:</div>')['appendTo']('#game_over')['hide']()['delay'](1500)['fadeIn'](1000)
-    } else {
-        $('<div class="go_bs">BEST SCORE:</div>')['appendTo']('#game_over')['hide']()['delay'](1500)['fadeIn'](1000)
-    };
-    $('<div class="da_bs">' + top_sco_re.toFixed(2) + '%</div>')['appendTo']('#game_over')['hide']()['delay'](1500)['fadeIn'](1000);
-    $('<div class="go_pt">TIME PLAYED:</div>')['appendTo']('#game_over')['hide']()['delay'](2000)['fadeIn'](1000);
-    $('<div class="da_pt">' + playtime_m + ':' + playtime_s + '</div>')['appendTo']('#game_over')['hide']()['delay'](2000)['fadeIn'](1000);
-    $('<div class="go_pk">PLAYERS KILLED:</div>')['appendTo']('#game_over')['hide']()['delay'](2500)['fadeIn'](1000);
-    $('<div class="da_pk">' + killed_other + '</div>')['appendTo']('#game_over')['hide']()['delay'](2500)['fadeIn'](1000);
-    $('#game_over')['show']();
-    $('.animiescontainer')['show']();
-    var _0x2fcax12 = killed_other;
-    if (_0x2fcax12 == 0) {
-        _0x2fcax12 = 1
-    };
+        });
+    }
+    $("#game_over").empty();
+    $(".main2").hide().delay(500).fadeIn(4e3);
+    $('<div class="gameover"></div>').appendTo("#game_over");
+    $('<div class="go_sc">YOUR SCORE:</div>').appendTo("#game_over").hide().delay(1e3).fadeIn(1e3);
+    $('<div class="da_sc">' + my_sco_re.toFixed(2) + "%</div>").appendTo("#game_over").hide().delay(1e3).fadeIn(1e3);
+    new_top ? $('<div class="go_bs"><span>NEW </span>BEST SCORE:</div>').appendTo("#game_over").hide().delay(1500).fadeIn(1e3) : $('<div class="go_bs">BEST SCORE:</div>').appendTo("#game_over").hide().delay(1500).fadeIn(1e3);
+    $('<div class="da_bs">' + top_sco_re.toFixed(2) + "%</div>").appendTo("#game_over").hide().delay(1500).fadeIn(1e3);
+    $('<div class="go_pt">TIME PLAYED:</div>').appendTo("#game_over").hide().delay(2e3).fadeIn(1e3);
+    $('<div class="da_pt">' + playtime_m + ":" + playtime_s + "</div>").appendTo("#game_over").hide().delay(2e3).fadeIn(1e3);
+    $('<div class="go_pk">PLAYERS KILLED:</div>').appendTo("#game_over").hide().delay(2500).fadeIn(1e3);
+    $('<div class="da_pk">' + killed_other + "</div>").appendTo("#game_over").hide().delay(2500).fadeIn(1e3);
+    $("#game_over").show();
+    $(".animiescontainer").show();
+    e = killed_other;
+    0 == e && (e = 1);
     myScore = my_sco_re;
-    var _0x2fcax13 = Math.floor(Math.random() * (500 - 1) + 1);
-    var _0x2fcax14 = myScore.toFixed(2) * _0x2fcax12 * (15000 / playtime.toFixed(0));
-    var _0x2fcax15 = $('#nickname')['val']();
-    if (_0x2fcax15 == '') {
-        _0x2fcax15 = 'paperio7.com_' + _0x2fcax13
-    };
-    $('.saveScore')['attr']('onclick', 'puanKaydet(\x27' + _0x2fcax15 + '\x27,\x27' + _0x2fcax14.toFixed(2) + '\x27,\x27' + playtime_m + ':' + playtime_s + '\x27,\x27' + killed_other + '\x27,\x27' + myScore.toFixed(2) + '\x27)');
-    $('.saveScore')['hide']()['delay'](3000)['fadeIn'](1000);
-    $('.playAgain')['hide']()['delay'](3000)['fadeIn'](1000);
-    $('.changeMode')['hide']()['delay'](3000)['fadeIn'](1000);
+    n = Math.floor(499 * Math.random() + 1);
+    i = myScore.toFixed(2) * e * (15e3 / playtime.toFixed(0));
+    a = $("#nickname").val();
+    "" == a && (a = "paperio7.com_" + n);
+    $(".saveScore").attr("onclick", "puanKaydet('" + a + "','" + i.toFixed(2) + "','" + playtime_m + ":" + playtime_s + "','" + killed_other + "','" + myScore.toFixed(2) + "')");
+    $(".saveScore").hide().delay(3e3).fadeIn(1e3);
+    $(".playAgain").hide().delay(3e3).fadeIn(1e3);
+    $(".changeMode").hide().delay(3e3).fadeIn(1e3);
     geberikos();
 }
-var newgame_loaded = null;
+
+newgame_loaded = null;
 
 function showLoad() {
-    $('.play')['hide']();
-    $('.loader')['show']();
-    $('.mode')['addClass']('disabled');
-    setTimeout(showResetUI, 10 * 1000)
+    $(".play").hide();
+    $(".loader").show();
+    $(".mode").addClass("disabled");
+    setTimeout(showResetUI, 1e4);
 }
 
 function showResetUI() {
-    $('.noConnectBtn')['show']();
-    $('.noConnectText')['show']()
+    $(".noConnectBtn").show();
+    $(".noConnectText").show();
 }
 
-function game_start(_0x2fcax1a) {
-    $('.animiescontainer')['hide']();
-    if (newgame_loaded === false) {
-        return
-    };
-    newgame_loaded = true;
-    modesReady = true;
-    if (typeof afg_do !== 'undefined') {
-        afg_do()
-    } else {
-        game_starter()
+function game_start(t) {
+    $(".animiescontainer").hide();
+    if (!1 !== newgame_loaded) {
+        newgame_loaded = !0;
+        modesReady = !0;
+        "undefined" != typeof afg_do ? afg_do() : game_starter();
     }
 }
 
-function game_starter(_0x2fcax1c = false) {
-    if (game_mode == 'paper2') {
-        if (window.paper2) {
-            $('.main')['hide']();
-            $('.main2')['hide']();
-            $('#game_over')['hide']();
-            window.paper2.start()
-        } else {
-            window.setTimeout(game_starter, 100)
-        };
-        return
-    };
-    if (!newgame_loaded || !modesReady) {
-        window.setTimeout(game_starter, 100);
-        return
-    };
-    newgame_loaded = null;
-    var _0x2fcax1d = parseFloat(document.body.style.zoom);
-    window.addWidth = document.body.clientWidth * 0.5 * _0x2fcax1d - document.body.clientWidth * 0.5;;;
-    if (window.obstaclesOn === true) {
-        obstaclesMake()
-    };
-    grid_scale = 1;
-    prev_scale = 1;
-    $('#left')['hide']();
-    $('#right')['hide']();
-    $('#bottom')['hide']();
-    $('#share')['hide']();
-    $('#links')['hide']();
-    $('#cpmstar_anchor')['hide']();
-    $('div')['each'](function(_0x2fcax1e) {
-        if ((this.style.zIndex == 100) && ((this.style.left == '0px') || (this.style.right == '0px'))) {
-            this.style.display = 'none'
-        }
-    });
-    pause = false;
-    game_timer = +new Date();
-    game_timer_c = 0;
-    killed_other = 0;
-    killed_total = 0
+function game_starter(t = !1) {
+    if ("paper2" != game_mode)
+        if (newgame_loaded && modesReady) {
+            newgame_loaded = null;
+            var e = parseFloat(document.body.style.zoom);
+            window.addWidth = .5 * document.body.clientWidth * e - .5 * document.body.clientWidth;
+            !0 === window.obstaclesOn && obstaclesMake();
+            grid_scale = 1;
+            prev_scale = 1;
+            $("#left").hide();
+            $("#right").hide();
+            $("#bottom").hide();
+            $("#share").hide();
+            $("#links").hide();
+            $("#cpmstar_anchor").hide();
+            $("div").each((function(t) {
+                100 != this.style.zIndex || "0px" != this.style.left && "0px" != this.style.right || (this.style.display = "none");
+            }));
+            pause = !1;
+            game_timer = +new Date;
+            game_timer_c = 0;
+            killed_other = 0;
+            killed_total = 0;
+        } else window.setTimeout(game_starter, 100);
+    else if (window.paper2) {
+        $(".main").hide();
+        $(".main2").hide();
+        $("#game_over").hide();
+        window.paper2.start();
+    } else window.setTimeout(game_starter, 100);
 }
-$('#nickname')['on']('keyup', function(_0x2fcax1f) {
-    if (_0x2fcax1f.keyCode == 13 && $('.main')['is'](':visible')) {
-        $('.playButon')['trigger']('click')
-    }
-});
+
+$("#nickname").on("keyup", (function(t) {
+    13 == t.keyCode && $(".main").is(":visible") && $(".playButon").trigger("click");
+}));
 
 function resetPage() {
-    location.reload()
+    location.reload();
 }
 
 function screen_sizes() {
-    if (game_mode == 'blocks') {
-        return
-    };
-    $('#paperio #outer_grid')['css']({
-        'width': grid_width * 30 + $('#paperio')['width'](),
-        'height': grid_height * 30 + $('#paperio')['height']()
-    });
-    $('#paperio #grid')['css']({
-        'width': grid_width * 30,
-        'height': grid_height * 30,
-        'left': $(window)['width']() / 2 / document.body.style.zoom,
-        'top': $('#paperio')['height']() / 2
-    })
+    if ("blocks" != game_mode) {
+        $("#paperio #outer_grid").css({
+            width: 30 * grid_width + $("#paperio").width(),
+            height: 30 * grid_height + $("#paperio").height()
+        });
+        $("#paperio #grid").css({
+            width: 30 * grid_width,
+            height: 30 * grid_height,
+            left: $(window).width() / 2 / document.body.style.zoom,
+            top: $("#paperio").height() / 2
+        });
+    }
 }
-$(document)['ready'](function() {});
-$(window)['on']('resize', function() {});
+
+$(document).ready((function() {}));
+
+$(window).on("resize", (function() {}));
 
 function setZoom() {
-    if ($('.grow')['is'](':visible') == false && $('#game_over')['is'](':visible') == false) {
+    if (0 == $(".grow").is(":visible") && 0 == $("#game_over").is(":visible")) {
         document.body.style.zoom = 1 / window.devicePixelRatio;
-        screen_sizes()
-    } else {
-        document.body.style.zoom = 1
-    }
+        screen_sizes();
+    } else document.body.style.zoom = 1;
 }
-if (game_with_modes) {
-    var game_mode = 'normal'
-} else {
-    var game_mode = ''
-};
-var game_challenge = 0;
-var obstaclesOn = false;
-var game_speed = 400;
-var mpd = 0;
-var spd = 100;
 
-function serverSelect(_0x2fcax2a, gamemode) {
-    if (_0x2fcax2a == 'ffa') {
-        spd = 100
-    } else {
-        if (_0x2fcax2a == 'speed') {
-            spd = 150
-        } else {
-            if (_0x2fcax2a == 'jet') {
-                spd = 200
-            } else {
-                spd = 100
-            }
-        }
-    };
-    game_mode = gamemode;
-    $('.selectedServer')['html'](_0x2fcax2a);
+game_mode = game_with_modes ? "normal" : "";
+
+game_challenge = 0;
+
+obstaclesOn = !1;
+
+game_speed = 400;
+
+mpd = 0;
+
+spd = 100;
+
+function serverSelect(t, e) {
+    spd = "ffa" == t ? 100 : "speed" == t ? 150 : "jet" == t ? 200 : 100;
+    game_mode = e;
+    $(".selectedServer").html(t);
     switch (game_mode) {
-        case 'paper2':
-            if (!Path2D) {
-                $('.play')['hide']()
-            }
-    };
-    window.game_speed = game_speed
-}! function() {
-    'use strict';
+        case "paper2":
+            Path2D || $(".play").hide();
+    }
+    window.game_speed = game_speed;
+}
 
-    function _0x2fcax2b(_0x2fcax2c) {
-        return (_0x2fcax2b = 'function' == typeof Symbol && 'symbol' == typeof Symbol.iterator ? function(_0x2fcax2c) {
-            return typeof _0x2fcax2c
-        } : function(_0x2fcax2c) {
-            return _0x2fcax2c && 'function' == typeof Symbol && _0x2fcax2c.constructor === Symbol && _0x2fcax2c !== Symbol.prototype ? 'symbol' : typeof _0x2fcax2c
-        })(_0x2fcax2c)
+! function() {
+    var t, e, n, i, a, s, o, r, c, l, h, u, f, d, m, p, x, y, g, v, _, w, k, b, M, S, T, E, P, q, C, I, O, z, L, j, R, D, B, A, W, F, K, H, N, U, Y, G, J, X, V, Z, Q, tt, et, nt, it, at, st, ot, rt, ct, lt, ht, ut, ft, dt, mt, pt;
+
+    function _0x2fcax2b(t) {
+        return (_0x2fcax2b = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(t) {
+            return typeof t;
+        } : function(t) {
+            return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t;
+        })(t);
     }
 
-    function _0x2fcax2d(_0x2fcax2c, _0x2fcax1f) {
-        if (!(_0x2fcax2c instanceof _0x2fcax1f)) {
-            throw new TypeError('Cannot call a class as a function')
+    function _0x2fcax2d(t, e) {
+        if (!(t instanceof e)) throw new TypeError("Cannot call a class as a function");
+    }
+
+    function _0x2fcax1e(t, e) {
+        var n, i;
+        for (n = 0; n < e.length; n++) {
+            i = e[n];
+            i.enumerable = i.enumerable || !1, i.configurable = !0, "value" in i && (i.writable = !0),
+                Object.defineProperty(t, i.key, i);
         }
     }
 
-    function _0x2fcax1e(_0x2fcax2c, _0x2fcax1f) {
-        for (var _0x2fcax2e = 0; _0x2fcax2e < _0x2fcax1f.length; _0x2fcax2e++) {
-            var _0x2fcax1e = _0x2fcax1f[_0x2fcax2e];
-            _0x2fcax1e.enumerable = _0x2fcax1e.enumerable || !1, _0x2fcax1e.configurable = !0, 'value' in _0x2fcax1e && (_0x2fcax1e.writable = !0), Object.defineProperty(_0x2fcax2c, _0x2fcax1e.key, _0x2fcax1e)
-        }
+    function _0x2fcax2f(t, e, n) {
+        return e && _0x2fcax1e(t.prototype, e), n && _0x2fcax1e(t, n), t;
     }
 
-    function _0x2fcax2f(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-        return _0x2fcax1f && _0x2fcax1e(_0x2fcax2c.prototype, _0x2fcax1f), _0x2fcax2e && _0x2fcax1e(_0x2fcax2c, _0x2fcax2e), _0x2fcax2c
-    }
-
-    function _0x2fcax1f(_0x2fcax2c, _0x2fcax1f) {
-        if ('function' != typeof _0x2fcax1f && null !== _0x2fcax1f) {
-            throw new TypeError('Super expression must either be null or a function')
-        };
-        _0x2fcax2c.prototype = Object.create(_0x2fcax1f && _0x2fcax1f.prototype, {
+    function _0x2fcax1f(t, e) {
+        if ("function" != typeof e && null !== e) throw new TypeError("Super expression must either be null or a function");
+        t.prototype = Object.create(e && e.prototype, {
             constructor: {
-                value: _0x2fcax2c,
+                value: t,
                 writable: !0,
                 configurable: !0
             }
-        }), _0x2fcax1f && _0x2fcax2e(_0x2fcax2c, _0x2fcax1f)
+        }), e && _0x2fcax2e(t, e);
     }
 
-    function _0x2fcax30(_0x2fcax2c) {
-        return (_0x2fcax30 = Object.setPrototypeOf ? Object.getPrototypeOf : function(_0x2fcax2c) {
-            return _0x2fcax2c.__proto__ || Object.getPrototypeOf(_0x2fcax2c)
-        })(_0x2fcax2c)
+    function _0x2fcax30(t) {
+        return (_0x2fcax30 = Object.setPrototypeOf ? Object.getPrototypeOf : function(t) {
+            return t.__proto__ || Object.getPrototypeOf(t);
+        })(t);
     }
 
-    function _0x2fcax2e(_0x2fcax2c, _0x2fcax1f) {
-        return (_0x2fcax2e = Object.setPrototypeOf || function(_0x2fcax2c, _0x2fcax1f) {
-            return _0x2fcax2c.__proto__ = _0x2fcax1f, _0x2fcax2c
-        })(_0x2fcax2c, _0x2fcax1f)
+    function _0x2fcax2e(t, e) {
+        return (_0x2fcax2e = Object.setPrototypeOf || function(t, e) {
+            return t.__proto__ = e, t;
+        })(t, e);
     }
 
-    function _0x2fcax31(_0x2fcax2c) {
-        if (void(0) === _0x2fcax2c) {
-            throw new ReferenceError('this hasn\x27t been initialised - super() hasn\x27t been called')
-        };
-        return _0x2fcax2c
+    function _0x2fcax31(t) {
+        if (void 0 === t) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+        return t;
     }
 
-    function _0x2fcax32(_0x2fcax2c, _0x2fcax1f) {
-        return !_0x2fcax1f || 'object' != typeof _0x2fcax1f && 'function' != typeof _0x2fcax1f ? _0x2fcax31(_0x2fcax2c) : _0x2fcax1f
+    function _0x2fcax32(t, e) {
+        return !e || "object" != typeof e && "function" != typeof e ? _0x2fcax31(t) : e;
     }
 
-    function _0x2fcax33(_0x2fcax2c, _0x2fcax1f) {
-        return function(_0x2fcax2c) {
-            if (Array.isArray(_0x2fcax2c)) {
-                return _0x2fcax2c
-            }
-        }(_0x2fcax2c) || function(_0x2fcax2c, _0x2fcax1f) {
-            var _0x2fcax2e = [],
-                _0x2fcax1e = !0,
-                _0x2fcax34 = !1,
-                _0x2fcax35 = void(0);
+    function _0x2fcax33(t, e) {
+        return function(t) {
+            if (Array.isArray(t)) return t;
+        }(t) || function(t, e) {
+            var n, i, a = [],
+                s = !0,
+                o = !1,
+                r = void 0;
             try {
-                for (var _0x2fcax36, _0x2fcax30 = _0x2fcax2c[Symbol.iterator](); !(_0x2fcax1e = (_0x2fcax36 = _0x2fcax30.next())['done']) && (_0x2fcax2e.push(_0x2fcax36.value), !_0x2fcax1f || _0x2fcax2e.length !== _0x2fcax1f); _0x2fcax1e = !0) {
-                    ;
-                }
-            } catch (_0x2fcax2c) {
-                _0x2fcax34 = !0, _0x2fcax35 = _0x2fcax2c
+                for (i = t[Symbol.iterator](); !(s = (n = i.next()).done) && (a.push(n.value), !e || a.length !== e); s = !0);
+            } catch (t) {
+                o = !0, r = t;
             } finally {
                 try {
-                    _0x2fcax1e || null == _0x2fcax30.return || _0x2fcax30.return()
+                    s || null == i.return || i.return();
                 } finally {
-                    if (_0x2fcax34) {
-                        throw _0x2fcax35
-                    }
+                    if (o) throw r;
                 }
-            };
-            return _0x2fcax2e
-        }(_0x2fcax2c, _0x2fcax1f) || function() {
-            throw new TypeError('Invalid attempt to destructure non-iterable instance')
-        }()
+            }
+            return a;
+        }(t, e) || function() {
+            throw new TypeError("Invalid attempt to destructure non-iterable instance");
+        }();
     }
 
-    function _0x2fcax37(_0x2fcax2c) {
-        return function(_0x2fcax2c) {
-            if (Array.isArray(_0x2fcax2c)) {
-                for (var _0x2fcax1f = 0, _0x2fcax2e = new Array(_0x2fcax2c.length); _0x2fcax1f < _0x2fcax2c.length; _0x2fcax1f++) {
-                    _0x2fcax2e[_0x2fcax1f] = _0x2fcax2c[_0x2fcax1f]
-                };
-                return _0x2fcax2e
+    function _0x2fcax37(t) {
+        return function(t) {
+            if (Array.isArray(t)) {
+                for (var e = 0, n = new Array(t.length); e < t.length; e++) n[e] = t[e];
+                return n;
             }
-        }(_0x2fcax2c) || function(_0x2fcax2c) {
-            if (Symbol.iterator in Object(_0x2fcax2c) || '[object Arguments]' === Object.prototype.toString.call(_0x2fcax2c)) {
-                return Array.from(_0x2fcax2c)
-            }
-        }(_0x2fcax2c) || function() {
-            throw new TypeError('Invalid attempt to spread non-iterable instance')
-        }()
+        }(t) || function(t) {
+            if (Symbol.iterator in Object(t) || "[object Arguments]" === Object.prototype.toString.call(t)) return Array.from(t);
+        }(t) || function() {
+            throw new TypeError("Invalid attempt to spread non-iterable instance");
+        }();
     }
-    var _0x2fcax2c, _0x2fcax38, _0x2fcax34, _0x2fcax35, _0x2fcax39, _0x2fcax3a, _0x2fcax3b, _0x2fcax36, _0x2fcax3c = Math.pow(2, -26),
-        _0x2fcax3d = function(_0x2fcax2c) {
-            return Math.abs(_0x2fcax2c) <= _0x2fcax3c
-        },
-        _0x2fcax3e = function(_0x2fcax2c, _0x2fcax1f) {
-            return Math.abs(_0x2fcax2c - _0x2fcax1f) <= _0x2fcax3c
-        },
-        _0x2fcax3f = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-            return _0x2fcax2c * _0x2fcax1e - _0x2fcax1f * _0x2fcax2e
-        },
-        _0x2fcax40 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-            return Math.min(_0x2fcax2c, _0x2fcax1f) - _0x2fcax3c <= _0x2fcax2e && _0x2fcax2e <= Math.max(_0x2fcax2c, _0x2fcax1f) + _0x2fcax3c
-        },
-        _0x2fcax41 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-            var _0x2fcax34;
-            return _0x2fcax1f < _0x2fcax2c && (_0x2fcax34 = _0x2fcax2c, _0x2fcax2c = _0x2fcax1f, _0x2fcax1f = _0x2fcax34), _0x2fcax1e < _0x2fcax2e && (_0x2fcax34 = _0x2fcax2e, _0x2fcax2e = _0x2fcax1e, _0x2fcax1e = _0x2fcax34), Math.min(_0x2fcax1f, _0x2fcax1e) - Math.max(_0x2fcax2c, _0x2fcax2e)
-        },
-        _0x2fcax42 = performance || Date,
-        _0x2fcax43 = _0x2fcax42.now.bind(_0x2fcax42),
-        _0x2fcax44 = 1,
-        _0x2fcax45 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-            for (var _0x2fcax34 = 2 * Math.PI, _0x2fcax35 = _0x2fcax34 / _0x2fcax2e, _0x2fcax36 = [], _0x2fcax30 = 0; _0x2fcax30 < _0x2fcax34 - _0x2fcax3c; _0x2fcax30 += _0x2fcax35) {
-                _0x2fcax36.push(new _0x2fcax47(_0x2fcax2c + Math.cos(_0x2fcax30) * _0x2fcax1e, _0x2fcax1f + Math.sin(_0x2fcax30) * _0x2fcax1e))
-            };
-            return _0x2fcax36
-        },
-        _0x2fcax46 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-            return '#' ['concat'](function(_0x2fcax2c) {
-                var _0x2fcax2e = '';
-                return _0x2fcax2c.forEach(function(_0x2fcax2c) {
-                    var _0x2fcax1f = _0x2fcax2c.toString(16);
-                    _0x2fcax2e += _0x2fcax1f.length < 2 ? '0' ['concat'](_0x2fcax1f) : _0x2fcax1f
-                }), _0x2fcax2e
-            }(function(_0x2fcax2c) {
-                var _0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34, _0x2fcax35, _0x2fcax36, _0x2fcax30, _0x2fcax31, _0x2fcax2f = _0x2fcax2c.h,
-                    _0x2fcax32 = _0x2fcax2c.s,
-                    _0x2fcax39 = _0x2fcax2c.v;
-                if (_0x2fcax2f = Math.max(0, Math.min(360, _0x2fcax2f)), _0x2fcax32 = Math.max(0, Math.min(100, _0x2fcax32)), _0x2fcax39 = Math.max(0, Math.min(100, _0x2fcax39)), _0x2fcax39 /= 100, 0 == (_0x2fcax32 /= 100)) {
-                    return _0x2fcax1f = _0x2fcax2e = _0x2fcax1e = _0x2fcax39, [Math.round(255 * _0x2fcax1f), Math.round(255 * _0x2fcax2e), Math.round(255 * _0x2fcax1e)]
-                };
-                switch (_0x2fcax36 = _0x2fcax39 * (1 - _0x2fcax32), _0x2fcax30 = _0x2fcax39 * (1 - _0x2fcax32 * (_0x2fcax35 = (_0x2fcax2f /= 60) - (_0x2fcax34 = Math.floor(_0x2fcax2f)))), _0x2fcax31 = _0x2fcax39 * (1 - _0x2fcax32 * (1 - _0x2fcax35)), _0x2fcax34) {
+    c = Math.pow(2, -26), l = function(t) {
+            return Math.abs(t) <= c;
+        }, h = function(t, e) {
+            return Math.abs(t - e) <= c;
+        }, u = function(t, e, n, i) {
+            return t * i - e * n;
+        }, f = function(t, e, n) {
+            return Math.min(t, e) - c <= n && n <= Math.max(t, e) + c;
+        }, d = function(t, e, n, i) {
+            var a;
+            return e < t && (a = t, t = e, e = a), i < n && (a = n, n = i, i = a), Math.min(e, i) - Math.max(t, n);
+        }, m = performance || Date, p = m.now.bind(m), x = 1, y = function(t, e, n, i) {
+            for (var a = 2 * Math.PI, s = a / n, o = [], r = 0; r < a - c; r += s) o.push(new v(t + Math.cos(r) * i, e + Math.sin(r) * i));
+            return o;
+        }, g = function(t, e, n) {
+            return "#".concat(function(t) {
+                var e = "";
+                return t.forEach((function(t) {
+                    var n = t.toString(16);
+                    e += n.length < 2 ? "0".concat(n) : n;
+                })), e;
+            }(function(t) {
+                var e, n, i, a, s, o, r, c, l = t.h,
+                    h = t.s,
+                    u = t.v;
+                if (l = Math.max(0, Math.min(360, l)), h = Math.max(0, Math.min(100, h)), u = Math.max(0, Math.min(100, u)),
+                    u /= 100, 0 == (h /= 100)) return e = n = i = u, [Math.round(255 * e), Math.round(255 * n), Math.round(255 * i)];
+                switch (o = u * (1 - h), r = u * (1 - h * (s = (l /= 60) - (a = Math.floor(l)))),
+                    c = u * (1 - h * (1 - s)), a) {
                     case 0:
-                        _0x2fcax1f = _0x2fcax39, _0x2fcax2e = _0x2fcax31, _0x2fcax1e = _0x2fcax36;
+                        e = u, n = c, i = o;
                         break;
+
                     case 1:
-                        _0x2fcax1f = _0x2fcax30, _0x2fcax2e = _0x2fcax39, _0x2fcax1e = _0x2fcax36;
+                        e = r, n = u, i = o;
                         break;
+
                     case 2:
-                        _0x2fcax1f = _0x2fcax36, _0x2fcax2e = _0x2fcax39, _0x2fcax1e = _0x2fcax31;
+                        e = o, n = u, i = c;
                         break;
+
                     case 3:
-                        _0x2fcax1f = _0x2fcax36, _0x2fcax2e = _0x2fcax30, _0x2fcax1e = _0x2fcax39;
+                        e = o, n = r, i = u;
                         break;
+
                     case 4:
-                        _0x2fcax1f = _0x2fcax31, _0x2fcax2e = _0x2fcax36, _0x2fcax1e = _0x2fcax39;
+                        e = c, n = o, i = u;
                         break;
+
                     default:
-                        _0x2fcax1f = _0x2fcax39, _0x2fcax2e = _0x2fcax36, _0x2fcax1e = _0x2fcax30
-                };
-                return [Math.round(255 * _0x2fcax1f), Math.round(255 * _0x2fcax2e), Math.round(255 * _0x2fcax1e)]
+                        e = u, n = o, i = r;
+                }
+                return [Math.round(255 * e), Math.round(255 * n), Math.round(255 * i)];
             }({
-                h: _0x2fcax2c,
-                s: _0x2fcax1f,
-                v: _0x2fcax2e
-            })))
-        },
-        _0x2fcax47 = function() {
-            function _0x2fcax2e(_0x2fcax2c, _0x2fcax1f) {
-                _0x2fcax2d(this, _0x2fcax2e), this.cell = null, this.segments = [], this.set(_0x2fcax2c, _0x2fcax1f)
+                h: t,
+                s: e,
+                v: n
+            })));
+        }, v = function() {
+            function _0x2fcax2e(t, e) {
+                _0x2fcax2d(this, _0x2fcax2e), this.cell = null, this.segments = [], this.set(t, e);
             }
             return _0x2fcax2f(_0x2fcax2e, [{
-                key: 'set',
-                value: function(_0x2fcax2c, _0x2fcax1f) {
-                    return this.x = _0x2fcax2c || 0, this.y = _0x2fcax1f || (0 === _0x2fcax1f ? 0 : this.x), this
+                key: "set",
+                value: function(t, e) {
+                    return this.x = t || 0, this.y = e || (0 === e ? 0 : this.x), this;
                 }
             }, {
-                key: 'commit',
-                value: function(_0x2fcax2c) {
-                    if (-1 === this.segments.indexOf(_0x2fcax2c) && this.segments.push(_0x2fcax2c), !this.cell) {
-                        var _0x2fcax1f = _0x2fcax2e.space.cell(this);
-                        _0x2fcax1f.commit(this), this.cell = _0x2fcax1f
+                key: "commit",
+                value: function(t) {
+                    if (-1 === this.segments.indexOf(t) && this.segments.push(t), !this.cell) {
+                        var e = _0x2fcax2e.space.cell(this);
+                        e.commit(this), this.cell = e;
                     }
                 }
             }, {
-                key: 'remove',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this.segments.indexOf(_0x2fcax2c);
-                    this.segments.splice(_0x2fcax1f, 1), this.cell && !this.segments.length && this.cell.remove(this)
+                key: "remove",
+                value: function(t) {
+                    var e = this.segments.indexOf(t);
+                    this.segments.splice(e, 1), this.cell && !this.segments.length && this.cell.remove(this);
                 }
             }, {
-                key: 'add',
-                value: function(_0x2fcax2c) {
-                    return this.x += _0x2fcax2c.x, this.y += _0x2fcax2c.y, this
+                key: "add",
+                value: function(t) {
+                    return this.x += t.x, this.y += t.y, this;
                 }
             }, {
-                key: 'sub',
-                value: function(_0x2fcax2c) {
-                    return this.x -= _0x2fcax2c.x, this.y -= _0x2fcax2c.y, this
+                key: "sub",
+                value: function(t) {
+                    return this.x -= t.x, this.y -= t.y, this;
                 }
             }, {
-                key: 'mul',
-                value: function(_0x2fcax2c) {
-                    return this.x *= _0x2fcax2c.x, this.y *= _0x2fcax2c.y, this
+                key: "mul",
+                value: function(t) {
+                    return this.x *= t.x, this.y *= t.y, this;
                 }
             }, {
-                key: 'mulScalar',
-                value: function(_0x2fcax2c) {
-                    return this.x *= _0x2fcax2c, this.y *= _0x2fcax2c, this
+                key: "mulScalar",
+                value: function(t) {
+                    return this.x *= t, this.y *= t, this;
                 }
             }, {
-                key: 'magnitude',
+                key: "magnitude",
                 value: function() {
-                    var _0x2fcax2c = this.x,
-                        _0x2fcax1f = this.y;
-                    return Math.sqrt(_0x2fcax2c * _0x2fcax2c + _0x2fcax1f * _0x2fcax1f)
+                    var t = this.x,
+                        e = this.y;
+                    return Math.sqrt(t * t + e * e);
                 }
             }, {
-                key: 'normalize',
+                key: "normalize",
                 value: function() {
-                    var _0x2fcax2c = this.magnitude();
-                    return _0x2fcax2c && this.mulScalar(1 / _0x2fcax2c), this
+                    var t = this.magnitude();
+                    return t && this.mulScalar(1 / t), this;
                 }
             }, {
-                key: 'clone',
+                key: "clone",
                 value: function() {
-                    return new _0x2fcax2e(this.x, this.y)
+                    return new _0x2fcax2e(this.x, this.y);
                 }
             }, {
-                key: 'copy',
-                value: function(_0x2fcax2c) {
-                    return this.x = _0x2fcax2c.x, this.y = _0x2fcax2c.y, this
+                key: "copy",
+                value: function(t) {
+                    return this.x = t.x, this.y = t.y, this;
                 }
             }, {
-                key: 'distance',
-                value: function(_0x2fcax2c) {
-                    return Math.sqrt(this.distance2(_0x2fcax2c))
+                key: "distance",
+                value: function(t) {
+                    return Math.sqrt(this.distance2(t));
                 }
             }, {
-                key: 'distance2',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this.x - _0x2fcax2c.x,
-                        _0x2fcax2e = this.y - _0x2fcax2c.y;
-                    return _0x2fcax1f * _0x2fcax1f + _0x2fcax2e * _0x2fcax2e
+                key: "distance2",
+                value: function(t) {
+                    var e = this.x - t.x,
+                        n = this.y - t.y;
+                    return e * e + n * n;
                 }
             }, {
-                key: 'dot',
-                value: function(_0x2fcax2c) {
-                    return this.x * _0x2fcax2c.x + this.y * _0x2fcax2c.y
+                key: "dot",
+                value: function(t) {
+                    return this.x * t.x + this.y * t.y;
                 }
             }, {
-                key: 'rotate',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this.x,
-                        _0x2fcax2e = this.y,
-                        _0x2fcax1e = Math.cos(_0x2fcax2c),
-                        _0x2fcax34 = Math.sin(_0x2fcax2c);
-                    return this.x = _0x2fcax1f * _0x2fcax1e - _0x2fcax2e * _0x2fcax34, this.y = _0x2fcax1f * _0x2fcax34 + _0x2fcax2e * _0x2fcax1e, this
+                key: "rotate",
+                value: function(t) {
+                    var e = this.x,
+                        n = this.y,
+                        i = Math.cos(t),
+                        a = Math.sin(t);
+                    return this.x = e * i - n * a, this.y = e * a + n * i, this;
                 }
             }, {
-                key: 'angle',
-                value: function(_0x2fcax2c) {
-                    return Math.atan2(this.x * _0x2fcax2c.y - _0x2fcax2c.x * this.y, this.dot(_0x2fcax2c))
+                key: "angle",
+                value: function(t) {
+                    return Math.atan2(this.x * t.y - t.x * this.y, this.dot(t));
                 }
             }, {
-                key: 'invert',
+                key: "invert",
                 value: function() {
-                    return this.mulScalar(-1)
+                    return this.mulScalar(-1);
                 }
             }, {
-                key: 'equal',
-                value: function(_0x2fcax2c) {
-                    return _0x2fcax3e(this.x, _0x2fcax2c.x) && _0x2fcax3e(this.y, _0x2fcax2c.y)
+                key: "equal",
+                value: function(t) {
+                    return h(this.x, t.x) && h(this.y, t.y);
                 }
-            }]), _0x2fcax2e
-        }(),
-        _0x2fcax48 = function() {
-            function _0x2fcax2e(_0x2fcax2c, _0x2fcax1f) {
-                _0x2fcax2d(this, _0x2fcax2e), this.points = [], this.x = _0x2fcax2c, this.y = _0x2fcax1f
+            }]), _0x2fcax2e;
+        }(), _ = function() {
+            function _0x2fcax2e(t, e) {
+                _0x2fcax2d(this, _0x2fcax2e), this.points = [], this.x = t, this.y = e;
             }
             return _0x2fcax2f(_0x2fcax2e, [{
-                key: 'commit',
-                value: function(_0x2fcax2c) {
-                    this.points.push(_0x2fcax2c)
+                key: "commit",
+                value: function(t) {
+                    this.points.push(t);
                 }
             }, {
-                key: 'remove',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this.points,
-                        _0x2fcax2e = _0x2fcax1f.indexOf(_0x2fcax2c); - 1 !== _0x2fcax2e && _0x2fcax1f.splice(_0x2fcax2e, 1)
+                key: "remove",
+                value: function(t) {
+                    var e = this.points,
+                        n = e.indexOf(t); -
+                    1 !== n && e.splice(n, 1);
                 }
-            }]), _0x2fcax2e
-        }(),
-        _0x2fcax49 = function() {
-            function _0x2fcax35(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                _0x2fcax2d(this, _0x2fcax35), this.width = _0x2fcax2c, this.height = _0x2fcax1f, this.center = new _0x2fcax47(_0x2fcax2c / 2, _0x2fcax1f / 2), this.size = _0x2fcax2e, this.w = Math.ceil(_0x2fcax2c / _0x2fcax2e), this.h = Math.ceil(_0x2fcax1f / _0x2fcax2e), this.cells = [];
-                for (var _0x2fcax1e = 0; _0x2fcax1e < this.h; _0x2fcax1e++) {
-                    for (var _0x2fcax34 = 0; _0x2fcax34 < this.w; _0x2fcax34++) {
-                        this.cells.push(new _0x2fcax48(_0x2fcax34, _0x2fcax1e))
-                    }
-                }
+            }]), _0x2fcax2e;
+        }(), w = function() {
+            function _0x2fcax35(t, e, n) {
+                var i, a;
+                _0x2fcax2d(this, _0x2fcax35), this.width = t, this.height = e, this.center = new v(t / 2, e / 2),
+                    this.size = n, this.w = Math.ceil(t / n), this.h = Math.ceil(e / n), this.cells = [];
+                for (i = 0; i < this.h; i++)
+                    for (a = 0; a < this.w; a++) this.cells.push(new _(a, i));
             }
             return _0x2fcax2f(_0x2fcax35, [{
-                key: 'count',
+                key: "count",
                 value: function() {
-                    var _0x2fcax1f = 0;
-                    return this.cells.forEach(function(_0x2fcax2c) {
-                        _0x2fcax1f += _0x2fcax2c.points.length
-                    }), _0x2fcax1f
+                    var t = 0;
+                    return this.cells.forEach((function(e) {
+                        t += e.points.length;
+                    })), t;
                 }
             }, {
-                key: 'cell',
-                value: function(_0x2fcax2c) {
-                    return this.getCell(Math.floor(_0x2fcax2c.x / this.size), Math.floor(_0x2fcax2c.y / this.size))
+                key: "cell",
+                value: function(t) {
+                    return this.getCell(Math.floor(t.x / this.size), Math.floor(t.y / this.size));
                 }
             }, {
-                key: 'getCell',
-                value: function(_0x2fcax2c, _0x2fcax1f) {
-                    return this.cells[_0x2fcax2c + _0x2fcax1f * this.w]
+                key: "getCell",
+                value: function(t, e) {
+                    return this.cells[t + e * this.w];
                 }
             }, {
-                key: 'checkPoint',
-                value: function(_0x2fcax1f) {
-                    return this.cell(_0x2fcax1f)['points']['find'](function(_0x2fcax2c) {
-                        return _0x2fcax2c.equal(_0x2fcax1f)
-                    }) || _0x2fcax1f
+                key: "checkPoint",
+                value: function(t) {
+                    return this.cell(t).points.find((function(e) {
+                        return e.equal(t);
+                    })) || t;
                 }
             }, {
-                key: 'segmentsCount',
+                key: "segmentsCount",
                 value: function() {
-                    for (var _0x2fcax1f = {}, _0x2fcax2c = 0; _0x2fcax2c < this.h; _0x2fcax2c++) {
-                        for (var _0x2fcax2e = 0; _0x2fcax2e < this.w; _0x2fcax2e++) {
-                            this.getCell(_0x2fcax2e, _0x2fcax2c)['points']['forEach'](function(_0x2fcax2c) {
-                                _0x2fcax2c.segments.forEach(function(_0x2fcax2c) {
-                                    return _0x2fcax1f[_0x2fcax2c.id] = _0x2fcax2c
-                                })
-                            })
-                        }
-                    };
-                    return _0x2fcax1f
+                    var t, e, n;
+                    for (t = {}, e = 0; e < this.h; e++)
+                        for (n = 0; n < this.w; n++) this.getCell(n, e).points.forEach((function(e) {
+                            e.segments.forEach((function(e) {
+                                return t[e.id] = e;
+                            }));
+                        }));
+                    return t;
                 }
             }, {
-                key: 'intersections',
-                value: function(_0x2fcax2e) {
-                    for (var _0x2fcax2c = this.cell(_0x2fcax2e.start), _0x2fcax1f = this.cell(_0x2fcax2e.end), _0x2fcax1e = Math.min(_0x2fcax2c.x, _0x2fcax1f.x), _0x2fcax34 = Math.max(_0x2fcax2c.x, _0x2fcax1f.x), _0x2fcax35 = Math.min(_0x2fcax2c.y, _0x2fcax1f.y), _0x2fcax36 = Math.max(_0x2fcax2c.y, _0x2fcax1f.y), _0x2fcax30 = _0x2fcax44++, _0x2fcax31 = [], _0x2fcax2f = _0x2fcax35; _0x2fcax2f <= _0x2fcax36; _0x2fcax2f++) {
-                        for (var _0x2fcax32 = _0x2fcax1e; _0x2fcax32 <= _0x2fcax34; _0x2fcax32++) {
-                            this.getCell(_0x2fcax32, _0x2fcax2f)['points']['forEach'](function(_0x2fcax2c) {
-                                _0x2fcax2c.segments.forEach(function(_0x2fcax2c) {
-                                    _0x2fcax2c.mark !== _0x2fcax30 && (_0x2fcax31.push(_0x2fcax2c), _0x2fcax2c.mark = _0x2fcax30)
-                                })
-                            })
-                        }
-                    };
-                    var _0x2fcax39 = [];
-                    return _0x2fcax31.forEach(function(_0x2fcax2c) {
-                        var _0x2fcax1f = _0x2fcax2c.intersect(_0x2fcax2e);
-                        _0x2fcax1f && _0x2fcax39.push(_0x2fcax1f)
-                    }), _0x2fcax39
+                key: "intersections",
+                value: function(t) {
+                    var e, n, i, a, s, o, r, c, l, h, u;
+                    for (e = this.cell(t.start), n = this.cell(t.end), i = Math.min(e.x, n.x), a = Math.max(e.x, n.x),
+                        s = Math.min(e.y, n.y), o = Math.max(e.y, n.y), r = x++, c = [], l = s; l <= o; l++)
+                        for (h = i; h <= a; h++) this.getCell(h, l).points.forEach((function(t) {
+                            t.segments.forEach((function(t) {
+                                t.mark !== r && (c.push(t), t.mark = r);
+                            }));
+                        }));
+                    u = [];
+                    return c.forEach((function(e) {
+                        var n = e.intersect(t);
+                        n && u.push(n);
+                    })), u;
                 }
-            }]), _0x2fcax35
-        }(),
-        _0x2fcax4a = function() {
-            function _0x2fcax2e(_0x2fcax2c, _0x2fcax1f) {
-                _0x2fcax2d(this, _0x2fcax2e), _0x2fcax2c.equal(_0x2fcax1f), this.mark = 0, this.shape = null, this.start = _0x2fcax2c, this.end = _0x2fcax1f, this.calc()
+            }]), _0x2fcax35;
+        }(), k = function() {
+            function _0x2fcax2e(t, e) {
+                _0x2fcax2d(this, _0x2fcax2e), t.equal(e), this.mark = 0, this.shape = null, this.start = t,
+                    this.end = e, this.calc();
             }
             return _0x2fcax2f(_0x2fcax2e, [{
-                key: 'calc',
+                key: "calc",
                 value: function() {
-                    var _0x2fcax2c = this.start,
-                        _0x2fcax1f = this.end;
-                    this.vector = _0x2fcax1f.clone()['sub'](_0x2fcax2c);
-                    var _0x2fcax2e = _0x2fcax2c.y - _0x2fcax1f.y,
-                        _0x2fcax1e = _0x2fcax1f.x - _0x2fcax2c.x,
-                        _0x2fcax34 = Math.sqrt(_0x2fcax2e * _0x2fcax2e + _0x2fcax1e * _0x2fcax1e);
-                    _0x2fcax2e /= _0x2fcax34, _0x2fcax1e /= _0x2fcax34, this.a = _0x2fcax2e, this.b = _0x2fcax1e, this.c = -(_0x2fcax2e * _0x2fcax2c.x + _0x2fcax1e * _0x2fcax2c.y)
+                    var t, e, n, i = this.start,
+                        a = this.end;
+                    this.vector = a.clone().sub(i);
+                    t = i.y - a.y, e = a.x - i.x, n = Math.sqrt(t * t + e * e);
+                    t /= n, e /= n, this.a = t, this.b = e, this.c = -(t * i.x + e * i.y);
                 }
             }, {
-                key: 'clone',
+                key: "clone",
                 value: function() {
-                    return new _0x2fcax2e(this.start, this.end)
+                    return new _0x2fcax2e(this.start, this.end);
                 }
             }, {
-                key: 'reverse',
+                key: "reverse",
                 value: function() {
-                    var _0x2fcax2c = this.start;
-                    return this.start = this.end, this.end = _0x2fcax2c, this.calc(), this
+                    var t = this.start;
+                    return this.start = this.end, this.end = t, this.calc(), this;
                 }
             }, {
-                key: 'commit',
-                value: function(_0x2fcax2c) {
-                    return this.shape = _0x2fcax2c, this.start.commit(this), this.end.commit(this), this
+                key: "commit",
+                value: function(t) {
+                    return this.shape = t, this.start.commit(this), this.end.commit(this), this;
                 }
             }, {
-                key: 'remove',
+                key: "remove",
                 value: function() {
-                    this.shape = null, this.start.remove(this), this.end.remove(this)
+                    this.shape = null, this.start.remove(this), this.end.remove(this);
                 }
             }, {
-                key: 'length',
+                key: "length",
                 value: function() {
-                    return this.vector.magnitude()
+                    return this.vector.magnitude();
                 }
             }, {
-                key: 'zn',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = _0x2fcax2c.a,
-                        _0x2fcax2e = _0x2fcax2c.b,
-                        _0x2fcax1e = this.a,
-                        _0x2fcax34 = this.b;
-                    return _0x2fcax3f(_0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34)
+                key: "zn",
+                value: function(t) {
+                    var e = t.a,
+                        n = t.b,
+                        i = this.a,
+                        a = this.b;
+                    return u(e, n, i, a);
                 }
             }, {
-                key: 'intersect',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = _0x2fcax2c.a,
-                        _0x2fcax2e = _0x2fcax2c.b,
-                        _0x2fcax1e = _0x2fcax2c.c,
-                        _0x2fcax34 = _0x2fcax2c.start,
-                        _0x2fcax35 = _0x2fcax2c.end,
-                        _0x2fcax36 = this.a,
-                        _0x2fcax30 = this.b,
-                        _0x2fcax31 = this.c,
-                        _0x2fcax2f = this.start,
-                        _0x2fcax32 = this.end,
-                        _0x2fcax39 = _0x2fcax3f(_0x2fcax1f, _0x2fcax2e, _0x2fcax36, _0x2fcax30);
-                    if (!_0x2fcax3d(_0x2fcax39)) {
-                        var _0x2fcax3a = -_0x2fcax3f(_0x2fcax1e, _0x2fcax2e, _0x2fcax31, _0x2fcax30) / _0x2fcax39,
-                            _0x2fcax42 = -_0x2fcax3f(_0x2fcax1f, _0x2fcax1e, _0x2fcax36, _0x2fcax31) / _0x2fcax39,
-                            _0x2fcax2d = _0x2fcax40(_0x2fcax34.x, _0x2fcax35.x, _0x2fcax3a) && _0x2fcax40(_0x2fcax34.y, _0x2fcax35.y, _0x2fcax42) && _0x2fcax40(_0x2fcax2f.x, _0x2fcax32.x, _0x2fcax3a) && _0x2fcax40(_0x2fcax2f.y, _0x2fcax32.y, _0x2fcax42) && new _0x2fcax47(_0x2fcax3a, _0x2fcax42);
-                        return !!_0x2fcax2d && {
-                            point: _0x2fcax2f.equal(_0x2fcax2d) && _0x2fcax2f || _0x2fcax32.equal(_0x2fcax2d) && _0x2fcax32 || _0x2fcax34.equal(_0x2fcax2d) && _0x2fcax34 || _0x2fcax35.equal(_0x2fcax2d) && _0x2fcax35 || _0x2fcax2d,
+                key: "intersect",
+                value: function(t) {
+                    var e, n, i, a, s, o, r, h = t.a,
+                        m = t.b,
+                        p = t.c,
+                        x = t.start,
+                        y = t.end,
+                        g = this.a,
+                        _ = this.b,
+                        w = this.c,
+                        k = this.start,
+                        b = this.end,
+                        M = u(h, m, g, _);
+                    if (!l(M)) {
+                        e = -u(p, m, w, _) / M, n = -u(h, p, g, w) / M, i = f(x.x, y.x, e) && f(x.y, y.y, n) && f(k.x, b.x, e) && f(k.y, b.y, n) && new v(e, n);
+                        return !!i && {
+                            point: k.equal(i) && k || b.equal(i) && b || x.equal(i) && x || y.equal(i) && y || i,
                             segment: this,
-                            distance: _0x2fcax2d.distance2(_0x2fcax34),
+                            distance: i.distance2(x),
                             overlay: !1,
-                            zn: Math.sign(_0x2fcax39)
-                        }
-                    };
-                    var _0x2fcax44 = _0x2fcax41(_0x2fcax34.x, _0x2fcax35.x, _0x2fcax2f.x, _0x2fcax32.x),
-                        _0x2fcax45 = _0x2fcax41(_0x2fcax34.y, _0x2fcax35.y, _0x2fcax2f.y, _0x2fcax32.y);
-                    if (_0x2fcax3d(_0x2fcax3f(_0x2fcax1f, _0x2fcax1e, _0x2fcax36, _0x2fcax31)) && _0x2fcax3d(_0x2fcax3f(_0x2fcax2e, _0x2fcax1e, _0x2fcax30, _0x2fcax31)) && -_0x2fcax3c <= _0x2fcax44 && -_0x2fcax3c <= _0x2fcax45) {
-                        var _0x2fcax46;
-                        if (_0x2fcax3c <= _0x2fcax44 || _0x2fcax3c <= _0x2fcax45) {
-                            return {
-                                point: _0x2fcax46 = _0x2fcax40(_0x2fcax2f.x, _0x2fcax32.x, _0x2fcax34.x) && _0x2fcax40(_0x2fcax2f.y, _0x2fcax32.y, _0x2fcax34.y) ? _0x2fcax2f.equal(_0x2fcax34) && _0x2fcax2f || _0x2fcax32.equal(_0x2fcax34) && _0x2fcax32 || _0x2fcax34 : _0x2fcax34.distance2(_0x2fcax2f) >= _0x2fcax34.distance2(_0x2fcax32) ? _0x2fcax32 : _0x2fcax2f,
-                                segment: this,
-                                distance: _0x2fcax46.distance2(_0x2fcax34),
-                                overlay: !0,
-                                zn: 0
-                            }
+                            zn: Math.sign(M)
                         };
-                        var _0x2fcax48 = _0x2fcax2f.equal(_0x2fcax34) || _0x2fcax2f.equal(_0x2fcax35) ? _0x2fcax2f : _0x2fcax32;
-                        return {
-                            point: _0x2fcax48,
+                    }
+                    a = d(x.x, y.x, k.x, b.x), s = d(x.y, y.y, k.y, b.y);
+                    if (l(u(h, p, g, w)) && l(u(m, p, _, w)) && -c <= a && -c <= s) {
+                        if (c <= a || c <= s) return {
+                            point: o = f(k.x, b.x, x.x) && f(k.y, b.y, x.y) ? k.equal(x) && k || b.equal(x) && b || x : x.distance2(k) >= x.distance2(b) ? b : k,
                             segment: this,
-                            distance: _0x2fcax48.distance2(_0x2fcax34),
+                            distance: o.distance2(x),
+                            overlay: !0,
+                            zn: 0
+                        };
+                        r = k.equal(x) || k.equal(y) ? k : b;
+                        return {
+                            point: r,
+                            segment: this,
+                            distance: r.distance2(x),
                             overlay: !1,
                             zn: 0
-                        }
-                    };
-                    return !1
+                        };
+                    }
+                    return !1;
                 }
             }, {
-                key: 'has',
-                value: function(_0x2fcax2c) {
-                    return this.start === _0x2fcax2c || this.end === _0x2fcax2c
+                key: "has",
+                value: function(t) {
+                    return this.start === t || this.end === t;
                 }
             }, {
-                key: 'owner',
+                key: "owner",
                 get: function() {}
-            }]), _0x2fcax2e
-        }(),
-        _0x2fcax4b = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-            var _0x2fcax1e = _0x2fcax2c.x - _0x2fcax2e.x,
-                _0x2fcax34 = _0x2fcax2c.y - _0x2fcax2e.y,
-                _0x2fcax35 = _0x2fcax1f.x - _0x2fcax2e.x,
-                _0x2fcax36 = _0x2fcax1f.y - _0x2fcax2e.y;
-            if (0 < _0x2fcax34 * _0x2fcax36) {
-                return 1
-            };
-            var _0x2fcax30 = _0x2fcax1e * _0x2fcax36 - _0x2fcax34 * _0x2fcax35,
-                _0x2fcax31 = _0x2fcax3d(_0x2fcax30) ? 0 : Math.sign(_0x2fcax30);
-            return 0 === _0x2fcax31 ? _0x2fcax1e * _0x2fcax35 <= 0 ? 0 : 1 : _0x2fcax34 < 0 ? -_0x2fcax31 : _0x2fcax36 < 0 ? _0x2fcax31 : 1
-        },
-        _0x2fcax4c = function() {
-            function _0x2fcax1e(_0x2fcax2c) {
+            }]), _0x2fcax2e;
+        }(), b = function(t, e, n) {
+            var i, a, s = t.x - n.x,
+                o = t.y - n.y,
+                r = e.x - n.x,
+                c = e.y - n.y;
+            if (0 < o * c) return 1;
+            i = s * c - o * r, a = l(i) ? 0 : Math.sign(i);
+            return 0 === a ? s * r <= 0 ? 0 : 1 : o < 0 ? -a : c < 0 ? a : 1;
+        }, M = function() {
+            function _0x2fcax1e(t) {
                 _0x2fcax2d(this, _0x2fcax1e), this.segments = [], this.owner = null;
-                for (var _0x2fcax1f = _0x2fcax2c.length, _0x2fcax2e = 0; _0x2fcax2e < _0x2fcax1f;) {
-                    this.segments.push(new _0x2fcax4a(_0x2fcax2c[_0x2fcax2e++], _0x2fcax2c[_0x2fcax2e < _0x2fcax1f ? _0x2fcax2e : 0]))
-                };
-                this.updateBounds()
+                for (var e = t.length, n = 0; n < e;) this.segments.push(new k(t[n++], t[n < e ? n : 0]));
+                this.updateBounds();
             }
             return _0x2fcax2f(_0x2fcax1e, [{
-                key: 'commit',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this;
-                    _0x2fcax2c && (this.owner = _0x2fcax2c), this.segments.forEach(function(_0x2fcax2c) {
-                        return _0x2fcax2c.commit(_0x2fcax1f)
-                    })
+                key: "commit",
+                value: function(t) {
+                    var e = this;
+                    t && (this.owner = t), this.segments.forEach((function(t) {
+                        return t.commit(e);
+                    }));
                 }
             }, {
-                key: 'remove',
+                key: "remove",
                 value: function() {
-                    this.segments.forEach(function(_0x2fcax2c) {
-                        return _0x2fcax2c.remove()
-                    })
+                    this.segments.forEach((function(t) {
+                        return t.remove();
+                    }));
                 }
             }, {
-                key: 'reverse',
+                key: "reverse",
                 value: function() {
-                    return this.segments.reverse(), this.segments.forEach(function(_0x2fcax2c) {
-                        return _0x2fcax2c.reverse()
-                    }), this
+                    return this.segments.reverse(), this.segments.forEach((function(t) {
+                        return t.reverse();
+                    })), this;
                 }
             }, {
-                key: 'insert',
-                value: function(_0x2fcax1f, _0x2fcax2c) {
-                    if (!_0x2fcax1f.has(_0x2fcax2c)) {
-                        var _0x2fcax2e = this.segments.findIndex(function(_0x2fcax2c) {
-                                return _0x2fcax2c === _0x2fcax1f
-                            }),
-                            _0x2fcax1e = new _0x2fcax4a(_0x2fcax1f.start, _0x2fcax2c)['commit'](this),
-                            _0x2fcax34 = new _0x2fcax4a(_0x2fcax2c, _0x2fcax1f.end)['commit'](this);
-                        _0x2fcax1f.remove(), this.segments.splice(_0x2fcax2e, 1, _0x2fcax1e, _0x2fcax34)
+                key: "insert",
+                value: function(t, e) {
+                    if (!t.has(e)) {
+                        var n = this.segments.findIndex((function(e) {
+                                return e === t;
+                            })),
+                            i = new k(t.start, e).commit(this),
+                            a = new k(e, t.end).commit(this);
+                        t.remove(), this.segments.splice(n, 1, i, a);
                     }
                 }
             }, {
-                key: 'hasPoint',
-                value: function(_0x2fcax1f) {
-                    return this.segments.some(function(_0x2fcax2c) {
-                        return _0x2fcax2c.has(_0x2fcax1f)
-                    })
+                key: "hasPoint",
+                value: function(t) {
+                    return this.segments.some((function(e) {
+                        return e.has(t);
+                    }));
                 }
             }, {
-                key: 'findSegment',
-                value: function(_0x2fcax1f) {
-                    return this.segments.findIndex(function(_0x2fcax2c) {
-                        return _0x2fcax2c.start === _0x2fcax1f
-                    })
+                key: "findSegment",
+                value: function(t) {
+                    return this.segments.findIndex((function(e) {
+                        return e.start === t;
+                    }));
                 }
             }, {
-                key: 'splice',
-                value: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                    var _0x2fcax1e;
-                    (_0x2fcax1e = this.segments)['splice']['apply'](_0x2fcax1e, [_0x2fcax1f, _0x2fcax2e - _0x2fcax1f]['concat'](_0x2fcax37(_0x2fcax2c.segments)))['forEach'](function(_0x2fcax2c) {
-                        return _0x2fcax2c.remove()
-                    }), _0x2fcax2c.commit(this)
+                key: "splice",
+                value: function(t, e, n) {
+                    var i;
+                    (i = this.segments).splice.apply(i, [e, n - e].concat(_0x2fcax37(t.segments))).forEach((function(t) {
+                        return t.remove();
+                    })), t.commit(this);
                 }
             }, {
-                key: 'unsplice',
-                value: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                    var _0x2fcax1e = this.segments.splice(_0x2fcax1f, _0x2fcax2e - _0x2fcax1f);
-                    this.remove(), this.segments = _0x2fcax1e.concat(_0x2fcax2c.reverse()['segments']), _0x2fcax2c.commit(this)
+                key: "unsplice",
+                value: function(t, e, n) {
+                    var i = this.segments.splice(e, n - e);
+                    this.remove(), this.segments = i.concat(t.reverse().segments), t.commit(this);
                 }
             }, {
-                key: 'left',
-                value: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                    for (var _0x2fcax1e, _0x2fcax34 = this, _0x2fcax35 = [], _0x2fcax36 = 0; _0x2fcax36 < _0x2fcax2c.length - 1; _0x2fcax36++) {
-                        _0x2fcax35.push(new _0x2fcax4a(_0x2fcax2c[_0x2fcax36], _0x2fcax2c[_0x2fcax36 + 1]))
-                    };
-                    var _0x2fcax30 = (_0x2fcax1e = this.segments)['splice']['apply'](_0x2fcax1e, [_0x2fcax1f, _0x2fcax2e - _0x2fcax1f]['concat'](_0x2fcax35));
-                    _0x2fcax35.forEach(function(_0x2fcax2c) {
-                        return _0x2fcax2c.commit(_0x2fcax34)
-                    }), _0x2fcax30.forEach(function(_0x2fcax2c) {
-                        return _0x2fcax2c.remove()
-                    })
+                key: "left",
+                value: function(t, e, n) {
+                    var i, a, s, o, r;
+                    for (a = this, s = [], o = 0; o < t.length - 1; o++) s.push(new k(t[o], t[o + 1]));
+                    r = (i = this.segments).splice.apply(i, [e, n - e].concat(s));
+                    s.forEach((function(t) {
+                        return t.commit(a);
+                    })), r.forEach((function(t) {
+                        return t.remove();
+                    }));
                 }
             }, {
-                key: 'right',
-                value: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                    for (var _0x2fcax1e = this, _0x2fcax34 = [], _0x2fcax35 = 0; _0x2fcax35 < _0x2fcax2c.length - 1; _0x2fcax35++) {
-                        _0x2fcax34.push(new _0x2fcax4a(_0x2fcax2c[_0x2fcax35], _0x2fcax2c[_0x2fcax35 + 1]))
-                    };
-                    var _0x2fcax36 = this.segments.splice(_0x2fcax1f, _0x2fcax2e - _0x2fcax1f);
-                    this.remove(), _0x2fcax34.reverse()['forEach'](function(_0x2fcax2c) {
-                        return _0x2fcax2c.reverse()['commit'](_0x2fcax1e)
-                    }), this.segments = _0x2fcax36.concat(_0x2fcax34)
+                key: "right",
+                value: function(t, e, n) {
+                    var i, a, s, o;
+                    for (i = this, a = [], s = 0; s < t.length - 1; s++) a.push(new k(t[s], t[s + 1]));
+                    o = this.segments.splice(e, n - e);
+                    this.remove(), a.reverse().forEach((function(t) {
+                        return t.reverse().commit(i);
+                    })), this.segments = o.concat(a);
                 }
             }, {
-                key: 'points',
+                key: "points",
                 value: function() {
-                    return this.segments.map(function(_0x2fcax2c) {
-                        return _0x2fcax2c.start
-                    })
+                    return this.segments.map((function(t) {
+                        return t.start;
+                    }));
                 }
             }, {
-                key: 'intersections',
-                value: function(_0x2fcax2e) {
-                    var _0x2fcax1e = [];
-                    return 1 < this.segments.length && this.segments.forEach(function(_0x2fcax2c) {
-                        var _0x2fcax1f = _0x2fcax2c.intersect(_0x2fcax2e);
-                        _0x2fcax1f && _0x2fcax1e.push(_0x2fcax1f)
-                    }), _0x2fcax1e.sort(function(_0x2fcax2c, _0x2fcax1f) {
-                        return _0x2fcax2c.distance - _0x2fcax1f.distance
-                    }), _0x2fcax1e
+                key: "intersections",
+                value: function(t) {
+                    var e = [];
+                    return 1 < this.segments.length && this.segments.forEach((function(n) {
+                        var i = n.intersect(t);
+                        i && e.push(i);
+                    })), e.sort((function(t, e) {
+                        return t.distance - e.distance;
+                    })), e;
                 }
             }, {
-                key: 'inside',
-                value: function(_0x2fcax2c) {
-                    for (var _0x2fcax1f = this.segments.length, _0x2fcax2e = 1, _0x2fcax1e = 0; _0x2fcax1e < _0x2fcax1f; _0x2fcax1e++) {
-                        var _0x2fcax34 = this.segments[_0x2fcax1e],
-                            _0x2fcax35 = _0x2fcax34.start,
-                            _0x2fcax36 = _0x2fcax34.end,
-                            _0x2fcax30 = _0x2fcax4b(_0x2fcax35, _0x2fcax36, _0x2fcax2c);
-                        if (0 === _0x2fcax30) {
-                            return !0
-                        };
-                        _0x2fcax2e *= _0x2fcax30
-                    };
-                    return 1 !== _0x2fcax2e
-                }
-            }, {
-                key: 'rawSquare',
-                value: function() {
-                    var _0x2fcax1e = 0;
-                    return this.segments.forEach(function(_0x2fcax2c) {
-                        var _0x2fcax1f = _0x2fcax2c.start,
-                            _0x2fcax2e = _0x2fcax2c.end;
-                        _0x2fcax1e += (_0x2fcax1f.x + _0x2fcax2e.x) * (_0x2fcax2e.y - _0x2fcax1f.y)
-                    }), _0x2fcax1e / 2
-                }
-            }, {
-                key: 'square',
-                value: function() {
-                    var _0x2fcax2c = this.rawSquare();
-                    return _0x2fcax2c < 0 && (_0x2fcax2c *= -1), _0x2fcax2c
-                }
-            }, {
-                key: 'calcPath',
-                value: function() {
-                    var _0x2fcax2c = new Path2D,
-                        _0x2fcax1f = this.segments,
-                        _0x2fcax2e = _0x2fcax1f.length,
-                        _0x2fcax1e = _0x2fcax1f[0]['start'];
-                    _0x2fcax2c.moveTo(_0x2fcax1e.x, _0x2fcax1e.y);
-                    for (var _0x2fcax34 = 1; _0x2fcax34 < _0x2fcax2e; _0x2fcax34++) {
-                        var _0x2fcax35 = _0x2fcax1f[_0x2fcax34]['start'];
-                        _0x2fcax2c.lineTo(_0x2fcax35.x, _0x2fcax35.y)
-                    };
-                    _0x2fcax2c.closePath(), this.path = _0x2fcax2c, this.updateBounds()
-                }
-            }, {
-                key: 'updateBounds',
-                value: function() {
-                    var _0x2fcax34 = 1 / 0,
-                        _0x2fcax35 = -1 / 0,
-                        _0x2fcax36 = 1 / 0,
-                        _0x2fcax30 = -1 / 0;
-                    this.segments.forEach(function(_0x2fcax2c) {
-                        var _0x2fcax1f = _0x2fcax2c.start,
-                            _0x2fcax2e = _0x2fcax1f.x,
-                            _0x2fcax1e = _0x2fcax1f.y;
-                        _0x2fcax34 = Math.min(_0x2fcax34, _0x2fcax2e), _0x2fcax35 = Math.max(_0x2fcax35, _0x2fcax2e), _0x2fcax36 = Math.min(_0x2fcax36, _0x2fcax1e), _0x2fcax30 = Math.max(_0x2fcax30, _0x2fcax1e)
-                    }), this.bounds = {
-                        left: _0x2fcax34,
-                        right: _0x2fcax35,
-                        top: _0x2fcax36,
-                        bottom: _0x2fcax30
+                key: "inside",
+                value: function(t) {
+                    var e, n, i, a, s, o, r;
+                    for (e = this.segments.length, n = 1, i = 0; i < e; i++) {
+                        a = this.segments[i], s = a.start, o = a.end, r = b(s, o, t);
+                        if (0 === r) return !0;
+                        n *= r;
                     }
+                    return 1 !== n;
                 }
-            }]), _0x2fcax1e
-        }(),
-        _0x2fcax4d = function() {
-            function _0x2fcax31(_0x2fcax2c, _0x2fcax1f) {
-                if (_0x2fcax2d(this, _0x2fcax31), !_0x2fcax2c) {
-                    var _0x2fcax2e = window.innerWidth / 2,
-                        _0x2fcax1e = window.innerHeight / 2,
-                        _0x2fcax34 = 0.85 * Math.min(_0x2fcax2e, _0x2fcax1e),
-                        _0x2fcax35 = 2 * Math.PI,
-                        _0x2fcax36 = _0x2fcax35 / 200;
-                    _0x2fcax2c = [];
-                    for (var _0x2fcax30 = 0; _0x2fcax30 < _0x2fcax35 - _0x2fcax3c; _0x2fcax30 += _0x2fcax36) {
-                        _0x2fcax2c.push(new _0x2fcax47(_0x2fcax2e + Math.cos(_0x2fcax30) * _0x2fcax34, _0x2fcax1e + Math.sin(_0x2fcax30) * _0x2fcax34))
+            }, {
+                key: "rawSquare",
+                value: function() {
+                    var t = 0;
+                    return this.segments.forEach((function(e) {
+                        var n = e.start,
+                            i = e.end;
+                        t += (n.x + i.x) * (i.y - n.y);
+                    })), t / 2;
+                }
+            }, {
+                key: "square",
+                value: function() {
+                    var t = this.rawSquare();
+                    return t < 0 && (t *= -1), t;
+                }
+            }, {
+                key: "calcPath",
+                value: function() {
+                    var t, e, n = new Path2D,
+                        i = this.segments,
+                        a = i.length,
+                        s = i[0].start;
+                    n.moveTo(s.x, s.y);
+                    for (t = 1; t < a; t++) {
+                        e = i[t].start;
+                        n.lineTo(e.x, e.y);
                     }
-                };
-                this.radius = _0x2fcax1f, this.polygon = new _0x2fcax4c(_0x2fcax2c)
+                    n.closePath(), this.path = n, this.updateBounds();
+                }
+            }, {
+                key: "updateBounds",
+                value: function() {
+                    var t = 1 / 0,
+                        e = -1 / 0,
+                        n = 1 / 0,
+                        i = -1 / 0;
+                    this.segments.forEach((function(a) {
+                        var s = a.start,
+                            o = s.x,
+                            r = s.y;
+                        t = Math.min(t, o), e = Math.max(e, o), n = Math.min(n, r), i = Math.max(i, r);
+                    })), this.bounds = {
+                        left: t,
+                        right: e,
+                        top: n,
+                        bottom: i
+                    };
+                }
+            }]), _0x2fcax1e;
+        }(), S = function() {
+            function _0x2fcax31(t, e) {
+                var n, i, a, s, o, r;
+                if (_0x2fcax2d(this, _0x2fcax31), !t) {
+                    n = window.innerWidth / 2, i = window.innerHeight / 2, a = .85 * Math.min(n, i),
+                        s = 2 * Math.PI, o = s / 200;
+                    t = [];
+                    for (r = 0; r < s - c; r += o) t.push(new v(n + Math.cos(r) * a, i + Math.sin(r) * a));
+                }
+                this.radius = e, this.polygon = new M(t);
             }
             return _0x2fcax2f(_0x2fcax31, [{
-                key: 'intersections',
-                value: function(_0x2fcax2c) {
-                    return this.polygon.intersections(_0x2fcax2c)['filter'](function(_0x2fcax2c) {
-                        return !_0x2fcax2c.overlay
-                    })
+                key: "intersections",
+                value: function(t) {
+                    return this.polygon.intersections(t).filter((function(t) {
+                        return !t.overlay;
+                    }));
                 }
-            }]), _0x2fcax31
-        }(),
-        _0x2fcax4e = function() {
-            function _0x2fcax30(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34, _0x2fcax35, _0x2fcax36) {
-                _0x2fcax2d(this, _0x2fcax30), this.text = _0x2fcax2c, this.color = _0x2fcax1f, this.unit = _0x2fcax2e, this.position = _0x2fcax1e, this.velocity = _0x2fcax34, this.duration = _0x2fcax35, this.time = _0x2fcax35, this.fading = _0x2fcax36
+            }]), _0x2fcax31;
+        }(), T = function() {
+            function _0x2fcax30(t, e, n, i, a, s, o) {
+                _0x2fcax2d(this, _0x2fcax30), this.text = t, this.color = e, this.unit = n, this.position = i,
+                    this.velocity = a, this.duration = s, this.time = s, this.fading = o;
             }
             return _0x2fcax2f(_0x2fcax30, [{
-                key: 'update',
-                value: function(_0x2fcax2c) {
-                    this.time -= _0x2fcax2c, 0 < this.time && this.position.add(this.velocity.clone()['mulScalar'](_0x2fcax2c / 1e3))
+                key: "update",
+                value: function(t) {
+                    this.time -= t, 0 < this.time && this.position.add(this.velocity.clone().mulScalar(t / 1e3));
                 }
             }, {
-                key: 'draw',
-                value: function(_0x2fcax2c, _0x2fcax1f) {
-                    var _0x2fcax2e, _0x2fcax1e = Math.floor(255 * ((_0x2fcax2e = this.time / this.duration) * _0x2fcax2e * _0x2fcax2e * (_0x2fcax2e * (6 * _0x2fcax2e - 15) + 10))).toString(16);
-                    _0x2fcax1e.length < 2 && (_0x2fcax1e = '0' + _0x2fcax1e);
-                    var _0x2fcax34 = this.unit ? this.unit.position.clone()['add'](this.position) : this.position,
-                        _0x2fcax35 = ~~(38 / window.devicePixelRatio);
-                    _0x2fcax2c.fillStyle = '' ['concat'](this.color)['concat'](this.fading ? _0x2fcax1e : ''), _0x2fcax2c.font = 'bold ' ['concat'](_0x2fcax35, 'px Nunito'), _0x2fcax2c.textAlign = 'center', _0x2fcax2c.textBaseline = 'middle', _0x2fcax2c.fillText(this.text, _0x2fcax34.x * _0x2fcax1f, _0x2fcax34.y * _0x2fcax1f)
+                key: "draw",
+                value: function(t, e) {
+                    var n, i, a, s = Math.floor((n = this.time / this.duration) * n * n * (n * (6 * n - 15) + 10) * 255).toString(16);
+                    s.length < 2 && (s = "0" + s);
+                    i = this.unit ? this.unit.position.clone().add(this.position) : this.position, a = ~~(38 / window.devicePixelRatio);
+                    t.fillStyle = "".concat(this.color).concat(this.fading ? s : ""), t.font = "bold ".concat(a, "px Nunito"),
+                        t.textAlign = "center", t.textBaseline = "middle", t.fillText(this.text, i.x * e, i.y * e);
                 }
-            }]), _0x2fcax30
-        }(),
-        _0x2fcax4f = ((_0x2fcax2c = new Path2D)['moveTo'](-1, -1), _0x2fcax2c.lineTo(1, -1), _0x2fcax2c.lineTo(1, 1), _0x2fcax2c.lineTo(-1, 1), _0x2fcax2c.closePath(), _0x2fcax2c),
-        _0x2fcax50 = function() {
-            function _0x2fcax31(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34, _0x2fcax35, _0x2fcax36, _0x2fcax30) {
-                _0x2fcax2d(this, _0x2fcax31), this.color = _0x2fcax2c, this.position = _0x2fcax1f, this.velocity = _0x2fcax2e, this.acceleration = _0x2fcax30, this.rotate = _0x2fcax1e, this.scale = _0x2fcax34, this.vscale = _0x2fcax35, this.rotation = Math.random() * Math.PI * 2, this.time = _0x2fcax36
+            }]), _0x2fcax30;
+        }(), E = ((t = new Path2D).moveTo(-1, -1), t.lineTo(1, -1), t.lineTo(1, 1), t.lineTo(-1, 1),
+            t.closePath(), t), P = function() {
+            function _0x2fcax31(t, e, n, i, a, s, o, r) {
+                _0x2fcax2d(this, _0x2fcax31), this.color = t, this.position = e, this.velocity = n,
+                    this.acceleration = r, this.rotate = i, this.scale = a, this.vscale = s, this.rotation = Math.random() * Math.PI * 2,
+                    this.time = o;
             }
             return _0x2fcax2f(_0x2fcax31, [{
-                key: 'update',
-                value: function(_0x2fcax2c) {
-                    this.time -= _0x2fcax2c;
-                    var _0x2fcax1f = _0x2fcax2c / 1e3;
-                    0 < this.time && (this.acceleration && this.velocity.add(this.acceleration.clone()['mulScalar'](_0x2fcax1f)), this.position.add(this.velocity.clone()['mulScalar'](_0x2fcax1f)), this.rotation += this.rotate * _0x2fcax1f, this.scale += this.vscale * _0x2fcax1f)
+                key: "update",
+                value: function(t) {
+                    this.time -= t;
+                    var e = t / 1e3;
+                    0 < this.time && (this.acceleration && this.velocity.add(this.acceleration.clone().mulScalar(e)),
+                        this.position.add(this.velocity.clone().mulScalar(e)), this.rotation += this.rotate * e,
+                        this.scale += this.vscale * e);
                 }
             }, {
-                key: 'draw',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this.position,
-                        _0x2fcax2e = _0x2fcax1f.x,
-                        _0x2fcax1e = _0x2fcax1f.y,
-                        _0x2fcax34 = this.rotation,
-                        _0x2fcax35 = this.color,
-                        _0x2fcax36 = this.scale;
-                    _0x2fcax2c.save(), _0x2fcax2c.translate(_0x2fcax2e, _0x2fcax1e), _0x2fcax2c.rotate(_0x2fcax34), _0x2fcax2c.scale(_0x2fcax36, _0x2fcax36), _0x2fcax2c.fillStyle = _0x2fcax35, _0x2fcax2c.fill(_0x2fcax4f), _0x2fcax2c.restore()
+                key: "draw",
+                value: function(t) {
+                    var e = this.position,
+                        n = e.x,
+                        i = e.y,
+                        a = this.rotation,
+                        s = this.color,
+                        o = this.scale;
+                    t.save(), t.translate(n, i), t.rotate(a), t.scale(o, o), t.fillStyle = s, t.fill(E),
+                        t.restore();
                 }
-            }]), _0x2fcax31
-        }(),
-        _0x2fcax51 = function() {
-            function _0x2fcax42(_0x2fcax2c, _0x2fcax1f) {
-                var _0x2fcax2e = this;
-                _0x2fcax2d(this, _0x2fcax42), this.up = !1, this.down = !1, this.left = !1, this.right = !1, this.modifiers = {
-                    shift: !1,
-                    ctrl: !1,
-                    alt: !1,
-                    meta: !1
-                }, this.mouse = null, this.lastMouse = null, this.buttons = {
-                    left: !1,
-                    middle: !1,
-                    right: !1
-                }, (this.keyboardModeSwitch = _0x2fcax1f)['get']();
-                var _0x2fcax1e = function(_0x2fcax2c) {
-                    return _0x2fcax2c.preventDefault()
+            }]), _0x2fcax31;
+        }(), q = function() {
+            function _0x2fcax42(t, e) {
+                var n, i, a, s, o, r, c, l, h, u, f = this;
+                _0x2fcax2d(this, _0x2fcax42), this.up = !1, this.down = !1, this.left = !1, this.right = !1,
+                    this.modifiers = {
+                        shift: !1,
+                        ctrl: !1,
+                        alt: !1,
+                        meta: !1
+                    }, this.mouse = null, this.lastMouse = null, this.buttons = {
+                        left: !1,
+                        middle: !1,
+                        right: !1
+                    }, (this.keyboardModeSwitch = e).get();
+                n = function(t) {
+                    return t.preventDefault();
                 };
-                _0x2fcax2c.addEventListener('contextmenu', _0x2fcax1e, !1);
-                var _0x2fcax34 = function(_0x2fcax2c) {
-                        return _0x2fcax2e.onKeyChange(_0x2fcax2c, !0)
-                    },
-                    _0x2fcax35 = function(_0x2fcax2c) {
-                        return _0x2fcax2e.onKeyChange(_0x2fcax2c, !1)
+                t.addEventListener("contextmenu", n, !1);
+                i = function(t) {
+                    return f.onKeyChange(t, !0);
+                }, a = function(t) {
+                    return f.onKeyChange(t, !1);
+                };
+                window.addEventListener("keydown", i, !1), window.addEventListener("keyup", a, !1);
+                s = function(t) {
+                    return f.onMouseChange(t, !0);
+                }, o = function(t) {
+                    return f.onMouseChange(t, !1);
+                }, r = function() {
+                    f.lastMouse = f.mouse, f.mouse = null;
+                }, c = function(t) {
+                    null === f.mouse && (f.mouse = {}), f.mouse.x = t.pageX, f.mouse.y = t.pageY;
+                }, l = function(t) {
+                    c(t);
+                    var e = t.buttons;
+                    f.buttons = {
+                        left: !!(1 & e),
+                        middle: !!(4 & e),
+                        right: !!(2 & e)
                     };
-                window.addEventListener('keydown', _0x2fcax34, !1), window.addEventListener('keyup', _0x2fcax35, !1);
-                var _0x2fcax36 = function(_0x2fcax2c) {
-                        return _0x2fcax2e.onMouseChange(_0x2fcax2c, !0)
-                    },
-                    _0x2fcax30 = function(_0x2fcax2c) {
-                        return _0x2fcax2e.onMouseChange(_0x2fcax2c, !1)
-                    },
-                    _0x2fcax31 = function() {
-                        _0x2fcax2e.lastMouse = _0x2fcax2e.mouse, _0x2fcax2e.mouse = null
-                    },
-                    _0x2fcax2f = function(_0x2fcax2c) {
-                        null === _0x2fcax2e.mouse && (_0x2fcax2e.mouse = {}), _0x2fcax2e.mouse.x = _0x2fcax2c.pageX, _0x2fcax2e.mouse.y = _0x2fcax2c.pageY
-                    },
-                    _0x2fcax32 = function(_0x2fcax2c) {
-                        _0x2fcax2f(_0x2fcax2c);
-                        var _0x2fcax1f = _0x2fcax2c.buttons;
-                        _0x2fcax2e.buttons = {
-                            left: !!(1 & _0x2fcax1f),
-                            middle: !!(4 & _0x2fcax1f),
-                            right: !!(2 & _0x2fcax1f)
-                        }
+                };
+                t.addEventListener("mouseenter", l, !1), t.addEventListener("mousemove", c, !1),
+                    t.addEventListener("mouseleave", r, !1), t.addEventListener("mousedown", s, !1),
+                    t.addEventListener("mouseup", o, !1);
+                h = function() {
+                    f.lastMouse = f.mouse, f.mouse = null;
+                }, u = function(t) {
+                    null === f.mouse && (f.mouse = {});
+                    var e = t.changedTouches[0];
+                    f.mouse.x = e.clientX, f.mouse.y = e.clientY;
+                };
+                t.addEventListener("touchstart", u, !1), t.addEventListener("touchmove", u, !1),
+                    t.addEventListener("touchend", h, !1), t.addEventListener("touchcancel", h, !1),
+                    this.dispose = function() {
+                        t.removeEventListener("contextmenu", n, !1), window.removeEventListener("keydown", i, !1),
+                            window.removeEventListener("keyup", a, !1), t.removeEventListener("mouseenter", l, !1),
+                            t.removeEventListener("mousemove", c, !1), t.removeEventListener("mouseleave", r, !1),
+                            t.removeEventListener("mousedown", s, !1), t.removeEventListener("mouseup", o, !1),
+                            t.removeEventListener("touchstart", touchHandler, !1), t.removeEventListener("touchmove", touchHandler, !1);
                     };
-                _0x2fcax2c.addEventListener('mouseenter', _0x2fcax32, !1), _0x2fcax2c.addEventListener('mousemove', _0x2fcax2f, !1), _0x2fcax2c.addEventListener('mouseleave', _0x2fcax31, !1), _0x2fcax2c.addEventListener('mousedown', _0x2fcax36, !1), _0x2fcax2c.addEventListener('mouseup', _0x2fcax30, !1);
-                var _0x2fcax39 = function() {
-                        _0x2fcax2e.lastMouse = _0x2fcax2e.mouse, _0x2fcax2e.mouse = null
-                    },
-                    _0x2fcax3a = function(_0x2fcax2c) {
-                        null === _0x2fcax2e.mouse && (_0x2fcax2e.mouse = {});
-                        var _0x2fcax1f = _0x2fcax2c.changedTouches[0];
-                        _0x2fcax2e.mouse.x = _0x2fcax1f.clientX, _0x2fcax2e.mouse.y = _0x2fcax1f.clientY
-                    };
-                _0x2fcax2c.addEventListener('touchstart', _0x2fcax3a, !1), _0x2fcax2c.addEventListener('touchmove', _0x2fcax3a, !1), _0x2fcax2c.addEventListener('touchend', _0x2fcax39, !1), _0x2fcax2c.addEventListener('touchcancel', _0x2fcax39, !1), this.dispose = function() {
-                    _0x2fcax2c.removeEventListener('contextmenu', _0x2fcax1e, !1), window.removeEventListener('keydown', _0x2fcax34, !1), window.removeEventListener('keyup', _0x2fcax35, !1), _0x2fcax2c.removeEventListener('mouseenter', _0x2fcax32, !1), _0x2fcax2c.removeEventListener('mousemove', _0x2fcax2f, !1), _0x2fcax2c.removeEventListener('mouseleave', _0x2fcax31, !1), _0x2fcax2c.removeEventListener('mousedown', _0x2fcax36, !1), _0x2fcax2c.removeEventListener('mouseup', _0x2fcax30, !1), _0x2fcax2c.removeEventListener('touchstart', touchHandler, !1), _0x2fcax2c.removeEventListener('touchmove', touchHandler, !1)
-                }
             }
             return _0x2fcax2f(_0x2fcax42, [{
-                key: 'pressed',
+                key: "pressed",
                 value: function() {
-                    return this.up || this.down || this.left || this.right
+                    return this.up || this.down || this.left || this.right;
                 }
             }, {
-                key: 'onKeyChange',
-                value: function(_0x2fcax2c, _0x2fcax1f) {
-                    if (_0x2fcax2c.target === document.body) {
-                        switch (_0x2fcax2c.keyCode) {
+                key: "onKeyChange",
+                value: function(t, e) {
+                    if (t.target === document.body) {
+                        switch (t.keyCode) {
                             case 38:
-                                ;
                             case 87:
-                                this.up = _0x2fcax1f;
+                                this.up = e;
                                 break;
+
                             case 40:
-                                ;
                             case 83:
-                                this.down = _0x2fcax1f;
+                                this.down = e;
                                 break;
+
                             case 37:
-                                ;
                             case 65:
-                                this.left = _0x2fcax1f;
+                                this.left = e;
                                 break;
+
                             case 39:
-                                ;
                             case 68:
-                                this.right = _0x2fcax1f;
+                                this.right = e;
                                 break;
+
                             case 67:
-                                _0x2fcax1f || this.keyboardModeSwitch.switch()
-                        };
-                        this.modifiers.shift = _0x2fcax2c.shiftKey, this.modifiers.ctrl = _0x2fcax2c.ctrlKey, this.modifiers.alt = _0x2fcax2c.altKey, this.modifiers.meta = _0x2fcax2c.metaKey
+                                e || this.keyboardModeSwitch.switch();
+                        }
+                        this.modifiers.shift = t.shiftKey, this.modifiers.ctrl = t.ctrlKey, this.modifiers.alt = t.altKey,
+                            this.modifiers.meta = t.metaKey;
                     }
                 }
             }, {
-                key: 'onMouseChange',
-                value: function(_0x2fcax2c, _0x2fcax1f) {
-                    switch (_0x2fcax2c.button) {
+                key: "onMouseChange",
+                value: function(t, e) {
+                    switch (t.button) {
                         case 0:
-                            this.buttons.left = _0x2fcax1f;
+                            this.buttons.left = e;
                             break;
+
                         case 1:
-                            this.buttons.middle = _0x2fcax1f;
+                            this.buttons.middle = e;
                             break;
+
                         case 2:
-                            this.buttons.right = _0x2fcax1f
+                            this.buttons.right = e;
                     }
                 }
-            }]), _0x2fcax42
-        }(),
-        _0x2fcax52 = {
+            }]), _0x2fcax42;
+        }(), C = {
             baseRadius: 30,
             baseCount: 50,
             minScale: 3,
@@ -1100,470 +1025,428 @@ function serverSelect(_0x2fcax2a, gamemode) {
             spawnTimeout: 3e3,
             prepareCounter: 1e3,
             baseHeight: 2
-        },
-        _0x2fcax53 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-            _0x2fcax2c.fillStyle = _0x2fcax2e, _0x2fcax2c.fill(_0x2fcax1f)
-        },
-        _0x2fcax54 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34) {
-            var _0x2fcax35 = _0x2fcax1f.polygon.path;
-            _0x2fcax2c.fillStyle = _0x2fcax1e, _0x2fcax2c.fill(_0x2fcax35)
-        },
-        _0x2fcax55 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34, _0x2fcax35) {
-            var _0x2fcax36 = _0x2fcax52.trackWidth;
-            _0x2fcax2e.polyline.segments.length && (_0x2fcax2c.lineWidth = _0x2fcax36 + (_0x2fcax34 ? 2 : 0), _0x2fcax2c.strokeStyle = _0x2fcax1f, _0x2fcax2c.stroke(_0x2fcax2e.polyline.path))
-        },
-        _0x2fcax56 = ((_0x2fcax34 = new Path2D)['moveTo'](-24, -24), _0x2fcax34.lineTo(-8, -8), _0x2fcax34.lineTo(0, -24), _0x2fcax34.lineTo(8, -8), _0x2fcax34.lineTo(24, -24), _0x2fcax34.lineTo(16, 8), _0x2fcax34.lineTo(-16, 8), _0x2fcax34.closePath(), _0x2fcax34),
-        _0x2fcax57 = ((_0x2fcax35 = new Path2D)['moveTo'](0, -14), _0x2fcax35.lineTo(10, -12), _0x2fcax35.lineTo(14, -6), _0x2fcax35.lineTo(12, 4), _0x2fcax35.lineTo(8, 6), _0x2fcax35.lineTo(6, 12), _0x2fcax35.lineTo(0, 14), _0x2fcax35.lineTo(-6, 12), _0x2fcax35.lineTo(-8, 6), _0x2fcax35.lineTo(-12, 4), _0x2fcax35.lineTo(-14, -6), _0x2fcax35.lineTo(-10, -12), _0x2fcax35.closePath(), _0x2fcax35.arc(-6, -2, 4, 0, 2 * Math.PI, !0), _0x2fcax35.closePath(), _0x2fcax35.arc(6, -2, 4, 0, 2 * Math.PI, !0), _0x2fcax35.closePath(), _0x2fcax35.moveTo(0, 2), _0x2fcax35.lineTo(-4, 6), _0x2fcax35.lineTo(0, 8), _0x2fcax35.lineTo(4, 6), _0x2fcax35.closePath(), _0x2fcax35),
-        _0x2fcax58 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-            var _0x2fcax1e = _0x2fcax52.trackWidth;
-            if (_0x2fcax2e.image) {
-                var _0x2fcax34 = _0x2fcax2e.image.naturalWidth || _0x2fcax2e.image.width,
-                    _0x2fcax35 = _0x2fcax2e.image.naturalHeight || _0x2fcax2e.image.height,
-                    _0x2fcax36 = _0x2fcax1e * _0x2fcax1f.skin.avatar.scale * _0x2fcax2e.scale / _0x2fcax34;
-                _0x2fcax2c.save(), _0x2fcax2c.translate(_0x2fcax1f.position.x, _0x2fcax1f.position.y - _0x2fcax52.baseHeight * _0x2fcax2e.level), _0x2fcax2c.rotate(_0x2fcax1f.direction + Math.PI / 2), _0x2fcax2c.translate((_0x2fcax1f.skin.avatar.x + _0x2fcax2e.x) * _0x2fcax1e, (_0x2fcax1f.skin.avatar.y + _0x2fcax2e.y) * _0x2fcax1e);
-                var _0x2fcax30 = 0;
-                if ('target' === _0x2fcax2e.direction) {
-                    var _0x2fcax31 = _0x2fcax1f.target.clone()['sub'](_0x2fcax1f.position);
-                    _0x2fcax30 += Math.atan2(_0x2fcax31.y, _0x2fcax31.x) - _0x2fcax1f.direction
-                };
-                'billboard' === _0x2fcax2e.direction && (_0x2fcax30 += -_0x2fcax1f.direction - Math.PI / 2), _0x2fcax2e.rotation && (_0x2fcax30 += 0.0174533 * _0x2fcax2e.rotation), _0x2fcax30 && _0x2fcax2c.rotate(_0x2fcax30), _0x2fcax2c.drawImage(_0x2fcax2e.image, _0x2fcax34 * _0x2fcax36 * -_0x2fcax2e.pivot.x, _0x2fcax35 * _0x2fcax36 * -_0x2fcax2e.pivot.y, _0x2fcax34 * _0x2fcax36, _0x2fcax35 * _0x2fcax36), _0x2fcax2c.restore()
+        }, I = function(t, e, n) {
+            t.fillStyle = n, t.fill(e);
+        }, O = function(t, e, n, i, a) {
+            var s = e.polygon.path;
+            t.fillStyle = i, t.fill(s);
+        }, z = function(t, e, n, i, a, s) {
+            var o = C.trackWidth;
+            n.polyline.segments.length && (t.lineWidth = o + (a ? 2 : 0), t.strokeStyle = e,
+                t.stroke(n.polyline.path));
+        }, L = ((n = new Path2D).moveTo(-24, -24), n.lineTo(-8, -8), n.lineTo(0, -24), n.lineTo(8, -8),
+            n.lineTo(24, -24), n.lineTo(16, 8), n.lineTo(-16, 8), n.closePath(), n), (i = new Path2D).moveTo(0, -14),
+        i.lineTo(10, -12), i.lineTo(14, -6), i.lineTo(12, 4), i.lineTo(8, 6), i.lineTo(6, 12),
+        i.lineTo(0, 14), i.lineTo(-6, 12), i.lineTo(-8, 6), i.lineTo(-12, 4), i.lineTo(-14, -6),
+        i.lineTo(-10, -12), i.closePath(), i.arc(-6, -2, 4, 0, 2 * Math.PI, !0), i.closePath(),
+        i.arc(6, -2, 4, 0, 2 * Math.PI, !0), i.closePath(), i.moveTo(0, 2), i.lineTo(-4, 6),
+        i.lineTo(0, 8), i.lineTo(4, 6), i.closePath(), i, j = function(t, e, n) {
+            var i, a, s, o, r, c = C.trackWidth;
+            if (n.image) {
+                i = n.image.naturalWidth || n.image.width, a = n.image.naturalHeight || n.image.height,
+                    s = c * e.skin.avatar.scale * n.scale / i;
+                t.save(), t.translate(e.position.x, e.position.y - C.baseHeight * n.level), t.rotate(e.direction + Math.PI / 2),
+                    t.translate((e.skin.avatar.x + n.x) * c, (e.skin.avatar.y + n.y) * c);
+                o = 0;
+                if ("target" === n.direction) {
+                    r = e.target.clone().sub(e.position);
+                    o += Math.atan2(r.y, r.x) - e.direction;
+                }
+                "billboard" === n.direction && (o += -e.direction - Math.PI / 2), n.rotation && (o += .0174533 * n.rotation),
+                    o && t.rotate(o), t.drawImage(n.image, i * s * -n.pivot.x, a * s * -n.pivot.y, i * s, a * s),
+                    t.restore();
             }
-        },
-        _0x2fcax59 = function() {
-            function _0x2fcax2e(_0x2fcax2c, _0x2fcax1f) {
-                _0x2fcax2d(this, _0x2fcax2e), this.unit = _0x2fcax2c, this.merges = [], this.polygon = new _0x2fcax4c(_0x2fcax1f), this.polygon.commit(this), this.calcSquare(), this.polygon.calcPath()
+        }, R = function() {
+            function _0x2fcax2e(t, e) {
+                _0x2fcax2d(this, _0x2fcax2e), this.unit = t, this.merges = [], this.polygon = new M(e),
+                    this.polygon.commit(this), this.calcSquare(), this.polygon.calcPath();
             }
             return _0x2fcax2f(_0x2fcax2e, [{
-                key: 'calcPath',
+                key: "calcPath",
                 value: function() {
+                    var t, e, n, i, a;
                     this.path = new Path2D;
-                    var _0x2fcax2c = this.polygon.segments,
-                        _0x2fcax1f = _0x2fcax2c.length,
-                        _0x2fcax2e = _0x2fcax2c[0]['start'];
-                    this.path.moveTo(_0x2fcax2e.x, _0x2fcax2e.y);
-                    for (var _0x2fcax1e = 1; _0x2fcax1e < _0x2fcax1f; _0x2fcax1e++) {
-                        var _0x2fcax34 = _0x2fcax2c[_0x2fcax1e]['start'];
-                        this.path.lineTo(_0x2fcax34.x, _0x2fcax34.y)
-                    };
-                    return this.path.closePath(), this.path
+                    t = this.polygon.segments, e = t.length, n = t[0].start;
+                    this.path.moveTo(n.x, n.y);
+                    for (i = 1; i < e; i++) {
+                        a = t[i].start;
+                        this.path.lineTo(a.x, a.y);
+                    }
+                    return this.path.closePath(), this.path;
                 }
             }, {
-                key: 'calcSquare',
+                key: "calcSquare",
                 value: function() {
-                    this.square = this.polygon.square()
+                    this.square = this.polygon.square();
                 }
             }, {
-                key: 'remove',
+                key: "remove",
                 value: function() {
-                    this.polygon.remove()
+                    this.polygon.remove();
                 }
             }, {
-                key: 'handleIntersect',
-                value: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-                    _0x2fcax1f === this.unit ? this.handleSelfIntersect(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) : this.handleEnemyIntersect(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e)
+                key: "handleIntersect",
+                value: function(t, e, n, i) {
+                    e === this.unit ? this.handleSelfIntersect(t, e, n, i) : this.handleEnemyIntersect(t, e, n, i);
                 }
             }, {
-                key: 'handleSelfIntersect',
-                value: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-                    if (!_0x2fcax2c.overlay) {
-                        var _0x2fcax34 = _0x2fcax2c.point,
-                            _0x2fcax35 = _0x2fcax2c.segment;
-                        if (_0x2fcax1f.in === this) {
-                            if (_0x2fcax2c.zn < 0) {
-                                return
-                            };
-                            if (_0x2fcax34.equal(_0x2fcax2e.end)) {
-                                return
-                            };
-                            this.polygon.insert(_0x2fcax35, _0x2fcax34), _0x2fcax1f.track.polyline.add(_0x2fcax34), _0x2fcax1f.in = null
+                key: "handleSelfIntersect",
+                value: function(t, e, n, i) {
+                    if (!t.overlay) {
+                        var a = t.point,
+                            s = t.segment;
+                        if (e.in === this) {
+                            if (t.zn < 0) return;
+                            if (a.equal(n.end)) return;
+                            this.polygon.insert(s, a), e.track.polyline.add(a), e.in = null;
                         } else {
-                            if (0 < _0x2fcax2c.zn) {
-                                return
-                            };
-                            if (_0x2fcax34.equal(_0x2fcax2e.start)) {
-                                return
-                            };
-                            if (_0x2fcax1f.in) {
-                                return
-                            };
-                            this.polygon.insert(_0x2fcax35, _0x2fcax34), _0x2fcax1f.track.polyline.add(_0x2fcax34), _0x2fcax1f.track.polyline.end && _0x2fcax1e.handleReturn(_0x2fcax1f), _0x2fcax1f.in = this, _0x2fcax1f.track.remove()
+                            if (0 < t.zn) return;
+                            if (a.equal(n.start)) return;
+                            if (e.in) return;
+                            this.polygon.insert(s, a), e.track.polyline.add(a), e.track.polyline.end && i.handleReturn(e),
+                                e.in = this, e.track.remove();
                         }
                     }
                 }
             }, {
-                key: 'handleEnemyIntersect',
-                value: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-                    var _0x2fcax34 = _0x2fcax2c.point,
-                        _0x2fcax35 = _0x2fcax2c.segment;
-                    if (_0x2fcax1f.in === this) {
-                        if (_0x2fcax2c.zn < 0) {
-                            return
-                        };
-                        this.polygon.insert(_0x2fcax35, _0x2fcax34), _0x2fcax1f.track.polyline.add(_0x2fcax34), _0x2fcax1f.track.intersect(_0x2fcax2c, this, !1), _0x2fcax1f.in = null
+                key: "handleEnemyIntersect",
+                value: function(t, e, n, i) {
+                    var a = t.point,
+                        s = t.segment;
+                    if (e.in === this) {
+                        if (t.zn < 0) return;
+                        this.polygon.insert(s, a), e.track.polyline.add(a), e.track.intersect(t, this, !1),
+                            e.in = null;
                     } else {
-                        if (0 < _0x2fcax2c.zn) {
-                            return
-                        };
-                        if (_0x2fcax2c.overlay) {
-                            return
-                        };
-                        if (_0x2fcax34.equal(_0x2fcax2e.end)) {
-                            return
-                        };
-                        if (_0x2fcax1f.in) {
-                            return
-                        };
-                        this.polygon.insert(_0x2fcax35, _0x2fcax34), _0x2fcax1f.track.polyline.add(_0x2fcax34), _0x2fcax1f.track.intersect(_0x2fcax2c, this, !0), _0x2fcax1f.in = this
+                        if (0 < t.zn) return;
+                        if (t.overlay) return;
+                        if (a.equal(n.end)) return;
+                        if (e.in) return;
+                        this.polygon.insert(s, a), e.track.polyline.add(a), e.track.intersect(t, this, !0),
+                            e.in = this;
                     }
                 }
-            }]), _0x2fcax2e
-        }(),
-        _0x2fcax5a = function() {
-            function _0x2fcax1f(_0x2fcax2c) {
-                _0x2fcax2d(this, _0x2fcax1f), this.owner = _0x2fcax2c || null, this.start = null, this.end = null, this.segments = [], this.bounds = {
-                    left: 1 / 0,
-                    right: -1 / 0,
-                    top: 1 / 0,
-                    bottom: -1 / 0
-                }, this.path = new Path2D
+            }]), _0x2fcax2e;
+        }(), D = function() {
+            function _0x2fcax1f(t) {
+                _0x2fcax2d(this, _0x2fcax1f), this.owner = t || null, this.start = null, this.end = null,
+                    this.segments = [], this.bounds = {
+                        left: 1 / 0,
+                        right: -1 / 0,
+                        top: 1 / 0,
+                        bottom: -1 / 0
+                    }, this.path = new Path2D;
             }
             return _0x2fcax2f(_0x2fcax1f, [{
-                key: 'commit',
-                value: function(_0x2fcax1f) {
-                    this.segments.forEach(function(_0x2fcax2c) {
-                        return _0x2fcax2c.commit(_0x2fcax1f)
-                    })
+                key: "commit",
+                value: function(t) {
+                    this.segments.forEach((function(e) {
+                        return e.commit(t);
+                    }));
                 }
             }, {
-                key: 'remove',
+                key: "remove",
                 value: function() {
-                    this.segments.forEach(function(_0x2fcax2c) {
-                        return _0x2fcax2c.remove()
-                    })
+                    this.segments.forEach((function(t) {
+                        return t.remove();
+                    }));
                 }
             }, {
-                key: 'reverse',
+                key: "reverse",
                 value: function() {
-                    if (this.segments.reverse()['forEach'](function(_0x2fcax2c) {
-                            return _0x2fcax2c.reverse()
-                        }), this.end) {
-                        var _0x2fcax2c = this.start;
-                        this.start = this.end, this.end = _0x2fcax2c
-                    };
-                    return this
+                    if (this.segments.reverse().forEach((function(t) {
+                            return t.reverse();
+                        })), this.end) {
+                        var t = this.start;
+                        this.start = this.end, this.end = t;
+                    }
+                    return this;
                 }
             }, {
-                key: 'clone',
+                key: "clone",
                 value: function() {
-                    var _0x2fcax2c = new _0x2fcax1f;
-                    return _0x2fcax2c.segments = this.segments.map(function(_0x2fcax2c) {
-                        return _0x2fcax2c.clone()
-                    }), _0x2fcax2c.start = this.start, _0x2fcax2c.end = this.end, Object.assign(_0x2fcax2c.bounds, this.bounds), _0x2fcax2c
+                    var t = new _0x2fcax1f;
+                    return t.segments = this.segments.map((function(t) {
+                            return t.clone();
+                        })), t.start = this.start, t.end = this.end, Object.assign(t.bounds, this.bounds),
+                        t;
                 }
             }, {
-                key: 'updateBounds',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = _0x2fcax2c.x,
-                        _0x2fcax2e = _0x2fcax2c.y;
-                    this.bounds.left = Math.min(this.bounds.left, _0x2fcax1f), this.bounds.right = Math.max(this.bounds.right, _0x2fcax1f), this.bounds.top = Math.min(this.bounds.top, _0x2fcax2e), this.bounds.bottom = Math.max(this.bounds.bottom, _0x2fcax2e)
+                key: "updateBounds",
+                value: function(t) {
+                    var e = t.x,
+                        n = t.y;
+                    this.bounds.left = Math.min(this.bounds.left, e), this.bounds.right = Math.max(this.bounds.right, e),
+                        this.bounds.top = Math.min(this.bounds.top, n), this.bounds.bottom = Math.max(this.bounds.bottom, n);
                 }
             }, {
-                key: 'add',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this.end || this.start;
-                    if (!_0x2fcax1f || !_0x2fcax1f.equal(_0x2fcax2c)) {
-                        var _0x2fcax2e = _0x2fcax2c.x,
-                            _0x2fcax1e = _0x2fcax2c.y;
-                        if (this.end) {
-                            return this.segments.push(new _0x2fcax4a(this.end, _0x2fcax2c)['commit'](this)), this.end = _0x2fcax2c, this.updateBounds(_0x2fcax2c), void(this.path.lineTo(_0x2fcax2e, _0x2fcax1e))
-                        };
-                        if (this.start) {
-                            return this.segments.push(new _0x2fcax4a(this.start, _0x2fcax2c)['commit'](this)), this.end = _0x2fcax2c, this.updateBounds(_0x2fcax2c), void(this.path.lineTo(_0x2fcax2e, _0x2fcax1e))
-                        };
-                        this.start = _0x2fcax2c, this.updateBounds(_0x2fcax2c), this.path.moveTo(_0x2fcax2e, _0x2fcax1e)
+                key: "add",
+                value: function(t) {
+                    var e, n, i = this.end || this.start;
+                    if (!i || !i.equal(t)) {
+                        e = t.x, n = t.y;
+                        if (this.end) return this.segments.push(new k(this.end, t).commit(this)), this.end = t,
+                            this.updateBounds(t), void this.path.lineTo(e, n);
+                        if (this.start) return this.segments.push(new k(this.start, t).commit(this)), this.end = t,
+                            this.updateBounds(t), void this.path.lineTo(e, n);
+                        this.start = t, this.updateBounds(t), this.path.moveTo(e, n);
                     }
                 }
             }, {
-                key: 'points',
+                key: "points",
                 value: function() {
-                    var _0x2fcax2c = this.segments.map(function(_0x2fcax2c) {
-                        return _0x2fcax2c.start
-                    });
-                    return this.end && _0x2fcax2c.push(this.end), _0x2fcax2c
+                    var t = this.segments.map((function(t) {
+                        return t.start;
+                    }));
+                    return this.end && t.push(this.end), t;
                 }
-            }]), _0x2fcax1f
-        }(),
-        _0x2fcax5b = function() {
-            function _0x2fcax1f(_0x2fcax2c) {
-                _0x2fcax2d(this, _0x2fcax1f), this.polyline = new _0x2fcax5a(this), this.unit = _0x2fcax2c, this.intersections = [], this.isTrack = !0
+            }]), _0x2fcax1f;
+        }(), B = function() {
+            function _0x2fcax1f(t) {
+                _0x2fcax2d(this, _0x2fcax1f), this.polyline = new D(this), this.unit = t, this.intersections = [],
+                    this.isTrack = !0;
             }
             return _0x2fcax2f(_0x2fcax1f, [{
-                key: 'intersect',
-                value: function(_0x2fcax1f, _0x2fcax2c, _0x2fcax2e) {
-                    var _0x2fcax1e = this.intersections.find(function(_0x2fcax2c) {
-                        return _0x2fcax2c.point.equal(_0x2fcax1f.point)
-                    });
-                    _0x2fcax1e ? _0x2fcax1e.intersections.push({
-                        intersection: _0x2fcax1f,
-                        base: _0x2fcax2c,
-                        enter: _0x2fcax2e
+                key: "intersect",
+                value: function(t, e, n) {
+                    var i = this.intersections.find((function(e) {
+                        return e.point.equal(t.point);
+                    }));
+                    i ? i.intersections.push({
+                        intersection: t,
+                        base: e,
+                        enter: n
                     }) : this.intersections.push({
-                        point: _0x2fcax1f.point,
+                        point: t.point,
                         intersections: [{
-                            intersection: _0x2fcax1f,
-                            base: _0x2fcax2c,
-                            enter: _0x2fcax2e
+                            intersection: t,
+                            base: e,
+                            enter: n
                         }]
-                    })
+                    });
                 }
             }, {
-                key: 'remove',
+                key: "remove",
                 value: function() {
-                    this.polyline.remove(), this.polyline = new _0x2fcax5a(this), this.intersections = []
+                    this.polyline.remove(), this.polyline = new D(this), this.intersections = [];
                 }
             }, {
-                key: 'handleIntersect',
-                value: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-                    _0x2fcax1f === this.unit ? !0 !== _0x2fcax2c.overlay && _0x2fcax2c.point === this.polyline.segments[this.polyline.segments.length - 1]['end'] || (this.unit.position = _0x2fcax2c.point, _0x2fcax1e.kill(this.unit)) : _0x2fcax1e.kill(this.unit, _0x2fcax1f)
+                key: "handleIntersect",
+                value: function(t, e, n, i) {
+                    e === this.unit ? !0 !== t.overlay && t.point === this.polyline.segments[this.polyline.segments.length - 1].end || (this.unit.position = t.point,
+                        i.kill(this.unit)) : i.kill(this.unit, e);
                 }
             }, {
-                key: 'owner',
+                key: "owner",
                 get: function() {}
-            }]), _0x2fcax1f
-        }(),
-        _0x2fcax5c = function() {
-            function _0x2fcax1e(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                _0x2fcax2d(this, _0x2fcax1e), this.states = _0x2fcax2c, this.state = '', this.payload = _0x2fcax2e, this.context = {}, this.change(_0x2fcax1f)
+            }]), _0x2fcax1f;
+        }(), A = function() {
+            function _0x2fcax1e(t, e, n) {
+                _0x2fcax2d(this, _0x2fcax1e), this.states = t, this.state = "", this.payload = n,
+                    this.context = {}, this.change(e);
             }
             return _0x2fcax2f(_0x2fcax1e, [{
-                key: 'change',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this.states[this.state];
-                    _0x2fcax1f && _0x2fcax1f.leave && (this.context = _0x2fcax1f.leave(this.payload, this.context) || this.context);
-                    var _0x2fcax2e = this.states[_0x2fcax2c];
-                    _0x2fcax2e && (this.state = _0x2fcax2c, this.context = _0x2fcax2e.enter && _0x2fcax2e.enter(this.payload, this.context) || this.context, this.update())
+                key: "change",
+                value: function(t) {
+                    var e, n = this.states[this.state];
+                    n && n.leave && (this.context = n.leave(this.payload, this.context) || this.context);
+                    e = this.states[t];
+                    e && (this.state = t, this.context = e.enter && e.enter(this.payload, this.context) || this.context,
+                        this.update());
                 }
             }, {
-                key: 'update',
+                key: "update",
                 value: function() {
-                    var _0x2fcax2c = this.states[this.state],
-                        _0x2fcax1f = _0x2fcax2c && _0x2fcax2c.update(this.payload, this.context);
-                    _0x2fcax1f && this.change(_0x2fcax1f)
+                    var t = this.states[this.state],
+                        e = t && t.update(this.payload, this.context);
+                    e && this.change(e);
                 }
-            }]), _0x2fcax1e
-        }(),
-        _0x2fcax5d = {
+            }]), _0x2fcax1e;
+        }(), W = {
             idle: {
                 update: function() {
-                    return Math.random() < 0.25 ? 'cut' : 'exit'
+                    return Math.random() < .25 ? "cut" : "exit";
                 }
             },
             cut: {
-                enter: function(_0x2fcax2c) {
-                    var _0x2fcax1f = _0x2fcax2c.position.clone()['sub'](_0x2fcax2c.game.space.center),
-                        _0x2fcax2e = _0x2fcax1f.magnitude(),
-                        _0x2fcax1e = new _0x2fcax4a(_0x2fcax2c.position, _0x2fcax1f.normalize()['mulScalar'](_0x2fcax2c.game.border.radius - _0x2fcax2e + 10)['add'](_0x2fcax2c.position)),
-                        _0x2fcax34 = _0x2fcax2c.base.polygon.intersections(_0x2fcax1e),
-                        _0x2fcax35 = {};
-                    return _0x2fcax35.exitPoint = _0x2fcax34.sort(function(_0x2fcax2c, _0x2fcax1f) {
-                        return _0x2fcax2c.distance - _0x2fcax1f.distance
-                    })[0]['point'], _0x2fcax35
+                enter: function(t) {
+                    var e = t.position.clone().sub(t.game.space.center),
+                        n = e.magnitude(),
+                        i = new k(t.position, e.normalize().mulScalar(t.game.border.radius - n + 10).add(t.position)),
+                        a = t.base.polygon.intersections(i),
+                        s = {};
+                    return s.exitPoint = a.sort((function(t, e) {
+                        return t.distance - e.distance;
+                    }))[0].point, s;
                 },
-                update: function(_0x2fcax2c, _0x2fcax1f) {
-                    if (_0x2fcax2c.in !== _0x2fcax2c.base) {
-                        return 'capture'
-                    };
-                    var _0x2fcax2e = _0x2fcax2c.position.distance(_0x2fcax2c.game.space.center);
-                    if (_0x2fcax2c.game.border.radius - _0x2fcax2e < 1) {
-                        return 'idle'
-                    };
-                    _0x2fcax2c.target = _0x2fcax1f.exitPoint
+                update: function(t, e) {
+                    if (t.in !== t.base) return "capture";
+                    var n = t.position.distance(t.game.space.center);
+                    if (t.game.border.radius - n < 1) return "idle";
+                    t.target = e.exitPoint;
                 }
             },
             exit: {
-                enter: function(_0x2fcax2c) {
-                    var _0x2fcax1f, _0x2fcax2e = {},
-                        _0x2fcax1e = 1 / 0,
-                        _0x2fcax34 = _0x2fcax2c.base.polygon.segments.length,
-                        _0x2fcax35 = _0x2fcax52.unitSpeed;
-                    for (_0x2fcax2e.minDistance = _0x2fcax35; void(0) === _0x2fcax1f;) {
-                        for (var _0x2fcax36 = 0; _0x2fcax36 < 1; _0x2fcax36++) {
-                            var _0x2fcax30 = ~~(Math.random() * _0x2fcax34),
-                                _0x2fcax31 = _0x2fcax2c.base.polygon.segments[_0x2fcax30]['start']['distance'](_0x2fcax2c.position);
-                            _0x2fcax31 < _0x2fcax1e && _0x2fcax35 < _0x2fcax31 && (_0x2fcax1e = _0x2fcax31, _0x2fcax1f = _0x2fcax30)
-                        };
-                        _0x2fcax35 *= 0.75
-                    };
-                    return _0x2fcax2e.exitPoint = _0x2fcax2c.base.polygon.segments[_0x2fcax1f]['start'], _0x2fcax2e
+                enter: function(t) {
+                    var e, n, i, a, s = {},
+                        o = 1 / 0,
+                        r = t.base.polygon.segments.length,
+                        c = C.unitSpeed;
+                    for (s.minDistance = c; void 0 === e;) {
+                        for (n = 0; n < 1; n++) {
+                            i = ~~(Math.random() * r), a = t.base.polygon.segments[i].start.distance(t.position);
+                            a < o && c < a && (o = a, e = i);
+                        }
+                        c *= .75;
+                    }
+                    return s.exitPoint = t.base.polygon.segments[e].start, s;
                 },
-                update: function(_0x2fcax1f, _0x2fcax2c) {
-                    if (_0x2fcax1f.in !== _0x2fcax1f.base) {
-                        return 'capture'
-                    };
-                    var _0x2fcax2e = _0x2fcax1f.base.polygon.segments.length,
-                        _0x2fcax1e = _0x2fcax2c.minDistance,
-                        _0x2fcax34 = ~~(Math.random() * _0x2fcax2e),
-                        _0x2fcax35 = _0x2fcax1f.base.polygon.segments[_0x2fcax34]['start'],
-                        _0x2fcax36 = _0x2fcax35.distance(_0x2fcax1f.position),
-                        _0x2fcax30 = _0x2fcax2c.exitPoint.distance(_0x2fcax1f.position);
-                    _0x2fcax1e < _0x2fcax36 && _0x2fcax36 < _0x2fcax30 ? _0x2fcax2c.exitPoint = _0x2fcax35 : (Object.values(_0x2fcax2c.exitPoint.segments)['some'](function(_0x2fcax2c) {
-                        return _0x2fcax2c && _0x2fcax2c.shape === _0x2fcax1f.base.polygon
-                    }) || (_0x2fcax2c.exitPoint = _0x2fcax35), _0x2fcax1f.target && _0x2fcax1f.target.distance(_0x2fcax1f.game.space.center) > _0x2fcax1f.game.border.radius - 1 && (_0x2fcax2c.exitPoint = _0x2fcax35)), _0x2fcax1f.target = _0x2fcax2c.exitPoint
+                update: function(t, e) {
+                    if (t.in !== t.base) return "capture";
+                    var n = t.base.polygon.segments.length,
+                        i = e.minDistance,
+                        a = ~~(Math.random() * n),
+                        s = t.base.polygon.segments[a].start,
+                        o = s.distance(t.position),
+                        r = e.exitPoint.distance(t.position);
+                    i < o && o < r ? e.exitPoint = s : (Object.values(e.exitPoint.segments).some((function(e) {
+                            return e && e.shape === t.base.polygon;
+                        })) || (e.exitPoint = s), t.target && t.target.distance(t.game.space.center) > t.game.border.radius - 1 && (e.exitPoint = s)),
+                        t.target = e.exitPoint;
                 }
             },
             capture: {
-                enter: function(_0x2fcax1e, _0x2fcax2c) {
-                    var _0x2fcax1f = _0x2fcax2c.exitPoint,
-                        _0x2fcax2e = _0x2fcax52.unitSpeed,
-                        _0x2fcax34 = _0x2fcax1e.base.polygon.segments,
-                        _0x2fcax35 = (1 + Math.random()) * _0x2fcax2e,
-                        _0x2fcax36 = Math.sign(Math.random() - 0.5) || 1,
-                        _0x2fcax30 = 0,
-                        _0x2fcax31 = _0x2fcax34.findIndex(function(_0x2fcax2c) {
-                            return _0x2fcax2c.start.equal(_0x2fcax1f)
-                        });
-                    if (-1 === _0x2fcax31) {
-                        var _0x2fcax2f = 1 / 0,
-                            _0x2fcax32 = 0;
-                        if (_0x2fcax34.forEach(function(_0x2fcax2c, _0x2fcax1f) {
-                                var _0x2fcax2e = _0x2fcax2c.start.distance2(_0x2fcax1e.position);
-                                _0x2fcax2e < _0x2fcax2f && (_0x2fcax2f = _0x2fcax2e, _0x2fcax32 = _0x2fcax1f)
-                            }), _0x2fcax1f = _0x2fcax34[_0x2fcax32]['start'], _0x2fcax2c.exitPoint = _0x2fcax1f, -1 === (_0x2fcax31 = _0x2fcax34.findIndex(function(_0x2fcax2c) {
-                                return _0x2fcax2c.start.equal(_0x2fcax1f)
-                            }))) {
-                            throw console.log('exitPoint', _0x2fcax1f), new Error('Сегмент не найден. Баг в грязном хаке!!!')
+                enter: function(t, e) {
+                    var n, i, a, s, o, r, c, l, h, u = e.exitPoint,
+                        f = C.unitSpeed,
+                        d = t.base.polygon.segments,
+                        m = (1 + Math.random()) * f,
+                        p = Math.sign(Math.random() - .5) || 1,
+                        x = 0,
+                        y = d.findIndex((function(t) {
+                            return t.start.equal(u);
+                        }));
+                    if (-1 === y) {
+                        n = 1 / 0, i = 0;
+                        if (d.forEach((function(e, a) {
+                                var s = e.start.distance2(t.position);
+                                s < n && (n = s, i = a);
+                            })), u = d[i].start, e.exitPoint = u, -1 === (y = d.findIndex((function(t) {
+                                return t.start.equal(u);
+                            })))) throw console.log("exitPoint", u), new Error("Сегмент не найден. Баг в грязном хаке!!!");
+                    }
+                    for (a = !1; x < m;) {
+                        if (x = d[y].start.distance(u), (y += p) >= d.length) {
+                            if (y = 0, a) break;
+                            a = !0;
                         }
-                    };
-                    for (var _0x2fcax39 = !1; _0x2fcax30 < _0x2fcax35;) {
-                        if (_0x2fcax30 = _0x2fcax34[_0x2fcax31]['start']['distance'](_0x2fcax1f), (_0x2fcax31 += _0x2fcax36) >= _0x2fcax34.length) {
-                            if (_0x2fcax31 = 0, _0x2fcax39) {
-                                break
-                            };
-                            _0x2fcax39 = !0
-                        };
-                        if (_0x2fcax31 < 0) {
-                            if (_0x2fcax31 = _0x2fcax34.length - 1, _0x2fcax39) {
-                                break
-                            };
-                            _0x2fcax39 = !0
+                        if (y < 0) {
+                            if (y = d.length - 1, a) break;
+                            a = !0;
                         }
-                    };
-                    var _0x2fcax3a = _0x2fcax34[_0x2fcax31]['start'],
-                        _0x2fcax42 = _0x2fcax3a.clone()['sub'](_0x2fcax1f),
-                        _0x2fcax2d = _0x2fcax1f.clone()['add'](_0x2fcax42.clone()['mulScalar'](0.5)),
-                        _0x2fcax44 = (0.5 + Math.random()) * _0x2fcax2e,
-                        _0x2fcax45 = _0x2fcax42.clone()['rotate'](-_0x2fcax36 * Math.PI / 2)['normalize']()['mulScalar'](_0x2fcax44),
-                        _0x2fcax46 = _0x2fcax2d.add(_0x2fcax45);
-                    _0x2fcax1e.target = _0x2fcax46, _0x2fcax2c.targets = [_0x2fcax3a], _0x2fcax2c.sign = _0x2fcax36, _0x2fcax2c.returnPoint = _0x2fcax3a
+                    }
+                    s = d[y].start, o = s.clone().sub(u), r = u.clone().add(o.clone().mulScalar(.5)),
+                        c = (.5 + Math.random()) * f, l = o.clone().rotate(-p * Math.PI / 2).normalize().mulScalar(c),
+                        h = r.add(l);
+                    t.target = h, e.targets = [s], e.sign = p, e.returnPoint = s;
                 },
-                update: function(_0x2fcax1f, _0x2fcax2c) {
-                    if (_0x2fcax1f.in === _0x2fcax1f.base) {
-                        return 'idle'
-                    };
-                    if (!Object.values(_0x2fcax2c.returnPoint.segments)['some'](function(_0x2fcax2c) {
-                            return _0x2fcax2c && _0x2fcax2c.shape === _0x2fcax1f.base.polygon
-                        })) {
-                        return 'back'
-                    };
-                    if (_0x2fcax1f.game.units.some(function(_0x2fcax2c) {
-                            return _0x2fcax2c !== _0x2fcax1f && _0x2fcax1f.position.distance(_0x2fcax2c.position) < _0x2fcax52.unitSpeed
-                        })) {
-                        return 'back'
-                    };
-                    if (_0x2fcax1f.target.distance(_0x2fcax1f.game.space.center) > _0x2fcax1f.game.border.radius + 18) {
-                        return 'back'
-                    };
-                    if (_0x2fcax1f.position.distance2(_0x2fcax1f.target) < 400) {
-                        var _0x2fcax2e = _0x2fcax2c.targets.shift();
-                        if (!_0x2fcax2e) {
-                            return 'back'
-                        };
-                        _0x2fcax1f.target = _0x2fcax2e
+                update: function(t, e) {
+                    if (t.in === t.base) return "idle";
+                    if (!Object.values(e.returnPoint.segments).some((function(e) {
+                            return e && e.shape === t.base.polygon;
+                        }))) return "back";
+                    if (t.game.units.some((function(e) {
+                            return e !== t && t.position.distance(e.position) < C.unitSpeed;
+                        }))) return "back";
+                    if (t.target.distance(t.game.space.center) > t.game.border.radius + 18) return "back";
+                    if (t.position.distance2(t.target) < 400) {
+                        var n = e.targets.shift();
+                        if (!n) return "back";
+                        t.target = n;
                     }
                 }
             },
             back: {
-                enter: function(_0x2fcax1e, _0x2fcax2c) {
-                    var _0x2fcax1f = _0x2fcax1e.base.polygon.segments,
-                        _0x2fcax2e = _0x2fcax2c.exitPoint,
-                        _0x2fcax34 = _0x2fcax2c.sign,
-                        _0x2fcax35 = 1 / 0,
-                        _0x2fcax36 = 0;
-                    _0x2fcax1f.forEach(function(_0x2fcax2c, _0x2fcax1f) {
-                        var _0x2fcax2e = _0x2fcax2c.start.distance2(_0x2fcax1e.position);
-                        _0x2fcax2e < _0x2fcax35 && (_0x2fcax35 = _0x2fcax2e, _0x2fcax36 = _0x2fcax1f)
-                    });
-                    var _0x2fcax30 = _0x2fcax1f[_0x2fcax36]['start'];
-                    if (_0x2fcax2e) {
-                        for (; _0x2fcax30.distance2(_0x2fcax2e) < 100;) {
-                            (_0x2fcax36 += _0x2fcax34) >= _0x2fcax1f.length && (_0x2fcax36 = 0), _0x2fcax36 < 0 && (_0x2fcax36 = _0x2fcax1f.length - 1), _0x2fcax30 = _0x2fcax1f[_0x2fcax36]['start']
-                        }
-                    };
-                    _0x2fcax1e.target = _0x2fcax30
+                enter: function(t, e) {
+                    var n, i = t.base.polygon.segments,
+                        a = e.exitPoint,
+                        s = e.sign,
+                        o = 1 / 0,
+                        r = 0;
+                    i.forEach((function(e, n) {
+                        var i = e.start.distance2(t.position);
+                        i < o && (o = i, r = n);
+                    }));
+                    n = i[r].start;
+                    if (a)
+                        for (; n.distance2(a) < 100;)(r += s) >= i.length && (r = 0), r < 0 && (r = i.length - 1),
+                            n = i[r].start;
+                    t.target = n;
                 },
-                update: function(_0x2fcax2c, _0x2fcax1f) {
-                    if (_0x2fcax2c.in === _0x2fcax2c.base) {
-                        return 'idle'
-                    }
+                update: function(t, e) {
+                    if (t.in === t.base) return "idle";
                 }
             }
-        },
-        _0x2fcax5e = function() {
-            function _0x2fcax34(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-                _0x2fcax2d(this, _0x2fcax34), this.name = _0x2fcax2c, this.direction = 0, this.position = _0x2fcax1f, this.base = new _0x2fcax59(this, _0x2fcax2e), this.skin = _0x2fcax1e, this.lastSquare = this.base.square, this.in = this.base, this.track = new _0x2fcax5b(this), this.target = null, this.respawn = !1, this.statistics = {
-                    kills: 0
-                }
+        }, F = function() {
+            function _0x2fcax34(t, e, n, i) {
+                _0x2fcax2d(this, _0x2fcax34), this.name = t, this.direction = 0, this.position = e,
+                    this.base = new R(this, n), this.skin = i, this.lastSquare = this.base.square, this.in = this.base,
+                    this.track = new B(this), this.target = null, this.respawn = !1, this.statistics = {
+                        kills: 0
+                    };
             }
             return _0x2fcax2f(_0x2fcax34, [{
-                key: 'movement',
+                key: "movement",
                 value: function() {
-                    return this.target && this.target.clone()['sub'](this.position)['normalize']()
+                    return this.target && this.target.clone().sub(this.position).normalize();
                 }
             }, {
-                key: 'speed',
+                key: "speed",
                 get: function() {}
-            }]), _0x2fcax34
-        }(),
-        _0x2fcax5f = function(_0x2fcax2c) {
-            function _0x2fcax35(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-                var _0x2fcax34;
-                return _0x2fcax2d(this, _0x2fcax35), (_0x2fcax34 = _0x2fcax32(this, _0x2fcax30(_0x2fcax35)['call'](this, _0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e)))['lastSquare'] = _0x2fcax34.base.square, _0x2fcax34
+            }]), _0x2fcax34;
+        }(), K = function(t) {
+            function _0x2fcax35(t, e, n, i) {
+                var a;
+                return _0x2fcax2d(this, _0x2fcax35), (a = _0x2fcax32(this, _0x2fcax30(_0x2fcax35).call(this, t, e, n, i))).lastSquare = a.base.square,
+                    a;
             }
-            return _0x2fcax1f(_0x2fcax35, _0x2fcax5e), _0x2fcax2f(_0x2fcax35, [{
-                key: 'update',
-                value: function(_0x2fcax2c) {
-                    this.respawn || (this.target = _0x2fcax2c.direction.clone()['mulScalar'](50)['add'](this.position))
+            return _0x2fcax1f(_0x2fcax35, F), _0x2fcax2f(_0x2fcax35, [{
+                key: "update",
+                value: function(t) {
+                    this.respawn || (this.target = t.direction.clone().mulScalar(50).add(this.position));
                 }
-            }]), _0x2fcax35
-        }(),
-        _0x2fcax60 = function(_0x2fcax2c) {
-            function _0x2fcax36(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34) {
-                var _0x2fcax35;
-                return _0x2fcax2d(this, _0x2fcax36), (_0x2fcax35 = _0x2fcax32(this, _0x2fcax30(_0x2fcax36)['call'](this, _0x2fcax2c, _0x2fcax2e, _0x2fcax1e, _0x2fcax34)))['targets'] = [], _0x2fcax35.game = _0x2fcax1f, _0x2fcax35.fsm = new _0x2fcax5c(_0x2fcax5d, 'exit', _0x2fcax31(_0x2fcax35)), _0x2fcax35
+            }]), _0x2fcax35;
+        }(), H = function(t) {
+            function _0x2fcax36(t, e, n, i, a) {
+                var s;
+                return _0x2fcax2d(this, _0x2fcax36), (s = _0x2fcax32(this, _0x2fcax30(_0x2fcax36).call(this, t, n, i, a))).targets = [],
+                    s.game = e, s.fsm = new A(W, "exit", _0x2fcax31(s)), s;
             }
-            return _0x2fcax1f(_0x2fcax36, _0x2fcax5e), _0x2fcax2f(_0x2fcax36, [{
-                key: 'update',
+            return _0x2fcax1f(_0x2fcax36, F), _0x2fcax2f(_0x2fcax36, [{
+                key: "update",
                 value: function() {
-                    this.fsm.update()
+                    this.fsm.update();
                 }
-            }]), _0x2fcax36
-        }(),
-        _0x2fcax61 = Math.cos(0),
-        _0x2fcax62 = Math.sin(0),
-        _0x2fcax63 = function(_0x2fcax2c) {
-            var _0x2fcax1f = Math.cos(_0x2fcax2c),
-                _0x2fcax2e = Math.sin(_0x2fcax2c);
-            return new _0x2fcax47(_0x2fcax61 * _0x2fcax1f - _0x2fcax62 * _0x2fcax2e, _0x2fcax61 * _0x2fcax2e + _0x2fcax62 * _0x2fcax1f)
-        },
-        _0x2fcax64 = function() {
-            function _0x2fcax32(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34, _0x2fcax35, _0x2fcax36, _0x2fcax30) {
-                var _0x2fcax31 = this;
-                if (_0x2fcax2d(this, _0x2fcax32), _0x2fcax3a = _0x2fcax52.minScale, _0x2fcax39 = _0x2fcax52.maxScale, _0x2fcax3b = _0x2fcax52.trackWidth, this.controller = new _0x2fcax51(_0x2fcax2c, _0x2fcax30), this.skinManager = _0x2fcax1e, this.nameManager = _0x2fcax36, this.space = _0x2fcax1f, this.maxUnits = _0x2fcax34, this.view = _0x2fcax2c, this.border = _0x2fcax2e, this.player = null, this.units = [], this.mouse = new _0x2fcax47, this.direction = new _0x2fcax47(1, 0), this.keyboard = !1, this.fakeMouse = null, this.labels = [], this.scale = _0x2fcax39, this.square = this.border.polygon.square(), this.gameOverCallback = _0x2fcax35, this.actived = !1, this.needSuspendSpawn = !0, this.suspendSpawn = !1, this.generateParticles = !1, this.particles = [], this.border.polygon.calcPath(), _0x2fcax2c) {
-                    var _0x2fcax2f = function() {
-                        _0x2fcax31.view.width = window.innerWidth, _0x2fcax31.view.height = window.innerHeight
+            }]), _0x2fcax36;
+        }(), N = Math.cos(0), U = Math.sin(0), Y = function(t) {
+            var e = Math.cos(t),
+                n = Math.sin(t);
+            return new v(N * e - U * n, N * n + U * e);
+        }, G = function() {
+            function _0x2fcax32(t, e, n, i, r, c, l, h) {
+                var u, f = this;
+                if (_0x2fcax2d(this, _0x2fcax32), s = C.minScale, a = C.maxScale, o = C.trackWidth,
+                    this.controller = new q(t, h), this.skinManager = i, this.nameManager = l, this.space = e,
+                    this.maxUnits = r, this.view = t, this.border = n, this.player = null, this.units = [],
+                    this.mouse = new v, this.direction = new v(1, 0), this.keyboard = !1, this.fakeMouse = null,
+                    this.labels = [], this.scale = a, this.square = this.border.polygon.square(), this.gameOverCallback = c,
+                    this.actived = !1, this.needSuspendSpawn = !0, this.suspendSpawn = !1, this.generateParticles = !1,
+                    this.particles = [], this.border.polygon.calcPath(), t) {
+                    u = function() {
+                        f.view.width = window.innerWidth, f.view.height = window.innerHeight;
                     };
-                    window.addEventListener('resize', _0x2fcax2f, !1), _0x2fcax2f()
-                };
+                    window.addEventListener("resize", u, !1), u();
+                }
                 this.stats = {
                     fps: 0,
                     ut: 0,
@@ -1579,835 +1462,776 @@ function serverSelect(_0x2fcax2a, gamemode) {
                     spawnEndTime: 0,
                     renderStartTime: 0,
                     renderEndTime: 0
-                }
+                };
             }
             return _0x2fcax2f(_0x2fcax32, [{
-                key: 'addPlayer',
-                value: function(_0x2fcax2c) {
-                    this.units.push(_0x2fcax2c), this.player = _0x2fcax2c
+                key: "addPlayer",
+                value: function(t) {
+                    this.units.push(t), this.player = t;
                 }
             }, {
-                key: 'addUnit',
-                value: function(_0x2fcax2c) {
-                    this.units.push(_0x2fcax2c)
+                key: "addUnit",
+                value: function(t) {
+                    this.units.push(t);
                 }
             }, {
-                key: 'getspawnPosition',
-                value: function(_0x2fcax2c) {
-                    for (var _0x2fcax1f = this.space.center, _0x2fcax2e = this.border.radius, _0x2fcax1e = 2 * _0x2fcax52.baseRadius, _0x2fcax34 = _0x2fcax1e * (this.player ? 3 - this.player.base.square / this.square * 2 : 3), _0x2fcax35 = _0x2fcax34 * _0x2fcax34, _0x2fcax36 = _0x2fcax1f.clone()['add'](new _0x2fcax47(0, _0x2fcax2c ? _0x2fcax2e - 3 * _0x2fcax1e + Math.random() * (2 * _0x2fcax1e) : Math.random() * (_0x2fcax2e - _0x2fcax1e))['rotate'](Math.random() * Math.PI * 2)), _0x2fcax30 = 0; _0x2fcax30 < this.units.length; _0x2fcax30++) {
-                        var _0x2fcax31 = this.units[_0x2fcax30];
-                        if (_0x2fcax31.base.polygon.inside(_0x2fcax36)) {
-                            return
-                        };
-                        if (_0x2fcax31.base.polygon.segments.some(function(_0x2fcax2c) {
-                                return _0x2fcax36.distance2(_0x2fcax2c.start) < _0x2fcax35
-                            })) {
-                            return
-                        };
-                        if (_0x2fcax31.track.polyline.segments.some(function(_0x2fcax2c) {
-                                return _0x2fcax36.distance2(_0x2fcax2c.start) < _0x2fcax35
-                            })) {
-                            return
-                        }
-                    };
-                    return _0x2fcax36
+                key: "getspawnPosition",
+                value: function(t) {
+                    var e, n, i, a, s, o, r, c;
+                    for (e = this.space.center, n = this.border.radius, i = 2 * C.baseRadius, a = i * (this.player ? 3 - this.player.base.square / this.square * 2 : 3),
+                        s = a * a, o = e.clone().add(new v(0, t ? n - 3 * i + Math.random() * (2 * i) : Math.random() * (n - i)).rotate(Math.random() * Math.PI * 2)),
+                        r = 0; r < this.units.length; r++) {
+                        c = this.units[r];
+                        if (c.base.polygon.inside(o)) return;
+                        if (c.base.polygon.segments.some((function(t) {
+                                return o.distance2(t.start) < s;
+                            }))) return;
+                        if (c.track.polyline.segments.some((function(t) {
+                                return o.distance2(t.start) < s;
+                            }))) return;
+                    }
+                    return o;
                 }
             }, {
-                key: 'spawnBot',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this;
+                key: "spawnBot",
+                value: function(t) {
+                    var e, n = this;
                     if (this.actived) {
-                        if (this.suspendSpawn) {
-                            return
-                        };
-                        if (this.needSuspendSpawn) {
-                            return this.suspendSpawn = !0, void(setTimeout(function() {
-                                _0x2fcax1f.needSuspendSpawn = !1, _0x2fcax1f.suspendSpawn = !1
-                            }, (1 + Math.random()) * _0x2fcax52.spawnTimeout))
-                        }
-                    };
+                        if (this.suspendSpawn) return;
+                        if (this.needSuspendSpawn) return this.suspendSpawn = !0, void setTimeout((function() {
+                            n.needSuspendSpawn = !1, n.suspendSpawn = !1;
+                        }), (1 + Math.random()) * C.spawnTimeout);
+                    }
                     if (this.nameManager.pool.length) {
-                        var _0x2fcax2e = this.getspawnPosition(_0x2fcax2c);
-                        _0x2fcax2e && (this.addUnit(new _0x2fcax60(this.nameManager.get(), this, _0x2fcax2e, _0x2fcax45(_0x2fcax2e.x, _0x2fcax2e.y, _0x2fcax52.baseCount, _0x2fcax52.baseRadius), this.skinManager.get())), this.needSuspendSpawn = !0, this.suspendSpawn = !1)
-                    } else {
-                        this.nameManager.request()
+                        e = this.getspawnPosition(t);
+                        e && (this.addUnit(new H(this.nameManager.get(), this, e, y(e.x, e.y, C.baseCount, C.baseRadius), this.skinManager.get())),
+                            this.needSuspendSpawn = !0, this.suspendSpawn = !1);
+                    } else this.nameManager.request();
+                }
+            }, {
+                key: "spawnPlayer",
+                value: function(t, e) {
+                    var n, i, o, r, c, l, h;
+                    for (i = 0; !n;) 50 < ++i && (i = 0, this.units.length && this.kill(this.units[0])),
+                        n = this.getspawnPosition();
+                    if (n) {
+                        o = this.skinManager.get(e, !0);
+                        if (!o) {
+                            r = this.units.find((function(t) {
+                                return t.skin.name === e;
+                            }));
+                            r ? (o = r.skin, r.skin = this.skinManager.get()) : o = this.skinManager.get("", !0);
+                        }
+                        c = Math.floor(499 * Math.random() + 1);
+                        l = $("#nickname").val();
+                        "" == l && (l = "paperio7.com_" + c);
+                        h = new K(t || l, n, y(n.x, n.y, C.baseCount, C.baseRadius), o);
+                        this.addPlayer(h), this.scale = a - h.base.square / this.square * (a - s), this.startTime = Date.now();
                     }
                 }
             }, {
-                key: 'spawnPlayer',
-                value: function(_0x2fcax2c, _0x2fcax1f) {
-                    for (var _0x2fcax2e, _0x2fcax1e = 0; !_0x2fcax2e;) {
-                        50 < ++_0x2fcax1e && (_0x2fcax1e = 0, this.units.length && this.kill(this.units[0])), _0x2fcax2e = this.getspawnPosition()
-                    };
-                    if (_0x2fcax2e) {
-                        var _0x2fcax34 = this.skinManager.get(_0x2fcax1f, !0);
-                        if (!_0x2fcax34) {
-                            var _0x2fcax35 = this.units.find(function(_0x2fcax2c) {
-                                return _0x2fcax2c.skin.name === _0x2fcax1f
-                            });
-                            _0x2fcax35 ? (_0x2fcax34 = _0x2fcax35.skin, _0x2fcax35.skin = this.skinManager.get()) : _0x2fcax34 = this.skinManager.get('', !0)
-                        };
-                        var _0x2fcax6f = Math.floor(Math.random() * (500 - 1) + 1);
-                        var _0x2fcax70 = $('#nickname')['val']();
-                        if (_0x2fcax70 == '') {
-                            _0x2fcax70 = 'paperio7.com_' + _0x2fcax6f
-                        };
-                        var _0x2fcax36 = new _0x2fcax5f(_0x2fcax2c || _0x2fcax70, _0x2fcax2e, _0x2fcax45(_0x2fcax2e.x, _0x2fcax2e.y, _0x2fcax52.baseCount, _0x2fcax52.baseRadius), _0x2fcax34);
-                        this.addPlayer(_0x2fcax36), this.scale = _0x2fcax39 - _0x2fcax36.base.square / this.square * (_0x2fcax39 - _0x2fcax3a), this.startTime = Date.now()
-                    }
-                }
-            }, {
-                key: 'genKillParticles',
-                value: function(_0x2fcax34, _0x2fcax2c, _0x2fcax35) {
-                    var _0x2fcax36 = this;
+                key: "genKillParticles",
+                value: function(t, e, n) {
+                    var i, a = this;
                     if (this.generateParticles) {
-                        var _0x2fcax30 = 0;
-                        _0x2fcax2c.forEach(function(_0x2fcax2c) {
-                            if (5 < (_0x2fcax30 += _0x2fcax2c.vector.magnitude())) {
-                                _0x2fcax30 = 0;
-                                var _0x2fcax1f = _0x2fcax2c.vector.clone()['normalize']()['rotate'](Math.sign(Math.random() - 0.5) * Math.PI / 2)['mulScalar'](25 + 100 * Math.random());
-                                0.25 < Math.random() && _0x2fcax1f.mulScalar(0.1);
-                                var _0x2fcax2e = (_0x2fcax35 ? 3 : 1) * (1 + 0.5 * Math.random()),
-                                    _0x2fcax1e = new _0x2fcax50(_0x2fcax34.skin.colors.particles[~~(Math.random() * _0x2fcax34.skin.colors.particles.length)], _0x2fcax2c.start.clone(), _0x2fcax1f, 2 * Math.PI * (1 + Math.random()) * Math.sign(Math.random() - 0.5 || 1), _0x2fcax2e, 0.9 * -_0x2fcax2e, 1e3);
-                                _0x2fcax36.particles.push(_0x2fcax1e)
+                        i = 0;
+                        e.forEach((function(e) {
+                            var s, o, r;
+                            if (5 < (i += e.vector.magnitude())) {
+                                i = 0;
+                                s = e.vector.clone().normalize().rotate(Math.sign(Math.random() - .5) * Math.PI / 2).mulScalar(25 + 100 * Math.random());
+                                .25 < Math.random() && s.mulScalar(.1);
+                                o = (n ? 3 : 1) * (1 + .5 * Math.random()), r = new P(t.skin.colors.particles[~~(Math.random() * t.skin.colors.particles.length)], e.start.clone(), s, 2 * Math.PI * (1 + Math.random()) * Math.sign(Math.random() - .5 || 1), o, .9 * -o, 1e3);
+                                a.particles.push(r);
                             }
-                        })
+                        }));
                     }
                 }
             }, {
-                key: 'gameOver',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this,
-                        _0x2fcax34 = 1 / 0,
-                        _0x2fcax35 = 0,
-                        _0x2fcax36 = 1 / 0,
-                        _0x2fcax30 = 0;
-                    this.player.base.polygon.segments.forEach(function(_0x2fcax2c) {
-                        var _0x2fcax1f = _0x2fcax2c.start,
-                            _0x2fcax2e = _0x2fcax1f.x,
-                            _0x2fcax1e = _0x2fcax1f.y;
-                        _0x2fcax34 = Math.min(_0x2fcax34, _0x2fcax2e), _0x2fcax35 = Math.max(_0x2fcax35, _0x2fcax2e), _0x2fcax36 = Math.min(_0x2fcax36, _0x2fcax1e), _0x2fcax30 = Math.max(_0x2fcax30, _0x2fcax1e)
-                    });
-                    var _0x2fcax2e = _0x2fcax35 - _0x2fcax34,
-                        _0x2fcax1e = _0x2fcax30 - _0x2fcax36,
-                        _0x2fcax31 = Math.max(_0x2fcax2e, _0x2fcax1e),
-                        _0x2fcax2f = new _0x2fcax47(_0x2fcax34 + _0x2fcax2e / 2, _0x2fcax36 + _0x2fcax1e / 2),
-                        _0x2fcax32 = 475 / _0x2fcax31,
-                        _0x2fcax39 = document.createElement('canvas');
-                    _0x2fcax39.width = 500, _0x2fcax39.height = 500;
-                    var _0x2fcax3a = _0x2fcax39.getContext('2d');
-                    _0x2fcax3a.scale(_0x2fcax32, _0x2fcax32), _0x2fcax3a.translate(250 / _0x2fcax32 - _0x2fcax2f.x, 250 / _0x2fcax32 - _0x2fcax2f.y), _0x2fcax3a.translate(0, 5 / _0x2fcax32), _0x2fcax53(_0x2fcax3a, this.player.base.polygon.path, this.player.skin.colors.back), _0x2fcax3a.translate(0, -10 / _0x2fcax32), _0x2fcax53(_0x2fcax3a, this.player.base.polygon.path, this.player.skin.pattern || this.player.skin.colors.main);
-                    var _0x2fcax42 = _0x2fcax39.toDataURL('image/png'),
-                        _0x2fcax2d = {
-                            game: this,
-                            score: _0x2fcax2c ? 100 : this.player.base.square / this.square * 100,
-                            best: this.best,
-                            time: Date.now() - this.startTime,
-                            kills: this.player.statistics.kills,
-                            image: _0x2fcax42,
-                            win: _0x2fcax2c
-                        };
-                    setTimeout(function() {
-                        _0x2fcax2c && _0x2fcax1f.kill(_0x2fcax1f.player, void(0), _0x2fcax2c), _0x2fcax1f.player = null, _0x2fcax1f.gameOverCallback && _0x2fcax1f.gameOverCallback(_0x2fcax2d)
-                    }, 1e3)
-                }
-            }, {
-                key: 'kill',
-                value: function(_0x2fcax1f, _0x2fcax2c, _0x2fcax2e) {
-                    _0x2fcax1f.death = !0, this.skinManager && this.skinManager.release(_0x2fcax1f.skin), this.units.forEach(function(_0x2fcax2c) {
-                        _0x2fcax2c !== _0x2fcax1f && _0x2fcax2c.in === _0x2fcax1f.base && (_0x2fcax2c.in = null)
-                    }), this.genKillParticles(_0x2fcax1f, _0x2fcax1f.track.polyline.segments), this.genKillParticles(_0x2fcax1f, _0x2fcax1f.base.polygon.segments, !0), _0x2fcax1f.track.remove(), _0x2fcax1f.base.remove();
-                    var _0x2fcax1e = this.units.findIndex(function(_0x2fcax2c) {
-                        return _0x2fcax2c === _0x2fcax1f
-                    });
-                    this.units.splice(_0x2fcax1e, 1), _0x2fcax2c && (_0x2fcax2c.statistics.kills++, _0x2fcax2c === this.player && this.labels.push(new _0x2fcax4e('Kill', _0x2fcax1f.skin.colors.main, _0x2fcax2c, new _0x2fcax47(0, -35), new _0x2fcax47(0, -10), 1e3, !0))), _0x2fcax2e || _0x2fcax1f !== this.player || this.gameOver()
-                }
-            }, {
-                key: 'getMovement',
-                value: function(_0x2fcax2c, _0x2fcax1f) {
-                    var _0x2fcax2e = [],
-                        _0x2fcax1e = _0x2fcax1f.movement();
-                    if (!_0x2fcax1e) {
-                        return _0x2fcax2e
+                key: "gameOver",
+                value: function(t) {
+                    var e, n, i, a, s, o, r, c, l, h = this,
+                        u = 1 / 0,
+                        f = 0,
+                        d = 1 / 0,
+                        m = 0;
+                    this.player.base.polygon.segments.forEach((function(t) {
+                        var e = t.start,
+                            n = e.x,
+                            i = e.y;
+                        u = Math.min(u, n), f = Math.max(f, n), d = Math.min(d, i), m = Math.max(m, i);
+                    }));
+                    e = f - u, n = m - d, i = Math.max(e, n), a = new v(u + e / 2, d + n / 2), s = 475 / i,
+                        o = document.createElement("canvas");
+                    o.width = 500, o.height = 500;
+                    r = o.getContext("2d");
+                    r.scale(s, s), r.translate(250 / s - a.x, 250 / s - a.y), r.translate(0, 5 / s),
+                        I(r, this.player.base.polygon.path, this.player.skin.colors.back), r.translate(0, -10 / s),
+                        I(r, this.player.base.polygon.path, this.player.skin.pattern || this.player.skin.colors.main);
+                    c = o.toDataURL("image/png"), l = {
+                        game: this,
+                        score: t ? 100 : this.player.base.square / this.square * 100,
+                        best: this.best,
+                        time: Date.now() - this.startTime,
+                        kills: this.player.statistics.kills,
+                        image: c,
+                        win: t
                     };
-                    _0x2fcax1e.mulScalar(spd * _0x2fcax2c / 1e3);
-                    var _0x2fcax34 = _0x2fcax63(_0x2fcax1f.direction),
-                        _0x2fcax35 = Math.atan2(_0x2fcax34.x * _0x2fcax1e.y - _0x2fcax1e.x * _0x2fcax34.y, _0x2fcax34.dot(_0x2fcax1e)),
-                        _0x2fcax36 = 2 * Math.PI * _0x2fcax2c / 1e3;
-                    Math.abs(_0x2fcax35) > _0x2fcax36 && (_0x2fcax35 = _0x2fcax36 * Math.sign(_0x2fcax35)), _0x2fcax1f.direction += _0x2fcax35;
-                    for (var _0x2fcax30 = _0x2fcax63(_0x2fcax1f.direction)['mulScalar'](spd * _0x2fcax2c / 1e3), _0x2fcax31 = new _0x2fcax4a(_0x2fcax1f.position, _0x2fcax1f.position.clone()['add'](_0x2fcax30)), _0x2fcax2f = this.border.intersections(_0x2fcax31); _0x2fcax2f.length;) {
-                        var _0x2fcax32 = void(0),
-                            _0x2fcax39 = _0x2fcax31.vector;
-                        if (2 === _0x2fcax2f.length) {
-                            var _0x2fcax3a = _0x2fcax2f[0]['segment']['vector'];
-                            _0x2fcax32 = 0 < Math.atan2(_0x2fcax39.x * _0x2fcax3a.y - _0x2fcax3a.x * _0x2fcax39.y, _0x2fcax39.dot(_0x2fcax3a)) ? _0x2fcax2f[0] : _0x2fcax2f[1]
-                        } else {
-                            _0x2fcax32 = _0x2fcax2f[0]
-                        };
-                        var _0x2fcax42 = _0x2fcax32,
-                            _0x2fcax2d = _0x2fcax42.segment,
-                            _0x2fcax44 = _0x2fcax42.point,
-                            _0x2fcax45 = _0x2fcax2d.vector;
-                        if (Math.atan2(_0x2fcax39.x * _0x2fcax45.y - _0x2fcax45.x * _0x2fcax39.y, _0x2fcax39.dot(_0x2fcax45)) < 0) {
-                            break
-                        };
-                        if (!_0x2fcax3d(_0x2fcax32.distance)) {
-                            var _0x2fcax46 = new _0x2fcax4a(_0x2fcax31.start, _0x2fcax44);
-                            _0x2fcax2e.push(_0x2fcax46)
-                        };
-                        var _0x2fcax48 = (_0x2fcax31 = new _0x2fcax4a(_0x2fcax44, _0x2fcax31.end))['vector'],
-                            _0x2fcax3c = _0x2fcax45.clone()['normalize']()['mulScalar'](_0x2fcax48.dot(_0x2fcax45) / _0x2fcax45.magnitude());
-                        _0x2fcax31 = new _0x2fcax4a(_0x2fcax44, _0x2fcax44.clone()['add'](_0x2fcax3c)), _0x2fcax2f = this.border.intersections(_0x2fcax31)
-                    };
-                    return _0x2fcax2e.push(_0x2fcax31), _0x2fcax2e
+                    setTimeout((function() {
+                        t && h.kill(h.player, void 0, t), h.player = null, h.gameOverCallback && h.gameOverCallback(l);
+                    }), 1e3);
                 }
             }, {
-                key: 'update',
-                value: function(_0x2fcax2e) {
-                    var _0x2fcax48 = this;
-                    if (this.timings.updateStartTime = _0x2fcax43(), this.controller.pressed()) {
-                        if (this.keyboard = Object.assign({}, this.controller.mouse), this.controller.keyboardModeSwitch.mode2) {
-                            var _0x2fcax2c = 0;
-                            (this.controller.up || this.controller.left) && (_0x2fcax2c = -1), (this.controller.down || this.controller.right) && (_0x2fcax2c = 1), _0x2fcax2c && this.direction.rotate(_0x2fcax2e * _0x2fcax2c * 0.003)
+                key: "kill",
+                value: function(t, e, n) {
+                    t.death = !0, this.skinManager && this.skinManager.release(t.skin), this.units.forEach((function(e) {
+                            e !== t && e.in === t.base && (e.in = null);
+                        })), this.genKillParticles(t, t.track.polyline.segments), this.genKillParticles(t, t.base.polygon.segments, !0),
+                        t.track.remove(), t.base.remove();
+                    var i = this.units.findIndex((function(e) {
+                        return e === t;
+                    }));
+                    this.units.splice(i, 1), e && (e.statistics.kills++, e === this.player && this.labels.push(new T("Kill", t.skin.colors.main, e, new v(0, -35), new v(0, -10), 1e3, !0))),
+                        n || t !== this.player || this.gameOver();
+                }
+            }, {
+                key: "getMovement",
+                value: function(t, e) {
+                    var n, i, a, s, o, r, c, h, u, f, d, m, p, x, y, g, v = [],
+                        _ = e.movement();
+                    if (!_) return v;
+                    _.mulScalar(spd * t / 1e3);
+                    n = Y(e.direction), i = Math.atan2(n.x * _.y - _.x * n.y, n.dot(_)), a = 2 * Math.PI * t / 1e3;
+                    Math.abs(i) > a && (i = a * Math.sign(i)), e.direction += i;
+                    for (s = Y(e.direction).mulScalar(spd * t / 1e3), o = new k(e.position, e.position.clone().add(s)),
+                        r = this.border.intersections(o); r.length;) {
+                        c = void 0, h = o.vector;
+                        if (2 === r.length) {
+                            u = r[0].segment.vector;
+                            c = 0 < Math.atan2(h.x * u.y - u.x * h.y, h.dot(u)) ? r[0] : r[1];
+                        } else c = r[0];
+                        f = c, d = f.segment, m = f.point, p = d.vector;
+                        if (Math.atan2(h.x * p.y - p.x * h.y, h.dot(p)) < 0) break;
+                        if (!l(c.distance)) {
+                            x = new k(o.start, m);
+                            v.push(x);
+                        }
+                        y = (o = new k(m, o.end)).vector, g = p.clone().normalize().mulScalar(y.dot(p) / p.magnitude());
+                        o = new k(m, m.clone().add(g)), r = this.border.intersections(o);
+                    }
+                    return v.push(o), v;
+                }
+            }, {
+                key: "update",
+                value: function(t) {
+                    var e, n, i, r, c, l, u, f = this;
+                    if (this.timings.updateStartTime = p(), this.controller.pressed())
+                        if (this.keyboard = Object.assign({}, this.controller.mouse),
+                            this.controller.keyboardModeSwitch.mode2) {
+                            e = 0;
+                            (this.controller.up || this.controller.left) && (e = -1), (this.controller.down || this.controller.right) && (e = 1),
+                            e && this.direction.rotate(t * e * .003);
                         } else {
-                            var _0x2fcax1f = new _0x2fcax47;
-                            if (this.controller.up && _0x2fcax1f.add(new _0x2fcax47(0, -1)), this.controller.down && _0x2fcax1f.add(new _0x2fcax47(0, 1)), this.controller.left && _0x2fcax1f.add(new _0x2fcax47(-1, 0)), this.controller.right && _0x2fcax1f.add(new _0x2fcax47(1, 0)), _0x2fcax1f.magnitude()) {
-                                var _0x2fcax1e = Math.atan2(this.direction.x * _0x2fcax1f.y - _0x2fcax1f.x * this.direction.y, this.direction.x * _0x2fcax1f.x + this.direction.y * _0x2fcax1f.y),
-                                    _0x2fcax34 = _0x2fcax2e * Math.sign(_0x2fcax1e) * 0.003;
-                                this.direction.rotate(Math.abs(_0x2fcax34) > Math.abs(_0x2fcax1e) ? _0x2fcax1e : _0x2fcax34)
+                            n = new v;
+                            if (this.controller.up && n.add(new v(0, -1)), this.controller.down && n.add(new v(0, 1)),
+                                this.controller.left && n.add(new v(-1, 0)), this.controller.right && n.add(new v(1, 0)),
+                                n.magnitude()) {
+                                i = Math.atan2(this.direction.x * n.y - n.x * this.direction.y, this.direction.x * n.x + this.direction.y * n.y),
+                                    r = t * Math.sign(i) * .003;
+                                this.direction.rotate(Math.abs(r) > Math.abs(i) ? i : r);
                             }
                         }
-                    } else {
-                        this.controller.mouse ? (!this.keyboard || this.keyboard.x !== this.controller.mouse.x && this.keyboard.y !== this.controller.mouse.y) && (this.keyboard = null, this.direction = new _0x2fcax47(this.controller.mouse.x, this.controller.mouse.y)['sub'](new _0x2fcax47(this.view.width / 2, this.view.height / 2))['normalize']()) : !this.keyboard && this.controller.lastMouse && (this.direction = new _0x2fcax47(this.controller.lastMouse.x, this.controller.lastMouse.y)['sub'](new _0x2fcax47(this.view.width / 2, this.view.height / 2))['normalize']())
-                    };
-                    var _0x2fcax35 = this.player;
-                    if (this.timings.aiStartTime = _0x2fcax43(), this.units.forEach(function(_0x2fcax2c) {
-                            return _0x2fcax2c.update(_0x2fcax48)
-                        }), this.timings.aiEndTime = _0x2fcax43(), this.units.slice()['forEach'](function(_0x2fcax45) {
-                            if (!_0x2fcax45.death) {
-                                for (var _0x2fcax46 = _0x2fcax48.getMovement(_0x2fcax2e, _0x2fcax45), _0x2fcax2c = function() {
-                                        if (_0x2fcax45.death) {
-                                            return {
-                                                v: void(0)
-                                            }
+                    else this.controller.mouse ? (!this.keyboard || this.keyboard.x !== this.controller.mouse.x && this.keyboard.y !== this.controller.mouse.y) && (this.keyboard = null,
+                        this.direction = new v(this.controller.mouse.x, this.controller.mouse.y).sub(new v(this.view.width / 2, this.view.height / 2)).normalize()) : !this.keyboard && this.controller.lastMouse && (this.direction = new v(this.controller.lastMouse.x, this.controller.lastMouse.y).sub(new v(this.view.width / 2, this.view.height / 2)).normalize());
+                    c = this.player;
+                    if (this.timings.aiStartTime = p(), this.units.forEach((function(t) {
+                            return t.update(f);
+                        })), this.timings.aiEndTime = p(), this.units.slice().forEach((function(e) {
+                            var n, i, a;
+                            if (!e.death)
+                                for (n = f.getMovement(t, e), i = function() {
+                                        var t, i, a, s, r, c, l, u, d, m, p, x, y, g, _, w;
+                                        if (e.death) return {
+                                            v: void 0
                                         };
-                                        var _0x2fcax2f = _0x2fcax46.shift(),
-                                            _0x2fcax2c = _0x2fcax48.space.intersections(_0x2fcax2f),
-                                            _0x2fcax2e = [];
-                                        _0x2fcax2c.forEach(function(_0x2fcax1f) {
-                                            var _0x2fcax2c = _0x2fcax2e.findIndex(function(_0x2fcax2c) {
-                                                return _0x2fcax2c.point.equal(_0x2fcax1f.point)
+                                        t = n.shift(), i = f.space.intersections(t), a = [];
+                                        i.forEach((function(t) {
+                                            var e = a.findIndex((function(e) {
+                                                return e.point.equal(t.point);
+                                            }));
+                                            if (-1 === e) a.push({
+                                                point: t.point,
+                                                intersections: [t]
                                             });
-                                            if (-1 === _0x2fcax2c) {
-                                                _0x2fcax2e.push({
-                                                    point: _0x2fcax1f.point,
-                                                    intersections: [_0x2fcax1f]
-                                                })
-                                            } else {
-                                                if (_0x2fcax1f.point !== _0x2fcax2e[_0x2fcax2c]['point']) {
-                                                    if (_0x2fcax1f.point.cell) {
-                                                        if (_0x2fcax2e[_0x2fcax2c]['point']['cell']) {
-                                                            throw new Error('Бывает ли такое?')
-                                                        };
-                                                        _0x2fcax2e[_0x2fcax2c]['point'] = _0x2fcax1f.point, _0x2fcax2e[_0x2fcax2c]['intersections']['forEach'](function(_0x2fcax2c) {
-                                                            _0x2fcax2c.point = _0x2fcax1f.point
-                                                        })
-                                                    } else {
-                                                        _0x2fcax1f.point = _0x2fcax2e[_0x2fcax2c]['point']
-                                                    }
-                                                };
-                                                _0x2fcax2e[_0x2fcax2c]['intersections']['push'](_0x2fcax1f)
+                                            else {
+                                                if (t.point !== a[e].point)
+                                                    if (t.point.cell) {
+                                                        if (a[e].point.cell) throw new Error("Бывает ли такое?");
+                                                        a[e].point = t.point, a[e].intersections.forEach((function(e) {
+                                                            e.point = t.point;
+                                                        }));
+                                                    } else t.point = a[e].point;
+                                                a[e].intersections.push(t);
                                             }
-                                        }), _0x2fcax2c.forEach(function(_0x2fcax2c) {
-                                            _0x2fcax2c.distance = _0x2fcax2f.start.distance2(_0x2fcax2c.point)
-                                        }), _0x2fcax2c.sort(function(_0x2fcax2c, _0x2fcax1f) {
-                                            return _0x2fcax2c.distance - _0x2fcax1f.distance
-                                        });
-                                        var _0x2fcax1f = [],
-                                            _0x2fcax1e = null,
-                                            _0x2fcax34 = -1;
-                                        if (_0x2fcax2c.forEach(function(_0x2fcax2c) {
-                                                _0x2fcax3e(_0x2fcax2c.distance, _0x2fcax34) || (_0x2fcax1e = [], _0x2fcax34 = _0x2fcax2c.distance, _0x2fcax1f.push(_0x2fcax1e)), _0x2fcax1e.push(_0x2fcax2c)
-                                            }), _0x2fcax1f.forEach(function(_0x2fcax30) {
-                                                var _0x2fcax31 = [];
-                                                _0x2fcax30.forEach(function(_0x2fcax2c) {
-                                                    var _0x2fcax1f = _0x2fcax2c.segment.shape;
-                                                    _0x2fcax1f && -1 === _0x2fcax31.indexOf(_0x2fcax1f) && _0x2fcax31.push(_0x2fcax1f)
-                                                });
-                                                for (var _0x2fcax2c = function() {
-                                                        var _0x2fcax2c = _0x2fcax31.findIndex(function(_0x2fcax2c) {
-                                                            return _0x2fcax2c.owner === _0x2fcax45.in
-                                                        });
-                                                        if (0 < _0x2fcax2c) {
-                                                            var _0x2fcax1f = _0x2fcax31[0];
-                                                            _0x2fcax31[0] = _0x2fcax31[_0x2fcax2c], _0x2fcax31[_0x2fcax2c] = _0x2fcax1f
-                                                        };
-                                                        var _0x2fcax2e = _0x2fcax31.findIndex(function(_0x2fcax2c) {
-                                                            return _0x2fcax2c.owner.isTrack
-                                                        });
-                                                        if (0 < _0x2fcax2e) {
-                                                            var _0x2fcax1e = _0x2fcax31[0];
-                                                            _0x2fcax31[0] = _0x2fcax31[_0x2fcax2e], _0x2fcax31[_0x2fcax2e] = _0x2fcax1e
-                                                        };
-                                                        var _0x2fcax34 = _0x2fcax31.shift(),
-                                                            _0x2fcax35 = [];
-                                                        for (_0x2fcax30.forEach(function(_0x2fcax2c) {
-                                                                _0x2fcax2c.segment.shape === _0x2fcax34 && _0x2fcax35.push(_0x2fcax2c)
-                                                            }); !_0x2fcax45.death && _0x2fcax35.length;) {
-                                                            _0x2fcax35.sort(function(_0x2fcax2c, _0x2fcax1f) {
-                                                                return _0x2fcax45.in ? _0x2fcax1f.zn - _0x2fcax2c.zn : _0x2fcax2c.zn - _0x2fcax1f.zn
-                                                            });
-                                                            var _0x2fcax36 = _0x2fcax35.shift();
-                                                            _0x2fcax36.segment.shape && !_0x2fcax34.owner.unit.death && _0x2fcax34.owner.handleIntersect(_0x2fcax36, _0x2fcax45, _0x2fcax2f, _0x2fcax48)
+                                        })), i.forEach((function(e) {
+                                            e.distance = t.start.distance2(e.point);
+                                        })), i.sort((function(t, e) {
+                                            return t.distance - e.distance;
+                                        }));
+                                        s = [], r = null, c = -1;
+                                        if (i.forEach((function(t) {
+                                                h(t.distance, c) || (r = [], c = t.distance, s.push(r)), r.push(t);
+                                            })), s.forEach((function(n) {
+                                                var i, a = [];
+                                                n.forEach((function(t) {
+                                                    var e = t.segment.shape;
+                                                    e && -1 === a.indexOf(e) && a.push(e);
+                                                }));
+                                                for (i = function() {
+                                                        var i, s, o, r, c, l, h = a.findIndex((function(t) {
+                                                            return t.owner === e.in;
+                                                        }));
+                                                        if (0 < h) {
+                                                            i = a[0];
+                                                            a[0] = a[h], a[h] = i;
                                                         }
-                                                    }; _0x2fcax31.length;) {
-                                                    _0x2fcax2c()
-                                                }
-                                            }), _0x2fcax45.death) {
-                                            return {
-                                                v: void(0)
-                                            }
+                                                        s = a.findIndex((function(t) {
+                                                            return t.owner.isTrack;
+                                                        }));
+                                                        if (0 < s) {
+                                                            o = a[0];
+                                                            a[0] = a[s], a[s] = o;
+                                                        }
+                                                        r = a.shift(), c = [];
+                                                        for (n.forEach((function(t) {
+                                                                t.segment.shape === r && c.push(t);
+                                                            })); !e.death && c.length;) {
+                                                            c.sort((function(t, n) {
+                                                                return e.in ? n.zn - t.zn : t.zn - n.zn;
+                                                            }));
+                                                            l = c.shift();
+                                                            l.segment.shape && !r.owner.unit.death && r.owner.handleIntersect(l, e, t, f);
+                                                        }
+                                                    }; a.length;) i();
+                                            })), e.death) return {
+                                            v: void 0
                                         };
-                                        var _0x2fcax35 = _0x2fcax2f.end;
-                                        if (_0x2fcax45.in !== _0x2fcax45.base && _0x2fcax45.track.polyline.add(_0x2fcax35), _0x2fcax45.position = _0x2fcax35, _0x2fcax48.generateParticles && !_0x2fcax46.length && _0x2fcax45.in && _0x2fcax45.in !== _0x2fcax45.base) {
-                                            var _0x2fcax36 = Math.sign(Math.random() - 0.5),
-                                                _0x2fcax30 = _0x2fcax45.skin.avatar.scale * _0x2fcax3b,
-                                                _0x2fcax31 = _0x2fcax2f.vector.clone()['normalize']()['rotate'](_0x2fcax36 * Math.random() * (Math.PI / 30))['mulScalar'](1 * _0x2fcax52.unitSpeed + Math.random() * _0x2fcax52.unitSpeed),
-                                                _0x2fcax32 = _0x2fcax2f.vector.clone()['rotate'](Math.PI / 2)['normalize']()['mulScalar'](_0x2fcax36 * Math.random() * _0x2fcax30 / 2),
-                                                _0x2fcax39 = _0x2fcax2f.vector.clone()['normalize']()['mulScalar'](_0x2fcax30 / 2),
-                                                _0x2fcax3a = _0x2fcax2f.vector.clone()['normalize']()['mulScalar'](-6 * _0x2fcax52.unitSpeed),
-                                                _0x2fcax42 = _0x2fcax45.in.unit.skin.colors.particles,
-                                                _0x2fcax2d = 0.75 + 0.5 * Math.random(),
-                                                _0x2fcax44 = new _0x2fcax50(_0x2fcax42[~~(Math.random() * _0x2fcax42.length)], _0x2fcax2f.start.clone()['add'](_0x2fcax32)['add'](_0x2fcax39)['add'](new _0x2fcax47(0, -_0x2fcax52.baseHeight)), _0x2fcax31, Math.PI + Math.random() * Math.PI, _0x2fcax2d, -2 * _0x2fcax2d, 300, _0x2fcax3a);
-                                            _0x2fcax48.particles.push(_0x2fcax44)
+                                        l = t.end;
+                                        if (e.in !== e.base && e.track.polyline.add(l), e.position = l, f.generateParticles && !n.length && e.in && e.in !== e.base) {
+                                            u = Math.sign(Math.random() - .5), d = e.skin.avatar.scale * o, m = t.vector.clone().normalize().rotate(u * Math.random() * (Math.PI / 30)).mulScalar(1 * C.unitSpeed + Math.random() * C.unitSpeed),
+                                                p = t.vector.clone().rotate(Math.PI / 2).normalize().mulScalar(u * Math.random() * d / 2),
+                                                x = t.vector.clone().normalize().mulScalar(d / 2), y = t.vector.clone().normalize().mulScalar(-6 * C.unitSpeed),
+                                                g = e.in.unit.skin.colors.particles, _ = .75 + .5 * Math.random(), w = new P(g[~~(Math.random() * g.length)], t.start.clone().add(p).add(x).add(new v(0, -C.baseHeight)), m, Math.PI + Math.random() * Math.PI, _, -2 * _, 300, y);
+                                            f.particles.push(w);
                                         }
-                                    }; _0x2fcax46.length;) {
-                                    var _0x2fcax1f = _0x2fcax2c();
-                                    if ('object' === _0x2fcax2b(_0x2fcax1f)) {
-                                        return _0x2fcax1f.v
-                                    }
+                                    }; n.length;) {
+                                    a = i();
+                                    if ("object" === _0x2fcax2b(a)) return a.v;
                                 }
-                            }
-                        }), _0x2fcax35) {
-                        var _0x2fcax36 = (_0x2fcax35.base.square - _0x2fcax35.lastSquare) / this.square * 100;
-                        _0x2fcax35.lastSquare = _0x2fcax35.base.square, 0.01 <= _0x2fcax36 && this.labels.push(new _0x2fcax4e('+' ['concat'](_0x2fcax36.toFixed(2), '%'), _0x2fcax35.skin.colors.back, _0x2fcax35, new _0x2fcax47(0, -35), new _0x2fcax47(0, -10), 1e3, !0))
-                    };
-                    this.units.sort(function(_0x2fcax2c, _0x2fcax1f) {
-                        return _0x2fcax1f.base.square - _0x2fcax2c.base.square
-                    }), this.labels = this.labels.filter(function(_0x2fcax2c) {
-                        return _0x2fcax2c.update(_0x2fcax2e), 0 < _0x2fcax2c.time
-                    }), this.particles = this.particles.filter(function(_0x2fcax2c) {
-                        return _0x2fcax2c.update(_0x2fcax2e), 0 < _0x2fcax2c.time
-                    });
-                    var _0x2fcax30 = (_0x2fcax35 ? _0x2fcax39 - _0x2fcax35.base.square / this.square * (_0x2fcax39 - _0x2fcax3a) : 0.5) - this.scale;
-                    this.scale += _0x2fcax30 * _0x2fcax2e / 200, _0x2fcax35 && 0.9999 < _0x2fcax35.base.square / this.square && this.gameOver(!0), this.timings.spawnStartTime = _0x2fcax43(), this.units.length < this.maxUnits && this.spawnBot(0.3 < Math.random()), this.timings.spawnEndTime = _0x2fcax43(), this.timings.updateEndTime = _0x2fcax43()
+                        })), c) {
+                        l = (c.base.square - c.lastSquare) / this.square * 100;
+                        c.lastSquare = c.base.square, .01 <= l && this.labels.push(new T("+".concat(l.toFixed(2), "%"), c.skin.colors.back, c, new v(0, -35), new v(0, -10), 1e3, !0));
+                    }
+                    this.units.sort((function(t, e) {
+                        return e.base.square - t.base.square;
+                    })), this.labels = this.labels.filter((function(e) {
+                        return e.update(t), 0 < e.time;
+                    })), this.particles = this.particles.filter((function(e) {
+                        return e.update(t), 0 < e.time;
+                    }));
+                    u = (c ? a - c.base.square / this.square * (a - s) : .5) - this.scale;
+                    this.scale += u * t / 200, c && .9999 < c.base.square / this.square && this.gameOver(!0),
+                        this.timings.spawnStartTime = p(), this.units.length < this.maxUnits && this.spawnBot(.3 < Math.random()),
+                        this.timings.spawnEndTime = p(), this.timings.updateEndTime = p();
                 }
             }, {
-                key: 'render',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax30 = this;
-                    this.timings.renderStartTime = _0x2fcax43();
-                    var _0x2fcax1f = this.view;
-                    if (_0x2fcax1f) {
-                        var _0x2fcax31 = _0x2fcax1f.getContext('2d'),
-                            _0x2fcax2e = window.devicePixelRatio,
-                            _0x2fcax2f = _0x2fcax1f.width * _0x2fcax2e,
-                            _0x2fcax1e = _0x2fcax1f.height * _0x2fcax2e,
-                            _0x2fcax34 = Math.sqrt(_0x2fcax2f * _0x2fcax2f + _0x2fcax1e * _0x2fcax1e) / Math.sqrt(2455780),
-                            _0x2fcax35 = this.scale * _0x2fcax34 / _0x2fcax2e,
-                            _0x2fcax36 = this.player ? this.player.position : this.space.center,
-                            _0x2fcax32 = _0x2fcax36.x * _0x2fcax35 - _0x2fcax1f.width / 2,
-                            _0x2fcax39 = _0x2fcax36.y * _0x2fcax35 - _0x2fcax1f.height / 2,
-                            _0x2fcax3a = _0x2fcax36.x - _0x2fcax1f.width / 2 / _0x2fcax35,
-                            _0x2fcax42 = _0x2fcax36.x + _0x2fcax1f.width / 2 / _0x2fcax35,
-                            _0x2fcax2d = _0x2fcax36.y - _0x2fcax1f.height / 2 / _0x2fcax35,
-                            _0x2fcax44 = _0x2fcax36.y + _0x2fcax1f.height / 2 / _0x2fcax35,
-                            _0x2fcax45 = function(_0x2fcax2c) {
-                                var _0x2fcax1f = 1 < arguments.length && void(0) !== arguments[1] ? arguments[1] : 0;
-                                return _0x2fcax40(_0x2fcax3a - _0x2fcax1f, _0x2fcax42 + _0x2fcax1f, _0x2fcax2c.x) && _0x2fcax40(_0x2fcax2d - _0x2fcax1f, _0x2fcax44 + _0x2fcax1f, _0x2fcax2c.y)
-                            },
-                            _0x2fcax46 = function(_0x2fcax2c) {
-                                var _0x2fcax1f = 1 < arguments.length && void(0) !== arguments[1] ? arguments[1] : 0;
-                                return 0 < _0x2fcax41(_0x2fcax2c.bounds.left - _0x2fcax1f, _0x2fcax2c.bounds.right + _0x2fcax1f, _0x2fcax3a, _0x2fcax42) && 0 < _0x2fcax41(_0x2fcax2c.bounds.top - _0x2fcax1f, _0x2fcax2c.bounds.bottom + _0x2fcax1f, _0x2fcax2d, _0x2fcax44)
+                key: "render",
+                value: function(t) {
+                    var n, i, a, s, r, c, l, h, u, m, x, y, g, v, _, w, k, b, M, S, T, E, P, q, $, R, D, B, A, W, F, K, H, N = this;
+                    this.timings.renderStartTime = p();
+                    n = this.view;
+                    if (n) {
+                        i = n.getContext("2d"), a = window.devicePixelRatio, s = n.width * a, r = n.height * a,
+                            c = Math.sqrt(s * s + r * r) / Math.sqrt(2455780), l = this.scale * c / a, h = this.player ? this.player.position : this.space.center,
+                            u = h.x * l - n.width / 2, m = h.y * l - n.height / 2, x = h.x - n.width / 2 / l,
+                            y = h.x + n.width / 2 / l, g = h.y - n.height / 2 / l, v = h.y + n.height / 2 / l,
+                            _ = function(t) {
+                                var e = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : 0;
+                                return f(x - e, y + e, t.x) && f(g - e, v + e, t.y);
+                            }, w = function(t) {
+                                var e = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : 0;
+                                return 0 < d(t.bounds.left - e, t.bounds.right + e, x, y) && 0 < d(t.bounds.top - e, t.bounds.bottom + e, g, v);
                             };
-                        _0x2fcax31.resetTransform(), _0x2fcax31.clearRect(0, 0, _0x2fcax1f.width, _0x2fcax1f.height), _0x2fcax31.translate(-_0x2fcax32, -_0x2fcax39), _0x2fcax31.scale(_0x2fcax35, _0x2fcax35), _0x2fcax31.translate(0, -_0x2fcax52.baseHeight), this.units.forEach(function(_0x2fcax2c) {
-                            _0x2fcax46(_0x2fcax2c.base.polygon, _0x2fcax3b) && _0x2fcax53(_0x2fcax31, _0x2fcax2c.base.polygon.path, _0x2fcax2c.skin.pattern || _0x2fcax2c.skin.colors.main)
-                        }), _0x2fcax31.lineCap = 'round', _0x2fcax31.globalCompositeOperation = 'destination-out', this.units.forEach(function(_0x2fcax2c) {
-                            var _0x2fcax1f = _0x2fcax2c.track.polyline,
-                                _0x2fcax2e = _0x2fcax1f.start;
-                            _0x2fcax1f.bounds;
-                            _0x2fcax2e && _0x2fcax46(_0x2fcax2c.track.polyline, _0x2fcax3b) && (_0x2fcax55(_0x2fcax31, _0x2fcax2c.skin.colors.main, _0x2fcax2c.track, _0x2fcax2c.position), _0x2fcax31.save(), _0x2fcax31.globalCompositeOperation = 'destination-over', _0x2fcax31.clip(_0x2fcax2c.base.polygon.path), _0x2fcax31.fillStyle = _0x2fcax2c.skin.pattern || _0x2fcax2c.skin.colors.main, _0x2fcax55(_0x2fcax31, _0x2fcax2c.skin.pattern || _0x2fcax2c.skin.colors.main, _0x2fcax2c.track, _0x2fcax2c.position, !0), _0x2fcax31.restore())
-                        }), _0x2fcax31.translate(0, _0x2fcax52.baseHeight), _0x2fcax31.globalCompositeOperation = 'source-over', this.units.forEach(function(_0x2fcax1f) {
-                            _0x2fcax45(_0x2fcax1f.position, 4 * _0x2fcax3b) && (_0x2fcax31.save(), _0x2fcax1f.skin.avatar.topLayers.forEach(function(_0x2fcax2c) {
-                                return _0x2fcax58(_0x2fcax31, _0x2fcax1f, _0x2fcax2c)
-                            }), _0x2fcax31.restore())
-                        }), this.units.forEach(function(_0x2fcax2c) {
-                            ! function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                                var _0x2fcax1e = ~~(30 / window.devicePixelRatio);
-                                _0x2fcax2c.save(), _0x2fcax2c.translate(_0x2fcax1f.position.x, _0x2fcax1f.position.y), _0x2fcax2c.scale(1.001 / _0x2fcax2e, 1.001 / _0x2fcax2e), _0x2fcax2c.font = 'bold ' ['concat'](_0x2fcax1e, 'px Nunito'), _0x2fcax2c.textAlign = 'center', _0x2fcax2c.textBaseline = 'bottom', _0x2fcax2c.fillStyle = _0x2fcax1f.skin.colors.nick, _0x2fcax2c.fillText(_0x2fcax1f.name, 0, -10 * _0x2fcax2e), _0x2fcax2c.restore()
-                            }(_0x2fcax31, _0x2fcax2c, _0x2fcax35)
-                        }), _0x2fcax31.globalCompositeOperation = 'destination-over', this.units.forEach(function(_0x2fcax1f) {
-                            _0x2fcax45(_0x2fcax1f.position, 4 * _0x2fcax3b) && (_0x2fcax31.save(), _0x2fcax1f.skin.avatar.bottomLayers.forEach(function(_0x2fcax2c) {
-                                return _0x2fcax58(_0x2fcax31, _0x2fcax1f, _0x2fcax2c)
-                            }), _0x2fcax31.restore())
-                        }), _0x2fcax31.globalAlpha = 0.6, this.units.forEach(function(_0x2fcax2c) {
-                            _0x2fcax2c.in !== _0x2fcax2c.base && _0x2fcax46(_0x2fcax2c.track.polyline, _0x2fcax3b) && _0x2fcax55(_0x2fcax31, _0x2fcax2c.skin.pattern || _0x2fcax2c.skin.colors.main, _0x2fcax2c.track, _0x2fcax2c.position)
-                        }), _0x2fcax31.globalAlpha = 1, this.units.forEach(function(_0x2fcax2c) {
-                            _0x2fcax46(_0x2fcax2c.base.polygon, _0x2fcax3b) && _0x2fcax53(_0x2fcax31, _0x2fcax2c.base.polygon.path, _0x2fcax2c.skin && _0x2fcax2c.skin.back || _0x2fcax2c.skin.colors.back)
-                        }), _0x2fcax54(_0x2fcax31, this.border, 0, '#e7fff4'), _0x2fcax31.translate(0, 5), _0x2fcax54(_0x2fcax31, this.border, 0, '#88a799'), _0x2fcax31.translate(0, -5), _0x2fcax31.fillStyle = function(_0x2fcax2c, _0x2fcax1f) {
-                            return _0x2fcax38 || ((_0x2fcax38 = _0x2fcax2c.createLinearGradient(_0x2fcax1f.width / 2, 0, _0x2fcax1f.width / 2, _0x2fcax1f.height))['addColorStop'](0, '#2d6998'), _0x2fcax38.addColorStop(0.5, '#51d7dd'), _0x2fcax38.addColorStop(1, '#81faff')), _0x2fcax38
-                        }(_0x2fcax31, this.space), _0x2fcax31.fillRect(_0x2fcax2f / -2, _0x2fcax1e / -2, this.space.width + _0x2fcax2f, this.space.height + _0x2fcax1e), _0x2fcax31.lineJoin = 'round', _0x2fcax31.globalCompositeOperation = 'source-over', _0x2fcax31.globalCompositeOperation = 'source-over', _0x2fcax31.lineJoin = 'butt', _0x2fcax31.lineCap = 'butt', this.particles.forEach(function(_0x2fcax2c) {
-                            return _0x2fcax45(_0x2fcax2c.position, _0x2fcax3b) && _0x2fcax2c.draw(_0x2fcax31)
-                        }), _0x2fcax31.scale(1 / _0x2fcax35, 1 / _0x2fcax35), this.labels.forEach(function(_0x2fcax2c) {
-                            return _0x2fcax2c.draw(_0x2fcax31, _0x2fcax35)
-                        }), _0x2fcax31.scale(_0x2fcax35, _0x2fcax35);
-                        var _0x2fcax48 = this.units[0];
-                        _0x2fcax48 && function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                            var _0x2fcax1e = window.devicePixelRatio,
-                                _0x2fcax34 = ~~(30 / _0x2fcax1e);
-                            _0x2fcax2c.save(), _0x2fcax2c.translate(_0x2fcax1f.position.x, _0x2fcax1f.position.y), _0x2fcax2c.scale(1 / (_0x2fcax2e * _0x2fcax1e), 1 / (_0x2fcax2e * _0x2fcax1e)), _0x2fcax2c.fillStyle = '#ffff00', _0x2fcax2c.strokeStyle = '#ff8800', _0x2fcax2c.lineJoin = 'round', _0x2fcax2c.lineWidth = 1, _0x2fcax2c.translate(0, -10 * _0x2fcax2e * _0x2fcax1e), _0x2fcax2c.translate(0, -4), _0x2fcax2c.translate(0, -_0x2fcax34 * _0x2fcax1e), _0x2fcax2c.translate(0, -12), _0x2fcax2c.fill(_0x2fcax56), _0x2fcax2c.stroke(_0x2fcax56), _0x2fcax2c.restore()
-                        }(_0x2fcax31, _0x2fcax48, _0x2fcax35);
-                        var _0x2fcax3c = _0x2fcax48 && _0x2fcax48.base.square / this.square;
-                        _0x2fcax31.resetTransform();
-                        var _0x2fcax2b = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34, _0x2fcax35) {
-                            var _0x2fcax36 = _0x2fcax33(_0x2fcax35, 4),
-                                _0x2fcax30 = _0x2fcax36[0],
-                                _0x2fcax31 = _0x2fcax36[1],
-                                _0x2fcax2f = _0x2fcax36[2],
-                                _0x2fcax32 = _0x2fcax36[3];
-                            _0x2fcax2c.beginPath(), _0x2fcax2c.moveTo(_0x2fcax1f + _0x2fcax30, _0x2fcax2e), _0x2fcax2c.lineTo(_0x2fcax1f + _0x2fcax1e - _0x2fcax31, _0x2fcax2e), _0x2fcax2c.quadraticCurveTo(_0x2fcax1f + _0x2fcax1e, _0x2fcax2e, _0x2fcax1f + _0x2fcax1e, _0x2fcax2e + _0x2fcax31), _0x2fcax2c.lineTo(_0x2fcax1f + _0x2fcax1e, _0x2fcax2e + _0x2fcax34 - _0x2fcax2f), _0x2fcax2c.quadraticCurveTo(_0x2fcax1f + _0x2fcax1e, _0x2fcax2e + _0x2fcax34, _0x2fcax1f + _0x2fcax1e - _0x2fcax2f, _0x2fcax2e + _0x2fcax34), _0x2fcax2c.lineTo(_0x2fcax1f + _0x2fcax32, _0x2fcax2e + _0x2fcax34), _0x2fcax2c.quadraticCurveTo(_0x2fcax1f, _0x2fcax2e + _0x2fcax34, _0x2fcax1f, _0x2fcax2e + _0x2fcax34 - _0x2fcax32), _0x2fcax2c.lineTo(_0x2fcax1f, _0x2fcax2e + _0x2fcax30), _0x2fcax2c.quadraticCurveTo(_0x2fcax1f, _0x2fcax2e, _0x2fcax1f + _0x2fcax30, _0x2fcax2e), _0x2fcax2c.closePath(), _0x2fcax2c.fill()
+                        i.resetTransform(), i.clearRect(0, 0, n.width, n.height), i.translate(-u, -m), i.scale(l, l),
+                            i.translate(0, -C.baseHeight), this.units.forEach((function(t) {
+                                w(t.base.polygon, o) && I(i, t.base.polygon.path, t.skin.pattern || t.skin.colors.main);
+                            })), i.lineCap = "round", i.globalCompositeOperation = "destination-out", this.units.forEach((function(t) {
+                                var e = t.track.polyline,
+                                    n = e.start;
+                                e.bounds;
+                                n && w(t.track.polyline, o) && (z(i, t.skin.colors.main, t.track, t.position), i.save(),
+                                    i.globalCompositeOperation = "destination-over", i.clip(t.base.polygon.path), i.fillStyle = t.skin.pattern || t.skin.colors.main,
+                                    z(i, t.skin.pattern || t.skin.colors.main, t.track, t.position, !0), i.restore());
+                            })), i.translate(0, C.baseHeight), i.globalCompositeOperation = "source-over", this.units.forEach((function(t) {
+                                _(t.position, 4 * o) && (i.save(), t.skin.avatar.topLayers.forEach((function(e) {
+                                    return j(i, t, e);
+                                })), i.restore());
+                            })), this.units.forEach((function(t) {
+                                ! function(t, e, n) {
+                                    var i = ~~(30 / window.devicePixelRatio);
+                                    t.save(), t.translate(e.position.x, e.position.y), t.scale(1.001 / n, 1.001 / n),
+                                        t.font = "bold ".concat(i, "px Nunito"), t.textAlign = "center", t.textBaseline = "bottom",
+                                        t.fillStyle = e.skin.colors.nick, t.fillText(e.name, 0, -10 * n), t.restore();
+                                }(i, t, l);
+                            })), i.globalCompositeOperation = "destination-over", this.units.forEach((function(t) {
+                                _(t.position, 4 * o) && (i.save(), t.skin.avatar.bottomLayers.forEach((function(e) {
+                                    return j(i, t, e);
+                                })), i.restore());
+                            })), i.globalAlpha = .6, this.units.forEach((function(t) {
+                                t.in !== t.base && w(t.track.polyline, o) && z(i, t.skin.pattern || t.skin.colors.main, t.track, t.position);
+                            })), i.globalAlpha = 1, this.units.forEach((function(t) {
+                                w(t.base.polygon, o) && I(i, t.base.polygon.path, t.skin && t.skin.back || t.skin.colors.back);
+                            })), O(i, this.border, 0, "#e7fff4"), i.translate(0, 5), O(i, this.border, 0, "#88a799"),
+                            i.translate(0, -5), i.fillStyle = function(t, n) {
+                                return e || ((e = t.createLinearGradient(n.width / 2, 0, n.width / 2, n.height)).addColorStop(0, "#2d6998"),
+                                    e.addColorStop(.5, "#51d7dd"), e.addColorStop(1, "#81faff")), e;
+                            }(i, this.space), i.fillRect(s / -2, r / -2, this.space.width + s, this.space.height + r),
+                            i.lineJoin = "round", i.globalCompositeOperation = "source-over", i.globalCompositeOperation = "source-over",
+                            i.lineJoin = "butt", i.lineCap = "butt", this.particles.forEach((function(t) {
+                                return _(t.position, o) && t.draw(i);
+                            })), i.scale(1 / l, 1 / l), this.labels.forEach((function(t) {
+                                return t.draw(i, l);
+                            })), i.scale(l, l);
+                        k = this.units[0];
+                        k && function(t, e, n) {
+                            var i = window.devicePixelRatio,
+                                a = ~~(30 / i);
+                            t.save(), t.translate(e.position.x, e.position.y), t.scale(1 / (n * i), 1 / (n * i)),
+                                t.fillStyle = "#ffff00", t.strokeStyle = "#ff8800", t.lineJoin = "round", t.lineWidth = 1,
+                                t.translate(0, -10 * n * i), t.translate(0, -4), t.translate(0, -a * i), t.translate(0, -12),
+                                t.fill(L), t.stroke(L), t.restore();
+                        }(i, k, l);
+                        b = k && k.base.square / this.square;
+                        i.resetTransform();
+                        M = function(t, e, n, i, a, s) {
+                            var o = _0x2fcax33(s, 4),
+                                r = o[0],
+                                c = o[1],
+                                l = o[2],
+                                h = o[3];
+                            t.beginPath(), t.moveTo(e + r, n), t.lineTo(e + i - c, n), t.quadraticCurveTo(e + i, n, e + i, n + c),
+                                t.lineTo(e + i, n + a - l), t.quadraticCurveTo(e + i, n + a, e + i - l, n + a),
+                                t.lineTo(e + h, n + a), t.quadraticCurveTo(e, n + a, e, n + a - h), t.lineTo(e, n + r),
+                                t.quadraticCurveTo(e, n, e + r, n), t.closePath(), t.fill();
                         };
-                        _0x2fcax31.scale(1 / _0x2fcax2e, 1 / _0x2fcax2e);
-                        for (var _0x2fcax37, _0x2fcax3d = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                                return _0x2fcax2e < _0x2fcax2c ? _0x2fcax2c : _0x2fcax1f < _0x2fcax2e ? _0x2fcax1f : _0x2fcax2e
-                            }(9 / 16, 16 / 9, _0x2fcax2f / _0x2fcax1e), _0x2fcax3e = 9 / 16 - 16 / 9, _0x2fcax3f = _0x2fcax2f / (-(1.75 + 1.75 * _0x2fcax3d) / _0x2fcax3e), _0x2fcax47 = _0x2fcax3f / 2, _0x2fcax49 = function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e, _0x2fcax1e) {
-                                var _0x2fcax34 = 16 + 46 * _0x2fcax2e,
-                                    _0x2fcax35 = _0x2fcax2c.base.square / _0x2fcax30.square / _0x2fcax1e * _0x2fcax47;
-                                _0x2fcax37 && _0x2fcax37 - 0.05 * _0x2fcax47 < _0x2fcax35 && (_0x2fcax35 = _0x2fcax37 - 0.05 * _0x2fcax47);
-                                var _0x2fcax36 = _0x2fcax2f - (_0x2fcax47 + (_0x2fcax37 = _0x2fcax35));
-                                _0x2fcax31.fillStyle = '#00000011', _0x2fcax2b(_0x2fcax31, _0x2fcax36, 16 + _0x2fcax34, _0x2fcax3f, 36, [18, 0, 0, 18]), _0x2fcax31.fillStyle = _0x2fcax2c.skin.colors.back, _0x2fcax2b(_0x2fcax31, _0x2fcax36, 4 + _0x2fcax34, _0x2fcax3f, 36, [18, 0, 0, 18]), _0x2fcax31.fillStyle = _0x2fcax2c.skin.colors.main, _0x2fcax2b(_0x2fcax31, _0x2fcax36, _0x2fcax34, _0x2fcax3f, 36, [18, 0, 0, 18]), _0x2fcax31.fillStyle = _0x2fcax2c.skin.colors.nick, _0x2fcax31.font = 'bold ' ['concat'](20, 'px Nunito'), _0x2fcax31.textAlign = 'left', _0x2fcax31.textBaseline = 'middle', _0x2fcax31.fillText('' ['concat'](_0x2fcax1f, '— ')['concat']((_0x2fcax2c.base.square / _0x2fcax30.square * 100)['toFixed'](2), '% ')['concat'](_0x2fcax2c.name), 18 + _0x2fcax36, 18 + _0x2fcax34 + 2)
-                            }, _0x2fcax4a = !1, _0x2fcax4b = 0; _0x2fcax4b < 5; _0x2fcax4b++) {
-                            var _0x2fcax4c = this.units[_0x2fcax4b];
-                            _0x2fcax4c && (_0x2fcax4c === this.player && (_0x2fcax4a = !0), _0x2fcax49(_0x2fcax4c, _0x2fcax4b + 1, _0x2fcax4b, _0x2fcax3c))
-                        };
-                        if (!_0x2fcax4a && this.player && !this.player.death) {
-                            var _0x2fcax4d = this.units.findIndex(function(_0x2fcax2c) {
-                                return _0x2fcax2c === _0x2fcax30.player
-                            });
-                            _0x2fcax49(this.player, _0x2fcax4d + 1, 6, _0x2fcax3c)
-                        };
+                        i.scale(1 / a, 1 / a);
+                        for (T = function(t, e, n) {
+                                return n < t ? t : e < n ? e : n;
+                            }(9 / 16, 16 / 9, s / r), E = 9 / 16 - 16 / 9, P = s / (-(1.75 + 1.75 * T) / E),
+                            q = P / 2, $ = function(t, e, n, a) {
+                                var o, r = 16 + 46 * n,
+                                    c = t.base.square / N.square / a * q;
+                                S && S - .05 * q < c && (c = S - .05 * q);
+                                o = s - (q + (S = c));
+                                i.fillStyle = "#00000011", M(i, o, 16 + r, P, 36, [18, 0, 0, 18]), i.fillStyle = t.skin.colors.back,
+                                    M(i, o, 4 + r, P, 36, [18, 0, 0, 18]), i.fillStyle = t.skin.colors.main, M(i, o, r, P, 36, [18, 0, 0, 18]),
+                                    i.fillStyle = t.skin.colors.nick, i.font = "bold ".concat(20, "px Nunito"), i.textAlign = "left",
+                                    i.textBaseline = "middle", i.fillText("".concat(e, "— ").concat((t.base.square / N.square * 100).toFixed(2), "% ").concat(t.name), 18 + o, 18 + r + 2);
+                            }, R = !1, D = 0; D < 5; D++) {
+                            B = this.units[D];
+                            B && (B === this.player && (R = !0), $(B, D + 1, D, b));
+                        }
+                        if (!R && this.player && !this.player.death) {
+                            A = this.units.findIndex((function(t) {
+                                return t === N.player;
+                            }));
+                            $(this.player, A + 1, 6, b);
+                        }
                         if (this.player) {
-                            _0x2fcax31.fillStyle = '#00000022', _0x2fcax2b(_0x2fcax31, 0, 16, _0x2fcax3f, 40, [0, 20, 20, 0]);
-                            var _0x2fcax4e = 0.25 * _0x2fcax3f + this.player.base.square / this.square * _0x2fcax3f * 0.75;
-                            _0x2fcax31.fillStyle = this.player.skin.colors.back, _0x2fcax2b(_0x2fcax31, 0, 20, _0x2fcax4e, 36, [0, 18, 18, 0]), _0x2fcax31.fillStyle = this.player.skin.colors.main, _0x2fcax2b(_0x2fcax31, 0, 14, _0x2fcax4e, 36, [0, 18, 18, 0]), _0x2fcax31.fillStyle = this.player.skin.colors.nick, _0x2fcax31.font = 'bold ' ['concat'](22, 'px Nunito'), _0x2fcax31.textAlign = 'left', _0x2fcax31.textBaseline = 'middle', _0x2fcax31.fillText('' ['concat']((this.player.base.square / this.square * 100)['toFixed'](2), '%'), 18, 36), _0x2fcax31.fillStyle = '#00000088', _0x2fcax31.fillStyle = '#58c921', _0x2fcax2b(_0x2fcax31, 0, 60, 150, 36, [0, 18, 18, 0]), _0x2fcax31.font = 'bold ' ['concat'](20, 'px Nunito'), _0x2fcax31.fillStyle = '#fff', _0x2fcax31.textBaseline = 'top', _0x2fcax31.fillText('🏆 ' ['concat'](this.best.toFixed(2), '%'), 3, 70);
-                            _0x2fcax31.fillStyle = '#ffae13', _0x2fcax2b(_0x2fcax31, 0, 100, 80, 36, [0, 18, 18, 0]), _0x2fcax31.fillStyle = '#fff', _0x2fcax31.font = 'bold ' ['concat'](20, 'px Nunito'), _0x2fcax31.textBaseline = 'middle', _0x2fcax31.fillText('☠️ ' ['concat'](this.player.statistics.kills), 3, 120)
-                        };
-                        this.timings.renderEndTime = _0x2fcax43();
-                        var _0x2fcax4f = function(_0x2fcax2c, _0x2fcax1f) {
-                                return 0.95 * _0x2fcax2c + 0.05 * _0x2fcax1f
-                            },
-                            _0x2fcax50 = this.stats,
-                            _0x2fcax51 = this.timings;
-                        _0x2fcax50.fps = _0x2fcax4f(_0x2fcax50.fps, 1e3 / _0x2fcax2c), _0x2fcax50.ut = _0x2fcax4f(_0x2fcax50.ut, _0x2fcax51.updateEndTime - _0x2fcax51.updateStartTime), _0x2fcax50.ait = _0x2fcax4f(_0x2fcax50.ait, _0x2fcax51.aiEndTime - _0x2fcax51.aiStartTime), _0x2fcax50.st = _0x2fcax4f(_0x2fcax50.st, _0x2fcax51.spawnEndTime - _0x2fcax51.spawnStartTime), _0x2fcax50.rt = _0x2fcax4f(_0x2fcax50.rt, _0x2fcax51.renderEndTime - _0x2fcax51.renderStartTime)
+                            i.fillStyle = "#00000022", M(i, 0, 16, P, 40, [0, 20, 20, 0]);
+                            W = .25 * P + this.player.base.square / this.square * P * .75;
+                            i.fillStyle = this.player.skin.colors.back, M(i, 0, 20, W, 36, [0, 18, 18, 0]),
+                                i.fillStyle = this.player.skin.colors.main, M(i, 0, 14, W, 36, [0, 18, 18, 0]),
+                                i.fillStyle = this.player.skin.colors.nick, i.font = "bold ".concat(22, "px Nunito"),
+                                i.textAlign = "left", i.textBaseline = "middle", i.fillText("".concat((this.player.base.square / this.square * 100).toFixed(2), "%"), 18, 36),
+                                i.fillStyle = "#00000088", i.fillStyle = "#58c921", M(i, 0, 60, 150, 36, [0, 18, 18, 0]),
+                                i.font = "bold ".concat(20, "px Nunito"), i.fillStyle = "#fff", i.textBaseline = "top",
+                                i.fillText("🏆 ".concat(this.best.toFixed(2), "%"), 3, 70);
+                            i.fillStyle = "#ffae13", M(i, 0, 100, 80, 36, [0, 18, 18, 0]), i.fillStyle = "#fff",
+                                i.font = "bold ".concat(20, "px Nunito"), i.textBaseline = "middle", i.fillText("☠️ ".concat(this.player.statistics.kills), 3, 120);
+                        }
+                        this.timings.renderEndTime = p();
+                        F = function(t, e) {
+                            return .95 * t + .05 * e;
+                        }, K = this.stats, H = this.timings;
+                        K.fps = F(K.fps, 1e3 / t), K.ut = F(K.ut, H.updateEndTime - H.updateStartTime),
+                            K.ait = F(K.ait, H.aiEndTime - H.aiStartTime), K.st = F(K.st, H.spawnEndTime - H.spawnStartTime),
+                            K.rt = F(K.rt, H.renderEndTime - H.renderStartTime);
                     }
                 }
             }, {
-                key: 'checkSegments',
-                value: function(_0x2fcax2c) {
-                    this.units.forEach(function(_0x2fcax2c) {
-                        _0x2fcax2c.base.polygon.segments.length, _0x2fcax2c.track.polyline.segments.length
-                    });
-                    var _0x2fcax1f = this.space.segmentsCount();
-                    Object.keys(_0x2fcax1f)['length']
+                key: "checkSegments",
+                value: function(t) {
+                    this.units.forEach((function(t) {
+                        t.base.polygon.segments.length, t.track.polyline.segments.length;
+                    }));
+                    var e = this.space.segmentsCount();
+                    Object.keys(e).length;
                 }
             }, {
-                key: 'handleReturn',
-                value: function(_0x2fcax48) {
-                    var _0x2fcax3c = this;
-                    if (!_0x2fcax48.death) {
-                        var _0x2fcax1f = _0x2fcax48.track.polyline.clone(),
-                            _0x2fcax2c = _0x2fcax48.base,
-                            _0x2fcax2e = _0x2fcax2c.polygon.segments.findIndex(function(_0x2fcax2c) {
-                                return _0x2fcax2c.start === _0x2fcax1f.start
-                            }),
-                            _0x2fcax1e = _0x2fcax2c.polygon.segments.findIndex(function(_0x2fcax2c) {
-                                return _0x2fcax2c.start === _0x2fcax1f.end
-                            }),
-                            _0x2fcax34 = Math.min(_0x2fcax1e, _0x2fcax2e),
-                            _0x2fcax35 = Math.max(_0x2fcax1e, _0x2fcax2e);
-                        _0x2fcax34 !== _0x2fcax2e && _0x2fcax1f.reverse();
-                        var _0x2fcax36 = _0x2fcax1f.points(),
-                            _0x2fcax30 = _0x2fcax2c.polygon.points(),
-                            _0x2fcax31 = _0x2fcax30.splice.apply(_0x2fcax30, [_0x2fcax34, _0x2fcax35 - _0x2fcax34 + 1]['concat'](_0x2fcax37(_0x2fcax36)));
-                        _0x2fcax31.shift(), _0x2fcax31.pop(), _0x2fcax31.reverse(), _0x2fcax31.push.apply(_0x2fcax31, _0x2fcax37(_0x2fcax36));
-                        var _0x2fcax2f, _0x2fcax32 = new _0x2fcax4c(_0x2fcax31);
-                        _0x2fcax32.rawSquare() < 0 ? (_0x2fcax2f = new _0x2fcax4c(_0x2fcax30.reverse()), _0x2fcax2c.polygon.unsplice(_0x2fcax1f, _0x2fcax34, _0x2fcax35)) : (_0x2fcax2f = _0x2fcax32, _0x2fcax2c.polygon.splice(_0x2fcax1f, _0x2fcax34, _0x2fcax35)), _0x2fcax2c.square += _0x2fcax2f.square(), _0x2fcax2c.polygon.calcPath(), this.units.filter(function(_0x2fcax2c) {
-                            return _0x2fcax2c !== _0x2fcax48
-                        })['forEach'](function(_0x2fcax2c) {
-                            _0x2fcax2c.death || (_0x2fcax2c.in === _0x2fcax2c.base && _0x2fcax2f.inside(_0x2fcax2c.position) && _0x2fcax3c.kill(_0x2fcax2c, _0x2fcax48), _0x2fcax2c.track.polyline.start && _0x2fcax2f.inside(_0x2fcax2c.track.polyline.start) && _0x2fcax3c.kill(_0x2fcax2c, _0x2fcax48))
-                        });
-                        for (var _0x2fcax39 = [], _0x2fcax3a = _0x2fcax48.track.polyline.segments, _0x2fcax42 = _0x2fcax3a.length, _0x2fcax2d = function(_0x2fcax1f) {
-                                var _0x2fcax2e = _0x2fcax1f === _0x2fcax42 ? _0x2fcax3a[_0x2fcax1f - 1]['end'] : _0x2fcax3a[_0x2fcax1f]['start'],
-                                    _0x2fcax2c = _0x2fcax2e.segments.filter(function(_0x2fcax2c) {
-                                        return _0x2fcax2c.shape.owner !== _0x2fcax48.track && _0x2fcax2c.shape.owner !== _0x2fcax48.base && _0x2fcax2c.start === _0x2fcax2e
-                                    });
-                                if (_0x2fcax2c.length) {
-                                    var _0x2fcax1e = _0x2fcax2c.map(function(_0x2fcax2c) {
+                key: "handleReturn",
+                value: function(t) {
+                    var e, n, i, a, s, o, r, c, l, h, u, f, d, m, p, x, y, g = this;
+                    if (!t.death) {
+                        e = t.track.polyline.clone(), n = t.base, i = n.polygon.segments.findIndex((function(t) {
+                            return t.start === e.start;
+                        })), a = n.polygon.segments.findIndex((function(t) {
+                            return t.start === e.end;
+                        })), s = Math.min(a, i), o = Math.max(a, i);
+                        s !== i && e.reverse();
+                        r = e.points(), c = n.polygon.points(), l = c.splice.apply(c, [s, o - s + 1].concat(_0x2fcax37(r)));
+                        l.shift(), l.pop(), l.reverse(), l.push.apply(l, _0x2fcax37(r));
+                        u = new M(l);
+                        u.rawSquare() < 0 ? (h = new M(c.reverse()), n.polygon.unsplice(e, s, o)) : (h = u,
+                            n.polygon.splice(e, s, o)), n.square += h.square(), n.polygon.calcPath(), this.units.filter((function(e) {
+                            return e !== t;
+                        })).forEach((function(e) {
+                            e.death || (e.in === e.base && h.inside(e.position) && g.kill(e, t), e.track.polyline.start && h.inside(e.track.polyline.start) && g.kill(e, t));
+                        }));
+                        for (f = [], d = t.track.polyline.segments, m = d.length, p = function(e) {
+                                var n, i, a, s, o, r, c = e === m ? d[e - 1].end : d[e].start,
+                                    l = c.segments.filter((function(e) {
+                                        return e.shape.owner !== t.track && e.shape.owner !== t.base && e.start === c;
+                                    }));
+                                if (l.length) {
+                                    n = l.map((function(t) {
                                         return {
-                                            owner: _0x2fcax2c.shape.owner,
-                                            point: _0x2fcax2e,
-                                            segment: _0x2fcax2c,
-                                            index: _0x2fcax1f
-                                        }
-                                    });
-                                    if (_0x2fcax39.length) {
-                                        var _0x2fcax34 = _0x2fcax39.filter(function(_0x2fcax1f) {
-                                            return _0x2fcax1e.some(function(_0x2fcax2c) {
-                                                return _0x2fcax2c.owner === _0x2fcax1f.owner
-                                            })
-                                        });
-                                        if (_0x2fcax34.length) {
-                                            var _0x2fcax35 = _0x2fcax34[0],
-                                                _0x2fcax36 = _0x2fcax1e.find(function(_0x2fcax2c) {
-                                                    return _0x2fcax2c.owner === _0x2fcax35.owner
-                                                });
-                                            ! function(_0x2fcax2c) {
-                                                var _0x2fcax1f = _0x2fcax2c.owner,
-                                                    _0x2fcax2e = _0x2fcax2c.startT,
-                                                    _0x2fcax1e = _0x2fcax2c.endT,
-                                                    _0x2fcax34 = _0x2fcax2c.startPoint,
-                                                    _0x2fcax35 = _0x2fcax2c.endPoint,
-                                                    _0x2fcax36 = _0x2fcax2c.enter,
-                                                    _0x2fcax30 = _0x2fcax2c.leave;
-                                                if (_0x2fcax36.shape !== _0x2fcax1f.polygon && (_0x2fcax36 = _0x2fcax1f.polygon.segments.find(function(_0x2fcax2c) {
-                                                        return _0x2fcax2c.start === _0x2fcax34
-                                                    })), _0x2fcax30.shape !== _0x2fcax1f.polygon && (_0x2fcax30 = _0x2fcax1f.polygon.segments.find(function(_0x2fcax2c) {
-                                                        return _0x2fcax2c.start === _0x2fcax35
-                                                    })), _0x2fcax36 !== _0x2fcax30) {
-                                                    var _0x2fcax31 = _0x2fcax48.track.polyline.points()['splice'](_0x2fcax2e, _0x2fcax1e - _0x2fcax2e + 1),
-                                                        _0x2fcax2f = _0x2fcax1f.polygon.segments.findIndex(function(_0x2fcax2c) {
-                                                            return _0x2fcax2c === _0x2fcax36
-                                                        }),
-                                                        _0x2fcax32 = _0x2fcax1f.polygon.segments.findIndex(function(_0x2fcax2c) {
-                                                            return _0x2fcax2c === _0x2fcax30
-                                                        }),
-                                                        _0x2fcax39 = Math.min(_0x2fcax32, _0x2fcax2f),
-                                                        _0x2fcax3a = Math.max(_0x2fcax32, _0x2fcax2f);
-                                                    _0x2fcax39 !== _0x2fcax2f && _0x2fcax31.reverse();
-                                                    var _0x2fcax42 = _0x2fcax1f.polygon.points(),
-                                                        _0x2fcax2d = _0x2fcax42.splice.apply(_0x2fcax42, [_0x2fcax39, _0x2fcax3a - _0x2fcax39 + 1]['concat'](_0x2fcax37(_0x2fcax31)));
-                                                    _0x2fcax2d.shift(), _0x2fcax2d.pop(), _0x2fcax2d.push.apply(_0x2fcax2d, _0x2fcax37(_0x2fcax31.slice()['reverse']()));
-                                                    var _0x2fcax44, _0x2fcax45 = new _0x2fcax4c(_0x2fcax2d),
-                                                        _0x2fcax46 = new _0x2fcax4c(_0x2fcax42);
-                                                    _0x2fcax44 = _0x2fcax1f.unit.in === _0x2fcax1f.unit.base && _0x2fcax45.inside(_0x2fcax1f.unit.position) || _0x2fcax1f.unit.in !== _0x2fcax1f.unit.base && _0x2fcax45.inside(_0x2fcax1f.unit.track.polyline.start) ? (_0x2fcax1f.polygon.right(_0x2fcax31, _0x2fcax39, _0x2fcax3a), _0x2fcax46) : (_0x2fcax1f.polygon.left(_0x2fcax31, _0x2fcax39, _0x2fcax3a), _0x2fcax45), _0x2fcax1f.square -= _0x2fcax44.square(), _0x2fcax1f.polygon.calcPath(), _0x2fcax3c.units.forEach(function(_0x2fcax2c) {
-                                                        _0x2fcax1f.unit !== _0x2fcax2c && _0x2fcax2c.in === _0x2fcax1f && _0x2fcax44.inside(_0x2fcax2c.position) && (_0x2fcax2c.in = null)
-                                                    })
+                                            owner: t.shape.owner,
+                                            point: c,
+                                            segment: t,
+                                            index: e
+                                        };
+                                    }));
+                                    if (f.length) {
+                                        i = f.filter((function(t) {
+                                            return n.some((function(e) {
+                                                return e.owner === t.owner;
+                                            }));
+                                        }));
+                                        if (i.length) {
+                                            a = i[0], s = n.find((function(t) {
+                                                return t.owner === a.owner;
+                                            }));
+                                            ! function(e) {
+                                                var n, i, a, s, o, r, c, l, h, u, f = e.owner,
+                                                    d = e.startT,
+                                                    m = e.endT,
+                                                    p = e.startPoint,
+                                                    x = e.endPoint,
+                                                    y = e.enter,
+                                                    v = e.leave;
+                                                if (y.shape !== f.polygon && (y = f.polygon.segments.find((function(t) {
+                                                        return t.start === p;
+                                                    }))), v.shape !== f.polygon && (v = f.polygon.segments.find((function(t) {
+                                                        return t.start === x;
+                                                    }))), y !== v) {
+                                                    n = t.track.polyline.points().splice(d, m - d + 1), i = f.polygon.segments.findIndex((function(t) {
+                                                        return t === y;
+                                                    })), a = f.polygon.segments.findIndex((function(t) {
+                                                        return t === v;
+                                                    })), s = Math.min(a, i), o = Math.max(a, i);
+                                                    s !== i && n.reverse();
+                                                    r = f.polygon.points(), c = r.splice.apply(r, [s, o - s + 1].concat(_0x2fcax37(n)));
+                                                    c.shift(), c.pop(), c.push.apply(c, _0x2fcax37(n.slice().reverse()));
+                                                    h = new M(c), u = new M(r);
+                                                    l = f.unit.in === f.unit.base && h.inside(f.unit.position) || f.unit.in !== f.unit.base && h.inside(f.unit.track.polyline.start) ? (f.polygon.right(n, s, o),
+                                                            u) : (f.polygon.left(n, s, o), h), f.square -= l.square(), f.polygon.calcPath(),
+                                                        g.units.forEach((function(t) {
+                                                            f.unit !== t && t.in === f && l.inside(t.position) && (t.in = null);
+                                                        }));
                                                 }
                                             }({
-                                                owner: _0x2fcax35.owner,
-                                                enter: _0x2fcax35.segment,
-                                                startPoint: _0x2fcax35.point,
-                                                startT: _0x2fcax35.index,
-                                                leave: _0x2fcax36.segment,
-                                                endPoint: _0x2fcax36.point,
-                                                endT: _0x2fcax36.index
+                                                owner: a.owner,
+                                                enter: a.segment,
+                                                startPoint: a.point,
+                                                startT: a.index,
+                                                leave: s.segment,
+                                                endPoint: s.point,
+                                                endT: s.index
                                             });
-                                            var _0x2fcax30 = _0x2fcax48.track.intersections.find(function(_0x2fcax2c) {
-                                                return _0x2fcax2c.point.equal(_0x2fcax2e)
-                                            })['intersections']['filter'](function(_0x2fcax2c) {
-                                                return _0x2fcax2c.base === _0x2fcax35.owner
-                                            });
-                                            1 !== _0x2fcax30.length && !1 !== _0x2fcax30[_0x2fcax30.length - 1]['enter'] || (_0x2fcax1e = _0x2fcax1e.filter(function(_0x2fcax2c) {
-                                                return _0x2fcax2c.owner !== _0x2fcax35.owner
-                                            }))
-                                        };
-                                        _0x2fcax39 = _0x2fcax1e
+                                            o = t.track.intersections.find((function(t) {
+                                                return t.point.equal(c);
+                                            })).intersections.filter((function(t) {
+                                                return t.base === a.owner;
+                                            }));
+                                            1 !== o.length && !1 !== o[o.length - 1].enter || (n = n.filter((function(t) {
+                                                return t.owner !== a.owner;
+                                            })));
+                                        }
+                                        f = n;
                                     } else {
-                                        var _0x2fcax31 = _0x2fcax48.track.intersections.find(function(_0x2fcax2c) {
-                                            return _0x2fcax2c.point.equal(_0x2fcax2e)
-                                        });
-                                        if (!_0x2fcax31) {
-                                            return {
-                                                v: !1
-                                            }
+                                        r = t.track.intersections.find((function(t) {
+                                            return t.point.equal(c);
+                                        }));
+                                        if (!r) return {
+                                            v: !1
                                         };
-                                        _0x2fcax39 = _0x2fcax1e.filter(function(_0x2fcax1f) {
-                                            var _0x2fcax2c = _0x2fcax31.intersections.filter(function(_0x2fcax2c) {
-                                                return _0x2fcax2c.base === _0x2fcax1f.owner
-                                            });
-                                            return !!_0x2fcax2c.length && _0x2fcax2c[_0x2fcax2c.length - 1]['enter']
-                                        })
+                                        f = n.filter((function(t) {
+                                            var e = r.intersections.filter((function(e) {
+                                                return e.base === t.owner;
+                                            }));
+                                            return !!e.length && e[e.length - 1].enter;
+                                        }));
                                     }
                                 }
-                            }, _0x2fcax44 = 0; _0x2fcax44 <= _0x2fcax42; _0x2fcax44++) {
-                            var _0x2fcax45 = _0x2fcax2d(_0x2fcax44);
-                            if ('object' === _0x2fcax2b(_0x2fcax45)) {
-                                return _0x2fcax45.v
-                            }
-                        };
-                        this.units.forEach(function(_0x2fcax2c) {
-                            _0x2fcax48 !== _0x2fcax2c && _0x2fcax2f.inside(_0x2fcax2c.position) && (_0x2fcax2c.in = _0x2fcax48.base)
-                        })
+                            }, x = 0; x <= m; x++) {
+                            y = p(x);
+                            if ("object" === _0x2fcax2b(y)) return y.v;
+                        }
+                        this.units.forEach((function(e) {
+                            t !== e && h.inside(e.position) && (e.in = t.base);
+                        }));
                     }
                 }
-            }]), _0x2fcax32
-        }(),
-        _0x2fcax65 = _0x2fcax52.trackWidth * _0x2fcax52.maxScale,
-        _0x2fcax66 = {
+            }]), _0x2fcax32;
+        }(), J = C.trackWidth * C.maxScale, X = {
             level: 0,
             scale: 1,
             x: 0,
             y: 0,
             pivot: {
-                x: 0.5,
-                y: 0.5
+                x: .5,
+                y: .5
             },
-            direction: '',
+            direction: "",
             rotation: 0,
             image: null
-        },
-        _0x2fcax67 = {
+        }, V = {
             scale: 1,
             x: 0,
             y: 0,
             layers: []
-        },
-        _0x2fcax68 = {
-            main: 'black',
-            back: 'black',
-            nick: 'black',
-            particles: ['black']
-        },
-        _0x2fcax69 = {
-            name: '',
-            colors: _0x2fcax68,
+        }, Z = {
+            main: "black",
+            back: "black",
+            nick: "black",
+            particles: ["black"]
+        }, Q = {
+            name: "",
+            colors: Z,
             pattern: null,
             avatar: null
-        },
-        _0x2fcax6a = document.createElementNS('http://www.w3.org/2000/svg', 'svg'),
-        _0x2fcax6b = function _0x2fcax2c(_0x2fcax36, _0x2fcax30, _0x2fcax1f) {
-            var _0x2fcax31 = this;
-            if (_0x2fcax2d(this, _0x2fcax2c), Object.assign(this, _0x2fcax69, _0x2fcax30), this.colors = Object.assign({}, _0x2fcax68, _0x2fcax30.colors), this.pattern = null, _0x2fcax30.pattern) {
-                var _0x2fcax2f = new Image;
-                _0x2fcax2f.onload = function() {
-                    var _0x2fcax2c = _0x2fcax2f.width,
-                        _0x2fcax1f = _0x2fcax2f.height,
-                        _0x2fcax2e = 100 / _0x2fcax2c * _0x2fcax52.maxScale * (_0x2fcax30.pattern.scale || 1),
-                        _0x2fcax1e = document.createElement('canvas');
-                    _0x2fcax1e.width = ~~(_0x2fcax2c * _0x2fcax2e), _0x2fcax1e.height = ~~(_0x2fcax1f * _0x2fcax2e), _0x2fcax1e.getContext('2d')['drawImage'](_0x2fcax2f, 0, 0, _0x2fcax1e.width, _0x2fcax1e.height), _0x2fcax31.pattern = _0x2fcax36.getContext('2d')['createPattern'](_0x2fcax1e, 'repeat');
-                    var _0x2fcax34 = 1 / _0x2fcax52.maxScale,
-                        _0x2fcax35 = _0x2fcax6a.createSVGMatrix()['scale'](_0x2fcax34, _0x2fcax34);
-                    _0x2fcax31.pattern.setTransform && _0x2fcax31.pattern.setTransform(_0x2fcax35)
-                }, _0x2fcax2f.src = _0x2fcax1f + _0x2fcax30.pattern.url
+        }, tt = document.createElementNS("http://www.w3.org/2000/svg", "svg"), et = function _0x2fcax2c(t, e, n) {
+            var i, a, s = this;
+            if (_0x2fcax2d(this, _0x2fcax2c), Object.assign(this, Q, e), this.colors = Object.assign({}, Z, e.colors),
+                this.pattern = null, e.pattern) {
+                i = new Image;
+                i.onload = function() {
+                    var n, a, o = i.width,
+                        r = i.height,
+                        c = 100 / o * C.maxScale * (e.pattern.scale || 1),
+                        l = document.createElement("canvas");
+                    l.width = ~~(o * c), l.height = ~~(r * c), l.getContext("2d").drawImage(i, 0, 0, l.width, l.height),
+                        s.pattern = t.getContext("2d").createPattern(l, "repeat");
+                    n = 1 / C.maxScale, a = tt.createSVGMatrix().scale(n, n);
+                    s.pattern.setTransform && s.pattern.setTransform(a);
+                }, i.src = n + e.pattern.url;
+            }
+            a = function(t, e) {
+                var n, i = document.createElement("canvas");
+                i.width = J, i.height = J;
+                n = i.getContext("2d");
+                return n.fillStyle = e, n.fillRect(0, 0, J, J), n.fillStyle = t, n.fillRect(J / 6, J / 6, 2 / 3 * J, 2 / 3 * J),
+                    i;
             };
-            var _0x2fcax2e = function(_0x2fcax2c, _0x2fcax1f) {
-                var _0x2fcax2e = document.createElement('canvas');
-                _0x2fcax2e.width = _0x2fcax65, _0x2fcax2e.height = _0x2fcax65;
-                var _0x2fcax1e = _0x2fcax2e.getContext('2d');
-                return _0x2fcax1e.fillStyle = _0x2fcax1f, _0x2fcax1e.fillRect(0, 0, _0x2fcax65, _0x2fcax65), _0x2fcax1e.fillStyle = _0x2fcax2c, _0x2fcax1e.fillRect(_0x2fcax65 / 6, _0x2fcax65 / 6, 2 / 3 * _0x2fcax65, 2 / 3 * _0x2fcax65), _0x2fcax2e
-            };
-            _0x2fcax30.avatar ? (this.avatar = Object.assign({}, _0x2fcax67, _0x2fcax30.avatar), this.avatar.layers = (_0x2fcax30.avatar.layers || [])['map'](function(_0x2fcax2c) {
-                var _0x2fcax36 = Object.assign({}, _0x2fcax66, _0x2fcax2c);
-                _0x2fcax36.pivot = Object.assign({
-                    x: 0.5,
-                    y: 0.5
-                }, _0x2fcax2c.pivot);
-                var _0x2fcax30 = new Image;
-                return _0x2fcax30.src = _0x2fcax1f + _0x2fcax36.url, _0x2fcax30.onload = function() {
-                    var _0x2fcax2c = _0x2fcax30.naturalWidth || _0x2fcax30.width,
-                        _0x2fcax1f = _0x2fcax30.naturalHeight || _0x2fcax30.height,
-                        _0x2fcax2e = _0x2fcax65 * _0x2fcax31.avatar.scale * _0x2fcax36.scale / _0x2fcax2c,
-                        _0x2fcax1e = ~~(_0x2fcax2c * _0x2fcax2e),
-                        _0x2fcax34 = ~~(_0x2fcax1f * _0x2fcax2e),
-                        _0x2fcax35 = document.createElement('canvas');
-                    _0x2fcax35.width = _0x2fcax1e, _0x2fcax35.height = _0x2fcax34, _0x2fcax35.getContext('2d')['drawImage'](_0x2fcax30, 0, 0, _0x2fcax1e, _0x2fcax34), _0x2fcax36.image = _0x2fcax35
-                }, _0x2fcax36
-            })) : this.avatar = Object.assign({}, _0x2fcax67, {
-                layers: [Object.assign({}, _0x2fcax66, {
-                    image: _0x2fcax2e(this.colors.back, this.colors.back)
-                }), Object.assign({}, _0x2fcax66, {
+            e.avatar ? (this.avatar = Object.assign({}, V, e.avatar), this.avatar.layers = (e.avatar.layers || []).map((function(t) {
+                var e, i = Object.assign({}, X, t);
+                i.pivot = Object.assign({
+                    x: .5,
+                    y: .5
+                }, t.pivot);
+                e = new Image;
+                return e.src = n + i.url, e.onload = function() {
+                    var t = e.naturalWidth || e.width,
+                        n = e.naturalHeight || e.height,
+                        a = J * s.avatar.scale * i.scale / t,
+                        o = ~~(t * a),
+                        r = ~~(n * a),
+                        c = document.createElement("canvas");
+                    c.width = o, c.height = r, c.getContext("2d").drawImage(e, 0, 0, o, r), i.image = c;
+                }, i;
+            }))) : this.avatar = Object.assign({}, V, {
+                layers: [Object.assign({}, X, {
+                    image: a(this.colors.back, this.colors.back)
+                }), Object.assign({}, X, {
                     level: 1,
-                    image: _0x2fcax2e(this.colors.main, this.colors.back)
+                    image: a(this.colors.main, this.colors.back)
                 })]
-            }), this.avatar.topLayers = this.avatar.layers.filter(function(_0x2fcax2c) {
-                return 1 <= _0x2fcax2c.level
-            })['sort'](function(_0x2fcax2c, _0x2fcax1f) {
-                return _0x2fcax2c.level - _0x2fcax1f.level
-            }), this.avatar.bottomLayers = this.avatar.layers.filter(function(_0x2fcax2c) {
-                return _0x2fcax2c.level < 1
-            })['sort'](function(_0x2fcax2c, _0x2fcax1f) {
-                return _0x2fcax1f.level - _0x2fcax2c.level
-            })
-        },
-        _0x2fcax6c = function() {
-            function _0x2fcax2c(_0x2fcax35) {
-                var _0x2fcax36 = this;
-                _0x2fcax2d(this, _0x2fcax2c), this.view = _0x2fcax35, this.available = [], this.used = [];
-                [0, 30, 60, 120, 175, 200, 220, 240, 260, 280, 320]['forEach'](function(_0x2fcax2c) {
-                    var _0x2fcax1f = _0x2fcax46(_0x2fcax2c, 70, 100),
-                        _0x2fcax2e = _0x2fcax46(_0x2fcax2c, 70, 95),
-                        _0x2fcax1e = _0x2fcax46(_0x2fcax2c, 70, 80),
-                        _0x2fcax34 = _0x2fcax46(_0x2fcax2c, 70, 60);
-                    _0x2fcax36.available.push(new _0x2fcax6b(_0x2fcax35, {
+            }), this.avatar.topLayers = this.avatar.layers.filter((function(t) {
+                return 1 <= t.level;
+            })).sort((function(t, e) {
+                return t.level - e.level;
+            })), this.avatar.bottomLayers = this.avatar.layers.filter((function(t) {
+                return t.level < 1;
+            })).sort((function(t, e) {
+                return e.level - t.level;
+            }));
+        }, nt = function() {
+            function _0x2fcax2c(t) {
+                var e = this;
+                _0x2fcax2d(this, _0x2fcax2c), this.view = t, this.available = [], this.used = [];
+                [0, 30, 60, 120, 175, 200, 220, 240, 260, 280, 320].forEach((function(n) {
+                    var i = g(n, 70, 100),
+                        a = g(n, 70, 95),
+                        s = g(n, 70, 80),
+                        o = g(n, 70, 60);
+                    e.available.push(new et(t, {
                         colors: {
-                            main: _0x2fcax2e,
-                            back: _0x2fcax1e,
-                            nick: _0x2fcax34,
-                            particles: [_0x2fcax1f, _0x2fcax2e, _0x2fcax1e, _0x2fcax34]
+                            main: a,
+                            back: s,
+                            nick: o,
+                            particles: [i, a, s, o]
                         }
-                    }))
-                })
+                    }));
+                }));
             }
             return _0x2fcax2f(_0x2fcax2c, [{
-                key: 'add',
-                value: function(_0x2fcax2c, _0x2fcax1f) {
-                    var _0x2fcax2e = this;
-                    _0x2fcax2c.forEach(function(_0x2fcax2c) {
-                        return _0x2fcax2e.available.push(new _0x2fcax6b(_0x2fcax2e.view, _0x2fcax2c, _0x2fcax1f))
-                    })
+                key: "add",
+                value: function(t, e) {
+                    var n = this;
+                    t.forEach((function(t) {
+                        return n.available.push(new et(n.view, t, e));
+                    }));
                 }
             }, {
-                key: 'get',
-                value: function(_0x2fcax1f, _0x2fcax2c) {
-                    'default' === _0x2fcax1f && (_0x2fcax1f = '');
-                    var _0x2fcax2e, _0x2fcax1e = this.available.length;
-                    if (!_0x2fcax1e) {
-                        throw new Error('Запас скинов исчерпан')
-                    };
-                    if (_0x2fcax1f) {
-                        _0x2fcax2e = this.available.findIndex(function(_0x2fcax2c) {
-                            return _0x2fcax2c.name === _0x2fcax1f
-                        })
-                    } else {
-                        if (_0x2fcax2c) {
-                            var _0x2fcax34 = this.available.filter(function(_0x2fcax2c) {
-                                    return _0x2fcax2c.name === _0x2fcax1f
-                                }),
-                                _0x2fcax35 = _0x2fcax34[~~(Math.random() * _0x2fcax34.length)];
-                            _0x2fcax2e = this.available.indexOf(_0x2fcax35)
-                        } else {
-                            _0x2fcax2e = ~~(Math.random() * _0x2fcax1e)
-                        }
-                    };
-                    if (0 <= _0x2fcax2e) {
-                        var _0x2fcax36 = this.available.splice(_0x2fcax2e, 1)[0];
-                        return this.used.push(_0x2fcax36), _0x2fcax36
+                key: "get",
+                value: function(t, e) {
+                    var n, i, a, s, o;
+                    "default" === t && (t = "");
+                    i = this.available.length;
+                    if (!i) throw new Error("Запас скинов исчерпан");
+                    if (t) n = this.available.findIndex((function(e) {
+                        return e.name === t;
+                    }));
+                    else if (e) {
+                        a = this.available.filter((function(e) {
+                            return e.name === t;
+                        })), s = a[~~(Math.random() * a.length)];
+                        n = this.available.indexOf(s);
+                    } else n = ~~(Math.random() * i);
+                    if (0 <= n) {
+                        o = this.available.splice(n, 1)[0];
+                        return this.used.push(o), o;
                     }
                 }
             }, {
-                key: 'release',
-                value: function(_0x2fcax2c) {
-                    var _0x2fcax1f = this.used.indexOf(_0x2fcax2c); - 1 !== _0x2fcax1f && this.used.splice(_0x2fcax1f, 1), this.available.push(_0x2fcax2c)
+                key: "release",
+                value: function(t) {
+                    var e = this.used.indexOf(t); -
+                    1 !== e && this.used.splice(e, 1), this.available.push(t);
                 }
-            }]), _0x2fcax2c
-        }(),
-        _0x2fcax6d = function() {
-            function _0x2fcax1f(_0x2fcax2c) {
+            }]), _0x2fcax2c;
+        }(), it = function() {
+            function _0x2fcax1f(t) {
                 _0x2fcax2d(this, _0x2fcax1f), this.pool = [], this.requested = !1, this.callback = function() {
-                    return _0x2fcax2c && _0x2fcax2c.prepare()
-                }
+                    return t && t.prepare();
+                };
             }
             return _0x2fcax2f(_0x2fcax1f, [{
-                key: 'get',
+                key: "get",
                 value: function() {
-                    return this.pool.shift()
+                    return this.pool.shift();
                 }
             }, {
-                key: 'request',
+                key: "request",
                 value: function() {
-                    var _0x2fcax1e = this;
+                    var t, e = this;
                     if (!this.requested) {
                         this.requested = !0;
-                        var _0x2fcax2c = 10 - this.pool.length;
-                        $['ajax']({
-                            url: 'paper2.php',
-                            method: 'POST',
+                        t = 10 - this.pool.length;
+                        $.ajax({
+                            url: "paper2.php",
+                            method: "POST",
                             data: {
-                                length: _0x2fcax2c
+                                length: t
                             },
-                            success: function(_0x2fcax2c) {
-                                _0x2fcax1e.requested = !1, _0x2fcax1e.pool = _0x2fcax1e.pool.concat(_0x2fcax2c.names), _0x2fcax1e.callback && (_0x2fcax1e.callback(), _0x2fcax1e.callback = null)
+                            success: function(t) {
+                                e.requested = !1, e.pool = e.pool.concat(t.names), e.callback && (e.callback(),
+                                    e.callback = null);
                             },
-                            error: function(_0x2fcax2c, _0x2fcax1f, _0x2fcax2e) {
-                                _0x2fcax1e.requested = !1
+                            error: function(t, n, i) {
+                                e.requested = !1;
                             }
-                        })
+                        });
                     }
                 }
-            }]), _0x2fcax1f
-        }(),
-        _0x2fcax6e = function() {
+            }]), _0x2fcax1f;
+        }(), at = function() {
             function _0x2fcax2c() {
-                _0x2fcax2d(this, _0x2fcax2c), this.mode2 = !1
+                _0x2fcax2d(this, _0x2fcax2c), this.mode2 = !1;
             }
             return _0x2fcax2f(_0x2fcax2c, [{
-                key: 'get',
+                key: "get",
                 value: function() {
-                    return 'undefined' != typeof Cookies && void(0) !== Cookies.get('paper2_keyboard_mode2') && (this.mode2 = 'true' === Cookies.get('paper2_keyboard_mode2')), this.mode2
+                    return "undefined" != typeof Cookies && void 0 !== Cookies.get("paper2_keyboard_mode2") && (this.mode2 = "true" === Cookies.get("paper2_keyboard_mode2")),
+                        this.mode2;
                 }
             }, {
-                key: 'switch',
+                key: "switch",
                 value: function() {
-                    this.mode2 = !this.mode2, 'undefined' != typeof Cookies && Cookies.set('paper2_keyboard_mode2', this.mode2)
+                    this.mode2 = !this.mode2, "undefined" != typeof Cookies && Cookies.set("paper2_keyboard_mode2", this.mode2);
                 }
-            }]), _0x2fcax2c
+            }]), _0x2fcax2c;
         }();
     if (Path2D) {
-        var _0x2fcax71 = new _0x2fcax49(2e3, 2e3, 50);
-        _0x2fcax47.space = _0x2fcax71;
-        var _0x2fcax72 = new _0x2fcax47(1e3, 1e3),
-            _0x2fcax73 = 0.95 * Math.min(_0x2fcax72.x, _0x2fcax72.y),
-            _0x2fcax74 = new _0x2fcax4d(_0x2fcax45(_0x2fcax72.x, _0x2fcax72.y, 300, _0x2fcax73), _0x2fcax73),
-            _0x2fcax75 = {},
-            _0x2fcax76 = 0,
-            _0x2fcax77 = function(_0x2fcax2c) {
-                var _0x2fcax1f = _0x2fcax2c.game,
-                    _0x2fcax2e = _0x2fcax2c.score,
-                    _0x2fcax1e = _0x2fcax2c.best,
-                    _0x2fcax34 = (_0x2fcax2c.time, _0x2fcax2c.kills, _0x2fcax2c.image, _0x2fcax2c.win);
-                _0x2fcax2c.newBest = !1, _0x2fcax1e < _0x2fcax2e && ('undefined' != typeof Cookies && Cookies.set('paper3_best', _0x2fcax2e), _0x2fcax2c.newBest = !0, _0x2fcax2c.best = _0x2fcax2e), _0x2fcax34 && (_0x2fcax76 = 0, _0x2fcax75.prepare()), _0x2fcax1f.view.style.display = 'none', _0x2fcax1f.generateParticles = !1, _0x2fcax1f.actived = !1, window.paper2_results = _0x2fcax2c, window.game_is_over_main()
-            },
-            _0x2fcax78 = ((_0x2fcax36 = document.createElement('canvas'))['style']['display'] = 'none', _0x2fcax36.style.width = '100%', _0x2fcax36.style.height = '100%', _0x2fcax36.style.position = 'absolute', _0x2fcax36.style.top = '50%', _0x2fcax36.style.left = '50%', _0x2fcax36.style.transform = 'translate(-50%, -50%)', document.body.appendChild(_0x2fcax36), _0x2fcax36),
-            _0x2fcax79 = new _0x2fcax6d(_0x2fcax75),
-            _0x2fcax7a = new _0x2fcax6c(_0x2fcax78),
-            _0x2fcax7b = new _0x2fcax6e;
-        $['ajax']({
-            url: 'skins/skins.json',
-            method: 'GET',
-            success: function(_0x2fcax2c) {
-                _0x2fcax79.request(), _0x2fcax7a.add(_0x2fcax2c, 'skins/');
-                var _0x2fcax1f, _0x2fcax35, _0x2fcax36 = new _0x2fcax64(_0x2fcax78, _0x2fcax71, _0x2fcax74, _0x2fcax7a, 10, _0x2fcax77, _0x2fcax79, _0x2fcax7b),
-                    _0x2fcax2e = !1,
-                    _0x2fcax1e = _0x2fcax52.spawnTimeout;
-                _0x2fcax52.spawnTimeout = 0, _0x2fcax75.prepare = function() {
-                    _0x2fcax1f = setInterval(function() {
-                        _0x2fcax79.pool.length && (_0x2fcax36.update(1e3 / 60 * 2 + Math.random()), ++_0x2fcax76 > _0x2fcax52.prepareCounter && clearInterval(_0x2fcax1f))
-                    }, 1e3 / 60)
-                }, _0x2fcax75.start = function() {
-                    for (_0x2fcax36.best = 'undefined' != typeof Cookies && Cookies.get('paper3_best') ? parseFloat(Cookies.get('paper3_best')) : 0, _0x2fcax36.view.style.display = 'block', _0x2fcax36.controller.keyboardModeSwitch.get(), clearInterval(_0x2fcax1f); _0x2fcax76 < _0x2fcax52.prepareCounter; _0x2fcax76++) {
-                        _0x2fcax36.update(1e3 / 60 * 2 + Math.random())
-                    };
-                    _0x2fcax52.spawnTimeout = _0x2fcax1e;
-                    _0x2fcax36.spawnPlayer('undefined' != typeof Cookies && Cookies.get('myNick'), Cookies.get('mySkin')), _0x2fcax36.generateParticles = !0, _0x2fcax36.actived = !0, _0x2fcax2e || (_0x2fcax2e = !0, _0x2fcax35 = performance.now() - 1e3 / 60, function _0x2fcax2c() {
-                        var _0x2fcax1f = performance.now(),
-                            _0x2fcax2e = _0x2fcax1f - _0x2fcax35;
-                        !_0x2fcax36.actived && 500 < _0x2fcax2e && (_0x2fcax2e = 1e3 / 60 + Math.random());
-                        for (var _0x2fcax1e = _0x2fcax2e; 0 < _0x2fcax2e;) {
-                            if (2e3 / 60 < _0x2fcax2e) {
-                                var _0x2fcax34 = Math.random() + 2e3 / 60;
-                                _0x2fcax2e - _0x2fcax34 < 1e3 / 60 && (_0x2fcax34 = Math.random() + 25), _0x2fcax2e -= _0x2fcax34, _0x2fcax36.update(_0x2fcax34)
-                            } else {
-                                _0x2fcax36.update(_0x2fcax2e), _0x2fcax2e = 0
-                            }
-                        };
-                        _0x2fcax36.actived && _0x2fcax36.render(_0x2fcax1e), _0x2fcax35 = _0x2fcax1f, requestAnimationFrame(_0x2fcax2c)
-                    }())
-                }, window.paper2 = _0x2fcax75
+        st = new w(2e3, 2e3, 50);
+        v.space = st;
+        ot = new v(1e3, 1e3), rt = .95 * Math.min(ot.x, ot.y), ct = new S(y(ot.x, ot.y, 300, rt), rt),
+            lt = {}, ht = 0, ut = function(t) {
+                var e = t.game,
+                    n = t.score,
+                    i = t.best,
+                    a = (t.time, t.kills, t.image, t.win);
+                t.newBest = !1, i < n && ("undefined" != typeof Cookies && Cookies.set("paper3_best", n),
+                        t.newBest = !0, t.best = n), a && (ht = 0, lt.prepare()), e.view.style.display = "none",
+                    e.generateParticles = !1, e.actived = !1, window.paper2_results = t, window.game_is_over_main();
+            }, ft = ((r = document.createElement("canvas")).style.display = "none", r.style.width = "100%",
+                r.style.height = "100%", r.style.position = "absolute", r.style.top = "50%", r.style.left = "50%",
+                r.style.transform = "translate(-50%, -50%)", document.body.appendChild(r), r), dt = new it(lt),
+            mt = new nt(ft), pt = new at;
+        $.ajax({
+            url: "skins/skins.json",
+            method: "GET",
+            success: function(t) {
+                dt.request(), mt.add(t, "skins/");
+                var e, n, i = new G(ft, st, ct, mt, 10, ut, dt, pt),
+                    a = !1,
+                    s = C.spawnTimeout;
+                C.spawnTimeout = 0, lt.prepare = function() {
+                    e = setInterval((function() {
+                        dt.pool.length && (i.update(1e3 / 60 * 2 + Math.random()), ++ht > C.prepareCounter && clearInterval(e));
+                    }), 1e3 / 60);
+                }, lt.start = function() {
+                    for (i.best = "undefined" != typeof Cookies && Cookies.get("paper3_best") ? parseFloat(Cookies.get("paper3_best")) : 0,
+                        i.view.style.display = "block", i.controller.keyboardModeSwitch.get(), clearInterval(e); ht < C.prepareCounter; ht++) i.update(1e3 / 60 * 2 + Math.random());
+                    C.spawnTimeout = s;
+                    i.spawnPlayer("undefined" != typeof Cookies && Cookies.get("myNick"), Cookies.get("mySkin")),
+                        i.generateParticles = !0, i.actived = !0, a || (a = !0, n = performance.now() - 1e3 / 60,
+                            function _0x2fcax2c() {
+                                var t, e, a = performance.now(),
+                                    s = a - n;
+                                !i.actived && 500 < s && (s = 1e3 / 60 + Math.random());
+                                for (t = s; 0 < s;)
+                                    if (2e3 / 60 < s) {
+                                        e = Math.random() + 2e3 / 60;
+                                        s - e < 1e3 / 60 && (e = Math.random() + 25), s -= e, i.update(e);
+                                    } else i.update(s), s = 0;
+                                i.actived && i.render(t), n = a, requestAnimationFrame(_0x2fcax2c);
+                            }());
+                }, window.paper2 = lt;
             }
-        })
-    } else {
-        window.paper2 = {
-            noSupport: !0
-        }
-    }
-}()
+        });
+    } else window.paper2 = {
+        noSupport: !0
+    };
+}();
